@@ -57,7 +57,7 @@ jobs:
         with:
           path: /home/runner/apt_repo
           key: apt-repo-${{ env.DEB_DISTRO }}-${{ env.ROS_DISTRO }}-universe-2-${{ github.sha }}
-      - uses: v4hn/ros-deb-builder-action/deploy@rosotest
+      - uses: k-okada/ros-deb-builder-action/deploy@rosotest
         if: always() # alternatively success()
         with:
           BRANCH: ${{ env.DEB_DISTRO }}-${{ env.ROS_DISTRO }}

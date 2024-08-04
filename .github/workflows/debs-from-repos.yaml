@@ -48,7 +48,7 @@ jobs:
           restore-keys: |
             ccache-${{ env.DEB_DISTRO }}-${{ env.ROS_DISTRO }}
       - name: Build packages
-        uses: v4hn/ros-deb-builder-action/build@rosotest
+        uses: k-okada/ros-deb-builder-action/build@rosotest
         timeout-minutes: 330
         with:
           ROS_DISTRO: ${{ env.ROS_DISTRO }}
