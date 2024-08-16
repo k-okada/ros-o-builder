@@ -111,3 +111,7 @@ repositories:
     type: git
     url: https://github.com/ros-o/ros_numpy
     version: obese-devel
+  catkin_virtualenv:
+    type: git
+    url: https://github.com/locusrobotics/catkin_virtualenv
+    version: 0.12.0
