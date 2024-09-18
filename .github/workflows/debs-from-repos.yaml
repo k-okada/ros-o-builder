@@ -47,6 +47,11 @@ jobs:
           key: ccache-${{ env.DEB_DISTRO }}-${{ env.ROS_DISTRO }}-${{ inputs.repos }}-${{ github.sha }}-${{ github.run_id }}
           restore-keys: |
             ccache-${{ env.DEB_DISTRO }}-${{ env.ROS_DISTRO }}
+      - name: check pip3
+        run: |
+          sudo apt install python3-pip
+          python --version
+          python -m pip install -vvv pip==22.2.2
       - name: Build packages
         uses: v4hn/ros-deb-builder-action/build@rosotest
         timeout-minutes: 330
