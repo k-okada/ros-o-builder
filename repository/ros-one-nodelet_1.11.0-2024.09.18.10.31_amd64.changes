@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Tue, 09 Jan 2024 00:00:00 -0000
+Source: ros-one-nodelet
+Binary: ros-one-nodelet
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.11.0-2024.09.18.10.31
+Distribution: jammy
+Urgency: high
+Maintainer: Geoffrey Biggs <geoff@openrobotics.org>
+Changed-By: Geoffrey Biggs <geoff@openrobotics.org>
+Description:
+ ros-one-nodelet - The nodelet package is designed to provide a way to run multiple
+Changes:
+ ros-one-nodelet (1.11.0-2024.09.18.10.31) jammy; urgency=high
+ .
+   * Don't install version.h.in (#113 <https://github.com/ros/nodelet_core/issues/113>)
+   * Fix use-after-free when a nodelet throws on initialization (#122 <https://github.com/ros/nodelet_core/issues/122>)
+   * Update package maintainers (#114 <https://github.com/ros/nodelet_core/issues/114>)
+   * Reduce boost dependency scope (#118 <https://github.com/ros/nodelet_core/issues/118>)
+   * Switch to new boost/bind/bind.hpp (#117 <https://github.com/ros/nodelet_core/issues/117>)
+   * show warning in every 10 seconds when manager is not found (#115 <https://github.com/ros/nodelet_core/issues/115>)
+   * Contributors: Geoffrey Biggs, Hugal31, Jochen Sprickerhof, Shingo Kitagawa, Stephan
+Checksums-Sha1:
+ 8c638e164cde50cf23a091db5787a3373c57693f 1848700 ros-one-nodelet-dbgsym_1.11.0-2024.09.18.10.31_amd64.ddeb
+ 0ee7d23cd99502e50207ccf6a27726704a282b90 13175 ros-one-nodelet_1.11.0-2024.09.18.10.31_amd64.buildinfo
+ 8f5dec85c14d72f91aaa44bd2ab873b1d72f9bb9 148616 ros-one-nodelet_1.11.0-2024.09.18.10.31_amd64.deb
+Checksums-Sha256:
+ 425a85fb1bf090227404cb16521b1cffeb5534a516b0b215d84f44d8925850fc 1848700 ros-one-nodelet-dbgsym_1.11.0-2024.09.18.10.31_amd64.ddeb
+ 44aa6d00435438ac1a0c80a78000e2b6243437e060639a9fa86a41586594dd3b 13175 ros-one-nodelet_1.11.0-2024.09.18.10.31_amd64.buildinfo
+ b6416c7c0279372f9990ae1fd00ab2fc550dd16d1a1738798464816da29e1b85 148616 ros-one-nodelet_1.11.0-2024.09.18.10.31_amd64.deb
+Files:
+ cfde1bdff3397f468eb09fca0f401ccf 1848700 debug optional ros-one-nodelet-dbgsym_1.11.0-2024.09.18.10.31_amd64.ddeb
+ 89b99f7713fe718f1b0b0e778f13deef 13175 misc optional ros-one-nodelet_1.11.0-2024.09.18.10.31_amd64.buildinfo
+ 4845a9a90b476d1901d4ba5d4f7f1292 148616 misc optional ros-one-nodelet_1.11.0-2024.09.18.10.31_amd64.deb

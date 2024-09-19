@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Tue, 22 Jun 2021 00:00:00 -0000
+Source: ros-one-rqt-rviz
+Binary: ros-one-rqt-rviz
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.7.0-1-gdef41cd-2024.09.18.13.41
+Distribution: jammy
+Urgency: high
+Maintainer: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Changed-By: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Description:
+ ros-one-rqt-rviz - rqt_rviz provides a GUI plugin embedding RViz.
+Changes:
+ ros-one-rqt-rviz (0.7.0-1-gdef41cd-2024.09.18.13.41) jammy; urgency=high
+ .
+   * Fixup catkin_lint issues
+   * Update maintainers
+   * Correctly update window title with context serial no
+   * Notice changes of display config file
+   * Find quit action by name
+   * Suppress rviz splash screen
+   * fix shebang line for python3 (#14 <https://github.com/ros-visualization/rqt_rviz/issues/14>)
+   * Contributors: Mikael Arguedas, Robert Haschke
+Checksums-Sha1:
+ da3d0f9fa7ba27c7d4ca36fca84a26281d4f9fd3 850082 ros-one-rqt-rviz-dbgsym_0.7.0-1-gdef41cd-2024.09.18.13.41_amd64.ddeb
+ 5b38340b9b968b5897ae9a430406e0179d04b358 28677 ros-one-rqt-rviz_0.7.0-1-gdef41cd-2024.09.18.13.41_amd64.buildinfo
+ fd0738b0f40adfc438fdf66ab4f8bad96cb2d84a 36080 ros-one-rqt-rviz_0.7.0-1-gdef41cd-2024.09.18.13.41_amd64.deb
+Checksums-Sha256:
+ b0494bc9d061f930c272696f6113bff7b69556e37ba479bec6ab3ddac130a114 850082 ros-one-rqt-rviz-dbgsym_0.7.0-1-gdef41cd-2024.09.18.13.41_amd64.ddeb
+ 5dd17a197899939289320484986c5237479cdba7868392bb0e0a22600a9807c5 28677 ros-one-rqt-rviz_0.7.0-1-gdef41cd-2024.09.18.13.41_amd64.buildinfo
+ f62da3e2efad52901e9b6ee2f536d93dae160239d55ef583783a12e53f4b40ce 36080 ros-one-rqt-rviz_0.7.0-1-gdef41cd-2024.09.18.13.41_amd64.deb
+Files:
+ 0f7c1447d2210c27e059b859e45ea722 850082 debug optional ros-one-rqt-rviz-dbgsym_0.7.0-1-gdef41cd-2024.09.18.13.41_amd64.ddeb
+ ee058be2df6b181c51a0b6a2912837db 28677 misc optional ros-one-rqt-rviz_0.7.0-1-gdef41cd-2024.09.18.13.41_amd64.buildinfo
+ 5a1524f7ba8c9adabdb85a68a854d563 36080 misc optional ros-one-rqt-rviz_0.7.0-1-gdef41cd-2024.09.18.13.41_amd64.deb

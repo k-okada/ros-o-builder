@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-pr2-controllers-msgs
+Binary: ros-one-pr2-controllers-msgs
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.10.18-3-g8e8dfa0-2024.09.18.18.24
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-controllers-msgs - Messages, services, and actions used in the pr2_controllers stack
+Changes:
+ ros-one-pr2-controllers-msgs (1.10.18-3-g8e8dfa0-2024.09.18.18.24) jammy; urgency=high
+Checksums-Sha1:
+ 2d6ccd49cef5cd675ab09b484f8d602bc2e0d87d 9621 ros-one-pr2-controllers-msgs_1.10.18-3-g8e8dfa0-2024.09.18.18.24_amd64.buildinfo
+ e239d44a583b924324d3239bdff1aaf580e27b0a 89484 ros-one-pr2-controllers-msgs_1.10.18-3-g8e8dfa0-2024.09.18.18.24_amd64.deb
+Checksums-Sha256:
+ 7eadff9bb8cffe29220f61bde17ca16415cd76921851f5795f8ca9bd366d3066 9621 ros-one-pr2-controllers-msgs_1.10.18-3-g8e8dfa0-2024.09.18.18.24_amd64.buildinfo
+ bf5fadb969df1e995044d105c687eba94e76e0f4459269f22f8f9ad1a3f87e4d 89484 ros-one-pr2-controllers-msgs_1.10.18-3-g8e8dfa0-2024.09.18.18.24_amd64.deb
+Files:
+ db6a2152686eac72d44b9c217bd39c79 9621 misc optional ros-one-pr2-controllers-msgs_1.10.18-3-g8e8dfa0-2024.09.18.18.24_amd64.buildinfo
+ e63724340bb1cfec79501be14b6aebc2 89484 misc optional ros-one-pr2-controllers-msgs_1.10.18-3-g8e8dfa0-2024.09.18.18.24_amd64.deb

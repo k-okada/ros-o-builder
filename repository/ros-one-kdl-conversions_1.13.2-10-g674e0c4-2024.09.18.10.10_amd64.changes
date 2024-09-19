@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 08 Jun 2020 00:00:00 -0000
+Source: ros-one-kdl-conversions
+Binary: ros-one-kdl-conversions
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.13.2-10-g674e0c4-2024.09.18.10.10
+Distribution: jammy
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-kdl-conversions - Conversion functions between KDL and geometry_msgs types.
+Changes:
+ ros-one-kdl-conversions (1.13.2-10-g674e0c4-2024.09.18.10.10) jammy; urgency=high
+Checksums-Sha1:
+ 9b4d9092a5d9ccf94f96075633880f2efb96a3e7 25580 ros-one-kdl-conversions-dbgsym_1.13.2-10-g674e0c4-2024.09.18.10.10_amd64.ddeb
+ 13011d05ef23df87ea966f4ed22da089a48847a2 9695 ros-one-kdl-conversions_1.13.2-10-g674e0c4-2024.09.18.10.10_amd64.buildinfo
+ 3a1e18f74ed36cb2060c8ee0b0c81c1e71ce4c23 10016 ros-one-kdl-conversions_1.13.2-10-g674e0c4-2024.09.18.10.10_amd64.deb
+Checksums-Sha256:
+ bfb0d66dfcb032361f09346f15076b9ead574d558857a5c86c8a31dcac188f45 25580 ros-one-kdl-conversions-dbgsym_1.13.2-10-g674e0c4-2024.09.18.10.10_amd64.ddeb
+ 1f1f2491e6a6440d30445548a8ca22cb9b55458c90487ac6bc2973ab9e56909a 9695 ros-one-kdl-conversions_1.13.2-10-g674e0c4-2024.09.18.10.10_amd64.buildinfo
+ 3650a5a0a4071128796871cc4cd83d84dd5d8cb3b578dc4cc0b1c16fb3f88f4c 10016 ros-one-kdl-conversions_1.13.2-10-g674e0c4-2024.09.18.10.10_amd64.deb
+Files:
+ 3294e6a593b7e6912fde7a0a4d59f753 25580 debug optional ros-one-kdl-conversions-dbgsym_1.13.2-10-g674e0c4-2024.09.18.10.10_amd64.ddeb
+ 75617c6b885aab3115c0ca23b45b6041 9695 misc optional ros-one-kdl-conversions_1.13.2-10-g674e0c4-2024.09.18.10.10_amd64.buildinfo
+ bae362df6d7e7b80e82ad0207aa35b95 10016 misc optional ros-one-kdl-conversions_1.13.2-10-g674e0c4-2024.09.18.10.10_amd64.deb

@@ -1,0 +1,10 @@
+/usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning:  is an invalid version and will not be supported in a future release
+  warnings.warn(
+/usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning:  is an invalid version and will not be supported in a future release
+  warnings.warn(
+[31m[1mCould not resolve rosdep key 'moveit_ros_perception'[0m
+[31m[1mTry to resolve the problem with rosdep and then continue.[0m
+[1m[32m==> [0m[0mGenerating debs for [36mubuntu:jammy[0m for package(s) ['jsk_pcl_ros_utils'][0m[0m
+ROS Distro index file associate with commit '4c263b00534340d0ef10cf58fe6aaac97fd2e6c7'[0m
+New ROS Distro index url: 'https://raw.githubusercontent.com/ros/rosdistro/4c263b00534340d0ef10cf58fe6aaac97fd2e6c7/index-v4.yaml'[0m
+[31m[1merror: (25, 'Inappropriate ioctl for device')[0m

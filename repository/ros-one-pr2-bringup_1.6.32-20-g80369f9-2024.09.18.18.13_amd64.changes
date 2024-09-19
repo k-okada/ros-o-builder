@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Wed, 26 May 2021 00:00:00 -0000
+Source: ros-one-pr2-bringup
+Binary: ros-one-pr2-bringup
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.6.32-20-g80369f9-2024.09.18.18.13
+Distribution: jammy
+Urgency: high
+Maintainer: Dave Feil-Seifer <dave@cse.unr.edu>
+Changed-By: Dave Feil-Seifer <dave@cse.unr.edu>
+Description:
+ ros-one-pr2-bringup - Launch files and scripts needed to bring a PR2 up into a running
+Changes:
+ ros-one-pr2-bringup (1.6.32-20-g80369f9-2024.09.18.18.13) jammy; urgency=high
+ .
+   * Merge pull request #268 <https://github.com/pr2/pr2_robot/issues/268> from k-okada/fix_for_noetic
+   * run 2to3 -w -fexcept .
+   * run 2to3 -w -fprint .
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 0b45fe1b5e7c719345cea1d399c31ed8ae92874a 12410 ros-one-pr2-bringup_1.6.32-20-g80369f9-2024.09.18.18.13_amd64.buildinfo
+ 9a64c515a833d37c4437037f9e89b014b41fb79d 17058 ros-one-pr2-bringup_1.6.32-20-g80369f9-2024.09.18.18.13_amd64.deb
+Checksums-Sha256:
+ c3622cdcfeef417fb118118dc654fbf6ad9caaa7d093249a9599492e78e2ac62 12410 ros-one-pr2-bringup_1.6.32-20-g80369f9-2024.09.18.18.13_amd64.buildinfo
+ 8ec6876fd20fc0028e53601002873ac0af951ce712bf044bedcecdbac32f125f 17058 ros-one-pr2-bringup_1.6.32-20-g80369f9-2024.09.18.18.13_amd64.deb
+Files:
+ 2b27999dc82a88592db3ee04060f47af 12410 misc optional ros-one-pr2-bringup_1.6.32-20-g80369f9-2024.09.18.18.13_amd64.buildinfo
+ 5a725c0d11280ad550060f9081364036 17058 misc optional ros-one-pr2-bringup_1.6.32-20-g80369f9-2024.09.18.18.13_amd64.deb

@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Sun, 05 Apr 2020 00:00:00 -0000
+Source: ros-one-urdf-geometry-parser
+Binary: ros-one-urdf-geometry-parser
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.1.0-6-g1d7317a-2024.09.18.17.01
+Distribution: jammy
+Urgency: high
+Maintainer: Vincent Rousseau <vincent.rousseau@irstea.fr>
+Changed-By: Vincent Rousseau <vincent.rousseau@irstea.fr>
+Description:
+ ros-one-urdf-geometry-parser - Extract geometry value of a vehicle from urdf.
+Changes:
+ ros-one-urdf-geometry-parser (0.1.0-6-g1d7317a-2024.09.18.17.01) jammy; urgency=high
+ .
+   * Remove tf2 dependency
+   * Add license
+   * Bump CMake version to avoid CMP0048 warning
+   * Cleanup CMakeLists.txt and package.xml
+   * Contributors: Bence Magyar, Matt Reynolds, Vincent Rousseau
+Checksums-Sha1:
+ cc4b18d6252cfe3360971211821ea21d31307a02 289002 ros-one-urdf-geometry-parser-dbgsym_0.1.0-6-g1d7317a-2024.09.18.17.01_amd64.ddeb
+ 1975633ec7a2fb9fe697022e1a3196110e747dfd 14553 ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2024.09.18.17.01_amd64.buildinfo
+ fec03d8581a967ed22552f80477b4abca7f9270d 22212 ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2024.09.18.17.01_amd64.deb
+Checksums-Sha256:
+ 872af3e52ca42d8ffac0dbc993838ec981733e5f17f6add899d7d6826501bbe5 289002 ros-one-urdf-geometry-parser-dbgsym_0.1.0-6-g1d7317a-2024.09.18.17.01_amd64.ddeb
+ 2ad0bff05e52dc9590347cc238a95fcaa37c8e7ecf967072bd1583b45fed8ee2 14553 ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2024.09.18.17.01_amd64.buildinfo
+ 77f41408f05376c495eae091f31343374626abdd657cde0bd589ce41991db223 22212 ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2024.09.18.17.01_amd64.deb
+Files:
+ af53b97e0c4aca38ed5968c697264d88 289002 debug optional ros-one-urdf-geometry-parser-dbgsym_0.1.0-6-g1d7317a-2024.09.18.17.01_amd64.ddeb
+ 73278f122336f921f1f464ef9664287b 14553 misc optional ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2024.09.18.17.01_amd64.buildinfo
+ 228c877dc60691744c40d72b0689c94d 22212 misc optional ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2024.09.18.17.01_amd64.deb

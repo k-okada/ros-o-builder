@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2024-09-18 17:09 ./
+drwxr-xr-x root/root         0 2024-09-18 17:09 ./opt/
+drwxr-xr-x root/root         0 2024-09-18 17:09 ./opt/ros/
+drwxr-xr-x root/root         0 2024-09-18 17:09 ./opt/ros/one/
+drwxr-xr-x root/root         0 2024-09-18 17:09 ./opt/ros/one/share/
+drwxr-xr-x root/root         0 2024-09-18 17:09 ./opt/ros/one/share/viz/
+-rw-r--r-- root/root       832 2024-09-18 14:11 ./opt/ros/one/share/viz/package.xml
+drwxr-xr-x root/root         0 2024-09-18 17:09 ./usr/
+drwxr-xr-x root/root         0 2024-09-18 17:09 ./usr/share/
+drwxr-xr-x root/root         0 2024-09-18 17:09 ./usr/share/doc/
+drwxr-xr-x root/root         0 2024-09-18 17:09 ./usr/share/doc/ros-one-viz/
+-rw-r--r-- root/root       198 2024-09-18 17:09 ./usr/share/doc/ros-one-viz/changelog.Debian.gz

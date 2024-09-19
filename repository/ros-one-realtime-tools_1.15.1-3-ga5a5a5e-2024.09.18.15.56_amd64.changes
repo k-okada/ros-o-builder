@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 06 Feb 2020 00:00:00 -0000
+Source: ros-one-realtime-tools
+Binary: ros-one-realtime-tools
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.15.1-3-ga5a5a5e-2024.09.18.15.56
+Distribution: jammy
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-realtime-tools - Contains a set of tools that can be used from a hard realtime thr
+Changes:
+ ros-one-realtime-tools (1.15.1-3-ga5a5a5e-2024.09.18.15.56) jammy; urgency=high
+ .
+   * Check whether thread joinable before joining
+   * realtime_server_goal_handle_tests needs actionlib
+   * Contributors: Maverobot, Shane Loretz
+Checksums-Sha1:
+ 42c313eb1184640ef1a8d4d18b5033b5b0670a5a 117240 ros-one-realtime-tools-dbgsym_1.15.1-3-ga5a5a5e-2024.09.18.15.56_amd64.ddeb
+ 9cc73c28fcaafa9d380901eb659d1ccf167a9242 12989 ros-one-realtime-tools_1.15.1-3-ga5a5a5e-2024.09.18.15.56_amd64.buildinfo
+ da0420a54524a4990d22016ab89bfb83089bd574 20686 ros-one-realtime-tools_1.15.1-3-ga5a5a5e-2024.09.18.15.56_amd64.deb
+Checksums-Sha256:
+ 11e3d162586e7d23b3997f3d067354037036ccae689f360b42e819ce4ed34c7e 117240 ros-one-realtime-tools-dbgsym_1.15.1-3-ga5a5a5e-2024.09.18.15.56_amd64.ddeb
+ cca4d53b87299c0c41c6d8e885bf91f96d5a55033f36aa3a6119c6e6cfd6d32a 12989 ros-one-realtime-tools_1.15.1-3-ga5a5a5e-2024.09.18.15.56_amd64.buildinfo
+ bacc983cb7ec499bdddc3c336d82c7d8af5b3cb2b3956b98c1676c783792b35d 20686 ros-one-realtime-tools_1.15.1-3-ga5a5a5e-2024.09.18.15.56_amd64.deb
+Files:
+ bc2c45d58550c7fcfd6d9486f53eb25c 117240 debug optional ros-one-realtime-tools-dbgsym_1.15.1-3-ga5a5a5e-2024.09.18.15.56_amd64.ddeb
+ ae5f284581c4bfad9cb7905cdad3a442 12989 misc optional ros-one-realtime-tools_1.15.1-3-ga5a5a5e-2024.09.18.15.56_amd64.buildinfo
+ 3a7b48e14af690409353b1de89819134 20686 misc optional ros-one-realtime-tools_1.15.1-3-ga5a5a5e-2024.09.18.15.56_amd64.deb

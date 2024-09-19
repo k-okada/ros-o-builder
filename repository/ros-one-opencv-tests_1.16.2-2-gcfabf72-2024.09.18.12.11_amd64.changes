@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 03 Oct 2022 00:00:00 -0000
+Source: ros-one-opencv-tests
+Binary: ros-one-opencv-tests
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.16.2-2-gcfabf72-2024.09.18.12.11
+Distribution: jammy
+Urgency: high
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Changed-By: Vincent Rabaud <vincent.rabaud@gmail.com>
+Description:
+ ros-one-opencv-tests - Tests the enumerants of the ROS Image message, and functionally t
+Changes:
+ ros-one-opencv-tests (1.16.2-2-gcfabf72-2024.09.18.12.11) jammy; urgency=high
+Checksums-Sha1:
+ 9f78201ca2891ac907a753831927c51d5e1e142c 7771 ros-one-opencv-tests_1.16.2-2-gcfabf72-2024.09.18.12.11_amd64.buildinfo
+ a0087414f528573aef3446fb165c75f12ac9ef51 7364 ros-one-opencv-tests_1.16.2-2-gcfabf72-2024.09.18.12.11_amd64.deb
+Checksums-Sha256:
+ 73494e6e928cab8b0f310c407702503bf5682ea3eebc0971ce58a22bd2486bfa 7771 ros-one-opencv-tests_1.16.2-2-gcfabf72-2024.09.18.12.11_amd64.buildinfo
+ 993f5dd7401c07926ef9055a4f647327cf6f5912f0c08fa96704e974ef1d4af1 7364 ros-one-opencv-tests_1.16.2-2-gcfabf72-2024.09.18.12.11_amd64.deb
+Files:
+ 1b5330cca27d58f115a48e9c19dcb5c6 7771 misc optional ros-one-opencv-tests_1.16.2-2-gcfabf72-2024.09.18.12.11_amd64.buildinfo
+ 33da259006aa5a94d8c30ad2501fa57f 7364 misc optional ros-one-opencv-tests_1.16.2-2-gcfabf72-2024.09.18.12.11_amd64.deb

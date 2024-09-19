@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2024-09-18 15:22 ./
+drwxr-xr-x root/root         0 2024-09-18 15:22 ./opt/
+drwxr-xr-x root/root         0 2024-09-18 15:22 ./opt/ros/
+drwxr-xr-x root/root         0 2024-09-18 15:22 ./opt/ros/one/
+drwxr-xr-x root/root         0 2024-09-18 15:22 ./opt/ros/one/share/
+drwxr-xr-x root/root         0 2024-09-18 15:22 ./opt/ros/one/share/laser_pipeline/
+-rw-r--r-- root/root       602 2024-09-18 14:11 ./opt/ros/one/share/laser_pipeline/package.xml
+drwxr-xr-x root/root         0 2024-09-18 15:22 ./usr/
+drwxr-xr-x root/root         0 2024-09-18 15:22 ./usr/share/
+drwxr-xr-x root/root         0 2024-09-18 15:22 ./usr/share/doc/
+drwxr-xr-x root/root         0 2024-09-18 15:22 ./usr/share/doc/ros-one-laser-pipeline/
+-rw-r--r-- root/root       204 2024-09-18 15:22 ./usr/share/doc/ros-one-laser-pipeline/changelog.Debian.gz

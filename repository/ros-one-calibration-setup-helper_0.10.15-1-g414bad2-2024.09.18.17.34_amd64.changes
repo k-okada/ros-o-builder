@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 11 May 2021 00:00:00 -0000
+Source: ros-one-calibration-setup-helper
+Binary: ros-one-calibration-setup-helper
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.10.15-1-g414bad2-2024.09.18.17.34
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <kei.okada@gmail.com>
+Changed-By: Kei Okada <kei.okada@gmail.com>
+Description:
+ ros-one-calibration-setup-helper - This package contains a script to generate calibration launch and
+Changes:
+ ros-one-calibration-setup-helper (0.10.15-1-g414bad2-2024.09.18.17.34) jammy; urgency=high
+Checksums-Sha1:
+ 911d93870fb03a191d8d0d97739c2460dbb0bc41 7838 ros-one-calibration-setup-helper_0.10.15-1-g414bad2-2024.09.18.17.34_amd64.buildinfo
+ cac3d58d882f1ef891537eb4bc3e284835ee7d48 11110 ros-one-calibration-setup-helper_0.10.15-1-g414bad2-2024.09.18.17.34_amd64.deb
+Checksums-Sha256:
+ 29db2275811f5ffb99a3d7ffade3267e02426d37d65c966462f5fc8522224484 7838 ros-one-calibration-setup-helper_0.10.15-1-g414bad2-2024.09.18.17.34_amd64.buildinfo
+ 2e51e314a7516dfaaf55a9061d29479b4781b42c81e8dd120670cd789349a6ef 11110 ros-one-calibration-setup-helper_0.10.15-1-g414bad2-2024.09.18.17.34_amd64.deb
+Files:
+ 1e3f033be36d31236bb155c2c45c8cdf 7838 misc optional ros-one-calibration-setup-helper_0.10.15-1-g414bad2-2024.09.18.17.34_amd64.buildinfo
+ f7c4e183be0292327bcce166693f890e 11110 misc optional ros-one-calibration-setup-helper_0.10.15-1-g414bad2-2024.09.18.17.34_amd64.deb

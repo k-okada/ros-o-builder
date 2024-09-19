@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2024-09-19 01:18 ./
+drwxr-xr-x root/root         0 2024-09-19 01:18 ./opt/
+drwxr-xr-x root/root         0 2024-09-19 01:18 ./opt/ros/
+drwxr-xr-x root/root         0 2024-09-19 01:18 ./opt/ros/one/
+drwxr-xr-x root/root         0 2024-09-19 01:18 ./opt/ros/one/share/
+drwxr-xr-x root/root         0 2024-09-19 01:18 ./opt/ros/one/share/ros_emacs_utils/
+-rw-r--r-- root/root       650 2024-09-18 23:25 ./opt/ros/one/share/ros_emacs_utils/package.xml
+drwxr-xr-x root/root         0 2024-09-19 01:18 ./usr/
+drwxr-xr-x root/root         0 2024-09-19 01:18 ./usr/share/
+drwxr-xr-x root/root         0 2024-09-19 01:18 ./usr/share/doc/
+drwxr-xr-x root/root         0 2024-09-19 01:18 ./usr/share/doc/ros-one-ros-emacs-utils/
+-rw-r--r-- root/root       207 2024-09-19 01:18 ./usr/share/doc/ros-one-ros-emacs-utils/changelog.Debian.gz

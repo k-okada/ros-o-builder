@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 26 May 2021 00:00:00 -0000
+Source: ros-one-pr2-robot
+Binary: ros-one-pr2-robot
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.6.32-20-g80369f9-2024.09.18.19.20
+Distribution: jammy
+Urgency: high
+Maintainer: Dave Feil-Seifer <dave@cse.unr.edu>
+Changed-By: Dave Feil-Seifer <dave@cse.unr.edu>
+Description:
+ ros-one-pr2-robot - This stack collects PR2-specific components that are used in brin
+Changes:
+ ros-one-pr2-robot (1.6.32-20-g80369f9-2024.09.18.19.20) jammy; urgency=high
+Checksums-Sha1:
+ 201444713bdebf061acd9fc956a5e7777166d646 7760 ros-one-pr2-robot_1.6.32-20-g80369f9-2024.09.18.19.20_amd64.buildinfo
+ 1d21dae9b920a386bfc4336685615efd2ae34683 1796 ros-one-pr2-robot_1.6.32-20-g80369f9-2024.09.18.19.20_amd64.deb
+Checksums-Sha256:
+ e05eca4fd1244e0997e8e62bf3c64edcc9fd5fccd37c6a4f7261bd1c4f1247a3 7760 ros-one-pr2-robot_1.6.32-20-g80369f9-2024.09.18.19.20_amd64.buildinfo
+ ef26486f9fcc41b22af80824b5e351146a94aba1df960f1cf22844b8582787fa 1796 ros-one-pr2-robot_1.6.32-20-g80369f9-2024.09.18.19.20_amd64.deb
+Files:
+ ce11f6e63027447d3f56df66507f8bdb 7760 misc optional ros-one-pr2-robot_1.6.32-20-g80369f9-2024.09.18.19.20_amd64.buildinfo
+ fc8a1acda9b4ae7fd846eea256613c2a 1796 misc optional ros-one-pr2-robot_1.6.32-20-g80369f9-2024.09.18.19.20_amd64.deb

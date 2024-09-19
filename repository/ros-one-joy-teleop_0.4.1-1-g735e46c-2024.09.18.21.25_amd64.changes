@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sun, 23 May 2021 00:00:00 -0000
+Source: ros-one-joy-teleop
+Binary: ros-one-joy-teleop
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.4.1-1-g735e46c-2024.09.18.21.25
+Distribution: jammy
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-joy-teleop - A (to be) generic joystick interface to control a robot
+Changes:
+ ros-one-joy-teleop (0.4.1-1-g735e46c-2024.09.18.21.25) jammy; urgency=high
+ .
+   * Fix missing exec_depend rosservice
+   * Contributors: Jeremie Deray
+Checksums-Sha1:
+ ac5074a09dd2cf9f40a713fb508e8cbdc3f9c02b 7760 ros-one-joy-teleop_0.4.1-1-g735e46c-2024.09.18.21.25_amd64.buildinfo
+ 76c99298e1e881de1c7bcd9658b98c535d1bf021 10040 ros-one-joy-teleop_0.4.1-1-g735e46c-2024.09.18.21.25_amd64.deb
+Checksums-Sha256:
+ c35442042bd3246287dd64fad15c32b44f87bd6723ef3bc2ea902808604bbef0 7760 ros-one-joy-teleop_0.4.1-1-g735e46c-2024.09.18.21.25_amd64.buildinfo
+ f09e743ec828d8383658cb0093001a173d09ef1cda886aa72d3b6f6d4f107f4b 10040 ros-one-joy-teleop_0.4.1-1-g735e46c-2024.09.18.21.25_amd64.deb
+Files:
+ afccdd23f59380d7d17b5ceb397f1521 7760 misc optional ros-one-joy-teleop_0.4.1-1-g735e46c-2024.09.18.21.25_amd64.buildinfo
+ a3445fbde688ad2b58487eebf30d7b5e 10040 misc optional ros-one-joy-teleop_0.4.1-1-g735e46c-2024.09.18.21.25_amd64.deb

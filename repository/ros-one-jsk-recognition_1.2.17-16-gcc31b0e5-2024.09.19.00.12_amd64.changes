@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 14 Nov 2023 00:00:00 -0000
+Source: ros-one-jsk-recognition
+Binary: ros-one-jsk-recognition
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.2.17-16-gcc31b0e5-2024.09.19.00.12
+Distribution: jammy
+Urgency: high
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Changed-By: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-recognition - Metapackage that contains recognition package for jsk-ros-pkg
+Changes:
+ ros-one-jsk-recognition (1.2.17-16-gcc31b0e5-2024.09.19.00.12) jammy; urgency=high
+Checksums-Sha1:
+ 75542fe94ce7578acfa0f13a7da401a2fa2cc24d 7794 ros-one-jsk-recognition_1.2.17-16-gcc31b0e5-2024.09.19.00.12_amd64.buildinfo
+ 637247fa57d7111167fa63271142fb363d05537a 2678 ros-one-jsk-recognition_1.2.17-16-gcc31b0e5-2024.09.19.00.12_amd64.deb
+Checksums-Sha256:
+ 8ff937923a2e3d6b6ea960850d6be0120eb365fbd4e17fa4da0f22a5bbba547e 7794 ros-one-jsk-recognition_1.2.17-16-gcc31b0e5-2024.09.19.00.12_amd64.buildinfo
+ 9c1952e208574f1cef1fcc4c84c43c59cc32e3b32d426ac808372e3f3e8e2b63 2678 ros-one-jsk-recognition_1.2.17-16-gcc31b0e5-2024.09.19.00.12_amd64.deb
+Files:
+ 23d2283323d95b0cfeb5c27e3d64e490 7794 misc optional ros-one-jsk-recognition_1.2.17-16-gcc31b0e5-2024.09.19.00.12_amd64.buildinfo
+ eb2b701eecccc1105ad9dc9472cd8729 2678 misc optional ros-one-jsk-recognition_1.2.17-16-gcc31b0e5-2024.09.19.00.12_amd64.deb

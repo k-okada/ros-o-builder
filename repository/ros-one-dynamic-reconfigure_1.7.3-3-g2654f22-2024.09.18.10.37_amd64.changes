@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 05 May 2022 00:00:00 -0000
+Source: ros-one-dynamic-reconfigure
+Binary: ros-one-dynamic-reconfigure
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.7.3-3-g2654f22-2024.09.18.10.37
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-dynamic-reconfigure - The dynamic_reconfigure package provides a means to update parame
+Changes:
+ ros-one-dynamic-reconfigure (1.7.3-3-g2654f22-2024.09.18.10.37) jammy; urgency=high
+ .
+   * Add Loader=yaml.Loader to yaml.load (#178 <https://github.com/ros/dynamic_reconfigure/issues/178>)
+   * Switch to new boost/bind/bind.hpp (#191 <https://github.com/ros/dynamic_reconfigure/issues/191>)
+   * Contributors: Charles Jenkins, Jochen Sprickerhof
+Checksums-Sha1:
+ 76de4ffca7cecc5971c2c5d57388c38e1e33c281 83416 ros-one-dynamic-reconfigure-dbgsym_1.7.3-3-g2654f22-2024.09.18.10.37_amd64.ddeb
+ 4b9edeb48cc524fc561b3397e788fe3f6ed540fb 12915 ros-one-dynamic-reconfigure_1.7.3-3-g2654f22-2024.09.18.10.37_amd64.buildinfo
+ 9867fd7845c520d9b05936c5565efa3e848f4022 100928 ros-one-dynamic-reconfigure_1.7.3-3-g2654f22-2024.09.18.10.37_amd64.deb
+Checksums-Sha256:
+ 7a43d16553b7927addae51b0aaa9fc064c51794ee81c64916e7746d7bc5ba0d7 83416 ros-one-dynamic-reconfigure-dbgsym_1.7.3-3-g2654f22-2024.09.18.10.37_amd64.ddeb
+ 1c257f373c65202d751f0061adce38a7064a72974ad751536fa7f49fefe9b211 12915 ros-one-dynamic-reconfigure_1.7.3-3-g2654f22-2024.09.18.10.37_amd64.buildinfo
+ 8e9c7df3a4a1ed0a774f3e909f322311b805e26f41a3591ccb4ced2db333a5fd 100928 ros-one-dynamic-reconfigure_1.7.3-3-g2654f22-2024.09.18.10.37_amd64.deb
+Files:
+ 41d67b79f048b687c6309b2c1bd57f4e 83416 debug optional ros-one-dynamic-reconfigure-dbgsym_1.7.3-3-g2654f22-2024.09.18.10.37_amd64.ddeb
+ c4e11b7ef3797d1a16e2d38d80d81e54 12915 misc optional ros-one-dynamic-reconfigure_1.7.3-3-g2654f22-2024.09.18.10.37_amd64.buildinfo
+ 820f003894f9998d625cd8fc16d800bb 100928 misc optional ros-one-dynamic-reconfigure_1.7.3-3-g2654f22-2024.09.18.10.37_amd64.deb

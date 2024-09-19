@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 20 May 2021 00:00:00 -0000
+Source: ros-one-pr2-power-drivers
+Binary: ros-one-pr2-power-drivers
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.1.10-5-gc7f225d-2024.09.18.19.17
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-power-drivers - Power drivers for the PR2 robot.
+Changes:
+ ros-one-pr2-power-drivers (1.1.10-5-gc7f225d-2024.09.18.19.17) jammy; urgency=high
+ .
+   * cmake changes for warnings under noetic
+   * Contributors: Dave Feil-Seifer
+Checksums-Sha1:
+ ac0025f98f21aae10dc833b666e302206bf2abd3 7796 ros-one-pr2-power-drivers_1.1.10-5-gc7f225d-2024.09.18.19.17_amd64.buildinfo
+ b5dd73da3b76410f71c7a5913d39a0949de7ec99 1712 ros-one-pr2-power-drivers_1.1.10-5-gc7f225d-2024.09.18.19.17_amd64.deb
+Checksums-Sha256:
+ 62b0a849a57d369567e7d43617cac98157b4c3219ae51201db219932ff281405 7796 ros-one-pr2-power-drivers_1.1.10-5-gc7f225d-2024.09.18.19.17_amd64.buildinfo
+ 2e0b3809f54086e8f77098924a4d70535d380d03240d3950ac4ade127fc75e12 1712 ros-one-pr2-power-drivers_1.1.10-5-gc7f225d-2024.09.18.19.17_amd64.deb
+Files:
+ 279bfc10cb2e1e1daa02b51d47b6fa4d 7796 misc optional ros-one-pr2-power-drivers_1.1.10-5-gc7f225d-2024.09.18.19.17_amd64.buildinfo
+ 5de3b3fd098a5a80311ddedc22d1e966 1712 misc optional ros-one-pr2-power-drivers_1.1.10-5-gc7f225d-2024.09.18.19.17_amd64.deb

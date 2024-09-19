@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 13 Dec 2021 00:00:00 -0000
+Source: ros-one-jsk-roseus
+Binary: ros-one-jsk-roseus
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.7.5-90-g795e764-2024.09.19.00.17
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-roseus - Metapackage that contains roseus package for jsk-ros-pkg
+Changes:
+ ros-one-jsk-roseus (1.7.5-90-g795e764-2024.09.19.00.17) jammy; urgency=high
+Checksums-Sha1:
+ 6128611435a99cfb2d6365a89f1476b1cb6b6299 7761 ros-one-jsk-roseus_1.7.5-90-g795e764-2024.09.19.00.17_amd64.buildinfo
+ 71160f0c01a8d678fc26c1c57a05ca5a0e57e1de 2504 ros-one-jsk-roseus_1.7.5-90-g795e764-2024.09.19.00.17_amd64.deb
+Checksums-Sha256:
+ 184ca54d637fba0d652b2591e9a9a779aeca06e640a5a8094147c9be55379b8b 7761 ros-one-jsk-roseus_1.7.5-90-g795e764-2024.09.19.00.17_amd64.buildinfo
+ 0bd453bd56758ab45ef797fed6603f9ff1e8fb082a1375e3c12a38194aeac5ab 2504 ros-one-jsk-roseus_1.7.5-90-g795e764-2024.09.19.00.17_amd64.deb
+Files:
+ 5b8a49bdaf2c42c6bb6b6c507616e3c2 7761 misc optional ros-one-jsk-roseus_1.7.5-90-g795e764-2024.09.19.00.17_amd64.buildinfo
+ 2d17c2d2488a1d9fefe25aa3ba238305 2504 misc optional ros-one-jsk-roseus_1.7.5-90-g795e764-2024.09.19.00.17_amd64.deb

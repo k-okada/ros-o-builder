@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Tue, 11 May 2021 00:00:00 -0000
+Source: ros-one-calibration-estimation
+Binary: ros-one-calibration-estimation
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.10.15-1-g414bad2-2024.09.18.17.32
+Distribution: jammy
+Urgency: high
+Maintainer: David Feil-Seifer <david.feilseifer@gmail.com>
+Changed-By: David Feil-Seifer <david.feilseifer@gmail.com>
+Description:
+ ros-one-calibration-estimation - Runs an optimization to estimate the a robot's kinematic paramete
+Changes:
+ ros-one-calibration-estimation (0.10.15-1-g414bad2-2024.09.18.17.32) jammy; urgency=high
+ .
+   * Merge pull request #47 <https://github.com/ros-perception/calibration/issues/47> from PR2-prime/noetic-devel
+     Noetic devel
+   * fixed test errors for python3 compatibility
+   * fixed python3 compatibility issues
+   * update maintainer for most packages; first try at setup for travis testing (#46 <https://github.com/ros-perception/calibration/issues/46>)
+   * more python3 package fixes
+   * more python3 package fixes
+   * only depend on python_orocos_kdl for python2
+   * spell exec correctly
+   * updated package.xml file for python3 dependencies
+   * Contributors: Dave Feil-Seifer
+Checksums-Sha1:
+ ff2037928ab3f4f4010849f098022d7b1cee66fb 9312 ros-one-calibration-estimation_0.10.15-1-g414bad2-2024.09.18.17.32_amd64.buildinfo
+ 987fd4fbcefc6e069e26780119113dcb9200ea55 44174 ros-one-calibration-estimation_0.10.15-1-g414bad2-2024.09.18.17.32_amd64.deb
+Checksums-Sha256:
+ feab8015b690a2b08c094a7286cac988a104e79932b2aa4046a802405d44f31f 9312 ros-one-calibration-estimation_0.10.15-1-g414bad2-2024.09.18.17.32_amd64.buildinfo
+ 6f7edb41d2d716a49a1dbaa2b7fe8c4b15870633aeef545558b3b098c3a4728c 44174 ros-one-calibration-estimation_0.10.15-1-g414bad2-2024.09.18.17.32_amd64.deb
+Files:
+ 16efd0ba2bd94e25c931a41e4cb2cbff 9312 misc optional ros-one-calibration-estimation_0.10.15-1-g414bad2-2024.09.18.17.32_amd64.buildinfo
+ b250ee88126c7b5f714171c4e2be70f8 44174 misc optional ros-one-calibration-estimation_0.10.15-1-g414bad2-2024.09.18.17.32_amd64.deb

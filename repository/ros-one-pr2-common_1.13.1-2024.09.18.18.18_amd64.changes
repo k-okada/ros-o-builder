@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 07 Sep 2022 00:00:00 -0000
+Source: ros-one-pr2-common
+Binary: ros-one-pr2-common
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.13.1-2024.09.18.18.18
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-common - URDF description of the robot kinematics and dynamics, 3D models
+Changes:
+ ros-one-pr2-common (1.13.1-2024.09.18.18.18) jammy; urgency=high
+Checksums-Sha1:
+ 3c8f65ec3c6fddb2d933c814ee52c48e5727cb49 7717 ros-one-pr2-common_1.13.1-2024.09.18.18.18_amd64.buildinfo
+ f64f97e24967322471f791b4758ed53520409ff7 2130 ros-one-pr2-common_1.13.1-2024.09.18.18.18_amd64.deb
+Checksums-Sha256:
+ 2234ad6863f24ca243ed0fa92ff772df8db72ac0c67d5c1462285413515f872a 7717 ros-one-pr2-common_1.13.1-2024.09.18.18.18_amd64.buildinfo
+ e664684441a02f5181a3b4f314cdc4c6c1ea50634b35b9709cfbf8b728cd4366 2130 ros-one-pr2-common_1.13.1-2024.09.18.18.18_amd64.deb
+Files:
+ aba13f74f64ed3a55d778d17bf008a3f 7717 misc optional ros-one-pr2-common_1.13.1-2024.09.18.18.18_amd64.buildinfo
+ ad669f50db3911e5339d64425a8f6919 2130 misc optional ros-one-pr2-common_1.13.1-2024.09.18.18.18_amd64.deb

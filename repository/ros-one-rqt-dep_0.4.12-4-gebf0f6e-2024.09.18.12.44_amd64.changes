@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 10 May 2021 00:00:00 -0000
+Source: ros-one-rqt-dep
+Binary: ros-one-rqt-dep
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.4.12-4-gebf0f6e-2024.09.18.12.44
+Distribution: jammy
+Urgency: high
+Maintainer: Ivan Paunovic <ivanpauno@ekumenlabs.com>
+Changed-By: Ivan Paunovic <ivanpauno@ekumenlabs.com>
+Description:
+ ros-one-rqt-dep - rqt_dep provides a GUI plugin for visualizing the ROS dependency
+Changes:
+ ros-one-rqt-dep (0.4.12-4-gebf0f6e-2024.09.18.12.44) jammy; urgency=high
+ .
+   * Fix rqt_dep for Noetic. (#16 <https://github.com/ros-visualization/rqt_dep/issues/16>)
+   * Contributors: Ivan Santiago Paunovic
+Checksums-Sha1:
+ c29e5691e2c9a856edd76aec847746914ee7c8a8 7809 ros-one-rqt-dep_0.4.12-4-gebf0f6e-2024.09.18.12.44_amd64.buildinfo
+ ad1f17c7105610245ec83be417501cfddf1cbb88 25514 ros-one-rqt-dep_0.4.12-4-gebf0f6e-2024.09.18.12.44_amd64.deb
+Checksums-Sha256:
+ da64641797ff45ba3d44c5c539f4c68fad36daef5fe434eb9b3d3a3283011d5b 7809 ros-one-rqt-dep_0.4.12-4-gebf0f6e-2024.09.18.12.44_amd64.buildinfo
+ 9eab8c1d9e74f0db3eb8b95784f2a76b6f9edce3e37093e7154a4bec5d5bc783 25514 ros-one-rqt-dep_0.4.12-4-gebf0f6e-2024.09.18.12.44_amd64.deb
+Files:
+ a25864a74b3039454f479ac0bd87a89c 7809 misc optional ros-one-rqt-dep_0.4.12-4-gebf0f6e-2024.09.18.12.44_amd64.buildinfo
+ 3a148a39a842862652747274167821f2 25514 misc optional ros-one-rqt-dep_0.4.12-4-gebf0f6e-2024.09.18.12.44_amd64.deb

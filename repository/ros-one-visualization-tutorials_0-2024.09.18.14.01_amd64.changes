@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 13 May 2020 00:00:00 -0000
+Source: ros-one-visualization-tutorials
+Binary: ros-one-visualization-tutorials
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0-2024.09.18.14.01
+Distribution: jammy
+Urgency: high
+Maintainer: Mabel Zhang <mabel@openrobotics.org>
+Changed-By: Mabel Zhang <mabel@openrobotics.org>
+Description:
+ ros-one-visualization-tutorials - Metapackage referencing tutorials related to rviz and visualizati
+Changes:
+ ros-one-visualization-tutorials (0-2024.09.18.14.01) jammy; urgency=high
+Checksums-Sha1:
+ 5a2d213c1e556bf1273efdaf2f4b3ba170433f7d 7762 ros-one-visualization-tutorials_0-2024.09.18.14.01_amd64.buildinfo
+ 17f3064556328b7f87d1a03da0bdbd8bd1f1e9f3 1788 ros-one-visualization-tutorials_0-2024.09.18.14.01_amd64.deb
+Checksums-Sha256:
+ 2550de7ff56744877597b62ceddf720d0cbdf79c5cf55877b15f590c8dc583d2 7762 ros-one-visualization-tutorials_0-2024.09.18.14.01_amd64.buildinfo
+ 5be1b59533335f8f07beb7158f50eb8971afa8e77c3e319fb7dc06416c36004f 1788 ros-one-visualization-tutorials_0-2024.09.18.14.01_amd64.deb
+Files:
+ f8835240ae42c68fb32f60e70245cf04 7762 misc optional ros-one-visualization-tutorials_0-2024.09.18.14.01_amd64.buildinfo
+ 6cc4b77f71decd845ac48dabde1fe857 1788 misc optional ros-one-visualization-tutorials_0-2024.09.18.14.01_amd64.deb

@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 03 May 2021 00:00:00 -0000
+Source: ros-one-ros-pytest
+Binary: ros-one-ros-pytest
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.2.1-7-gcd936a5-2024.09.19.01.20
+Distribution: jammy
+Urgency: high
+Maintainer: Alexander Rössler <alex@machinekoder.com>
+Changed-By: Alexander Rössler <alex@machinekoder.com>
+Description:
+ ros-one-ros-pytest - The ros_pytest package
+Changes:
+ ros-one-ros-pytest (0.2.1-7-gcd936a5-2024.09.19.01.20) jammy; urgency=high
+ .
+   * Merge pull request #9 <https://github.com/machinekoder/ros_pytest/issues/9> from jspricke/missing_dependencies
+     Add dependency on python-pytest-cov
+   * Contributors: Alexander Rössler, Jochen Sprickerhof
+Checksums-Sha1:
+ 386ecf4e0eaeb0b5e0153ce1aaed23621812726b 13088 ros-one-ros-pytest_0.2.1-7-gcd936a5-2024.09.19.01.20_amd64.buildinfo
+ 3a980c387297b432e0d1cf0d21e45e0f5afcb9f7 9132 ros-one-ros-pytest_0.2.1-7-gcd936a5-2024.09.19.01.20_amd64.deb
+Checksums-Sha256:
+ a554a57d82e8be5c8da6739363996a4d2e1b447e573a40d96552c16144e47b8f 13088 ros-one-ros-pytest_0.2.1-7-gcd936a5-2024.09.19.01.20_amd64.buildinfo
+ cfc78548e33501d61e1ff9d0fa1c24dfc7dabe283071f5693dadf0f2336ffec5 9132 ros-one-ros-pytest_0.2.1-7-gcd936a5-2024.09.19.01.20_amd64.deb
+Files:
+ 99ffab3d65f77788e273ea43aed1122f 13088 misc optional ros-one-ros-pytest_0.2.1-7-gcd936a5-2024.09.19.01.20_amd64.buildinfo
+ a649c217827794e5c42ef1fa986bac31 9132 misc optional ros-one-ros-pytest_0.2.1-7-gcd936a5-2024.09.19.01.20_amd64.deb

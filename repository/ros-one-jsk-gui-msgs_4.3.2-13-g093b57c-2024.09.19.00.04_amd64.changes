@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sun, 03 May 2020 00:00:00 -0000
+Source: ros-one-jsk-gui-msgs
+Binary: ros-one-jsk-gui-msgs
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 4.3.2-13-g093b57c-2024.09.19.00.04
+Distribution: jammy
+Urgency: high
+Maintainer: KazutoMurase <murase@jsk.imi.i.u-tokyo.ac.jp>
+Changed-By: KazutoMurase <murase@jsk.imi.i.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-gui-msgs - jsk_gui_msgs
+Changes:
+ ros-one-jsk-gui-msgs (4.3.2-13-g093b57c-2024.09.19.00.04) jammy; urgency=high
+Checksums-Sha1:
+ e8107ad7c8d89ac206f995a75db150ac5e433401 9450 ros-one-jsk-gui-msgs_4.3.2-13-g093b57c-2024.09.19.00.04_amd64.buildinfo
+ f3bfea6edd34ea53716b27b9096afce278820ed8 52384 ros-one-jsk-gui-msgs_4.3.2-13-g093b57c-2024.09.19.00.04_amd64.deb
+Checksums-Sha256:
+ 7303b5c5d9050c19fe4eeead9350f8f0eab808836c220b5f38141e42550edec3 9450 ros-one-jsk-gui-msgs_4.3.2-13-g093b57c-2024.09.19.00.04_amd64.buildinfo
+ e3373d27f58b3384b1a565523349c4e36f58f08927f061eeb3727f31f875dfec 52384 ros-one-jsk-gui-msgs_4.3.2-13-g093b57c-2024.09.19.00.04_amd64.deb
+Files:
+ 7b95379407c36b93a1381a97843f4eba 9450 misc optional ros-one-jsk-gui-msgs_4.3.2-13-g093b57c-2024.09.19.00.04_amd64.buildinfo
+ 4b86ace3a22b5524f9c2a1f0826ea354 52384 misc optional ros-one-jsk-gui-msgs_4.3.2-13-g093b57c-2024.09.19.00.04_amd64.deb

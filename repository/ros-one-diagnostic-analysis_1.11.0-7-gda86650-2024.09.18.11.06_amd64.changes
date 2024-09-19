@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 31 Dec 2021 00:00:00 -0000
+Source: ros-one-diagnostic-analysis
+Binary: ros-one-diagnostic-analysis
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.11.0-7-gda86650-2024.09.18.11.06
+Distribution: jammy
+Urgency: high
+Maintainer: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Changed-By: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Description:
+ ros-one-diagnostic-analysis - The diagnostic_analysis package can convert a log of diagnostics
+Changes:
+ ros-one-diagnostic-analysis (1.11.0-7-gda86650-2024.09.18.11.06) jammy; urgency=high
+ .
+   * Fix type comparison for python3 (#194 <https://github.com/ros/diagnostics/issues/194>)
+   * Contributors: Mikael Arguedas
+Checksums-Sha1:
+ 5f7fffa507117367efb84a273ace6dd4076b6ef9 14922 ros-one-diagnostic-analysis_1.11.0-7-gda86650-2024.09.18.11.06_amd64.buildinfo
+ 855eef6aa23e88e0461f823fdee24b9e9e2d6faa 13122 ros-one-diagnostic-analysis_1.11.0-7-gda86650-2024.09.18.11.06_amd64.deb
+Checksums-Sha256:
+ 0d79680faba7b7e418102035caf426fe982f28cce4ef55cdec061cae99e561a2 14922 ros-one-diagnostic-analysis_1.11.0-7-gda86650-2024.09.18.11.06_amd64.buildinfo
+ 4cdf2a8b5593852236dccc57d69a6b3439991551e49cc8651fde747c9a2dcc86 13122 ros-one-diagnostic-analysis_1.11.0-7-gda86650-2024.09.18.11.06_amd64.deb
+Files:
+ b3a490a6ea0985282026d574daee7bd9 14922 misc optional ros-one-diagnostic-analysis_1.11.0-7-gda86650-2024.09.18.11.06_amd64.buildinfo
+ 325d1e050b9052430fc70624ce6ec5d7 13122 misc optional ros-one-diagnostic-analysis_1.11.0-7-gda86650-2024.09.18.11.06_amd64.deb

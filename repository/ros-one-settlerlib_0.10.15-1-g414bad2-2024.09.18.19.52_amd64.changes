@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Tue, 11 May 2021 00:00:00 -0000
+Source: ros-one-settlerlib
+Binary: ros-one-settlerlib
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.10.15-1-g414bad2-2024.09.18.19.52
+Distribution: jammy
+Urgency: high
+Maintainer: David Feil-Seifer <david.feilseifer@gmail.com>
+Changed-By: David Feil-Seifer <david.feilseifer@gmail.com>
+Description:
+ ros-one-settlerlib - Defines helper functions and routines that greatly help when tryi
+Changes:
+ ros-one-settlerlib (0.10.15-1-g414bad2-2024.09.18.19.52) jammy; urgency=high
+ .
+   * Merge pull request #47 <https://github.com/ros-perception/calibration/issues/47> from PR2-prime/noetic-devel
+     Noetic devel
+   * fixes for compiler warnings CMP0048 and CMP0046
+   * update maintainer for most packages; first try at setup for travis testing (#46 <https://github.com/ros-perception/calibration/issues/46>)
+   * Contributors: Dave Feil-Seifer
+Checksums-Sha1:
+ c52e54f9c6b4a5060ab3e141193772bcaf5abc04 127108 ros-one-settlerlib-dbgsym_0.10.15-1-g414bad2-2024.09.18.19.52_amd64.ddeb
+ b92a13e9756367b7e92b1c00631c688d4775b202 16389 ros-one-settlerlib_0.10.15-1-g414bad2-2024.09.18.19.52_amd64.buildinfo
+ 5fbf1660a1c148d5739a5e73adbc55f6e31f5e9a 18090 ros-one-settlerlib_0.10.15-1-g414bad2-2024.09.18.19.52_amd64.deb
+Checksums-Sha256:
+ da87cd7b15ff0741b7410b5bddfee1526dcee8d1b76926c5d460307aba34b343 127108 ros-one-settlerlib-dbgsym_0.10.15-1-g414bad2-2024.09.18.19.52_amd64.ddeb
+ 8be300ada2c59d5e13a8c4412cf3c0f0a31911df140aed35ebdbcbf20bec65bf 16389 ros-one-settlerlib_0.10.15-1-g414bad2-2024.09.18.19.52_amd64.buildinfo
+ 45a2126d56cbc12502b0d92bad495e591b62214d4d7e84e85a39777dcdfeea12 18090 ros-one-settlerlib_0.10.15-1-g414bad2-2024.09.18.19.52_amd64.deb
+Files:
+ 02e193a3042c42a52ddd830e95906195 127108 debug optional ros-one-settlerlib-dbgsym_0.10.15-1-g414bad2-2024.09.18.19.52_amd64.ddeb
+ c9e993e3057daf9b992e8c8467580f17 16389 misc optional ros-one-settlerlib_0.10.15-1-g414bad2-2024.09.18.19.52_amd64.buildinfo
+ 45ad931b8b1765e97a608f2b34c585c2 18090 misc optional ros-one-settlerlib_0.10.15-1-g414bad2-2024.09.18.19.52_amd64.deb

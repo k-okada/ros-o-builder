@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 05 Mar 2021 00:00:00 -0000
+Source: ros-one-fetch-calibration
+Binary: ros-one-fetch-calibration
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.9.1-2-gd22b98f-2024.09.18.21.11
+Distribution: jammy
+Urgency: high
+Maintainer: Eric Relson <erelson@fetchrobotics.com>
+Changed-By: Eric Relson <erelson@fetchrobotics.com>
+Description:
+ ros-one-fetch-calibration - Launch and configuration files for calibrating Fetch using the 'r
+Changes:
+ ros-one-fetch-calibration (0.9.1-2-gd22b98f-2024.09.18.21.11) jammy; urgency=high
+Checksums-Sha1:
+ d28dd0568eac20a723691bc0ec93fdc0027d33d3 7795 ros-one-fetch-calibration_0.9.1-2-gd22b98f-2024.09.18.21.11_amd64.buildinfo
+ 0d40306b5fb6f334fae2364b83b42b49cf2f1810 29184 ros-one-fetch-calibration_0.9.1-2-gd22b98f-2024.09.18.21.11_amd64.deb
+Checksums-Sha256:
+ 6f6e9afd092078904098b9605bd9508c370016baa3b965f948f03b70b47ce3b5 7795 ros-one-fetch-calibration_0.9.1-2-gd22b98f-2024.09.18.21.11_amd64.buildinfo
+ c31d3ef44af5f6d49973b41c6c7e03ece3f02edc4808353b474ddcd3d88e582f 29184 ros-one-fetch-calibration_0.9.1-2-gd22b98f-2024.09.18.21.11_amd64.deb
+Files:
+ 13d82d1cf197b62d7d881fc825f72052 7795 misc optional ros-one-fetch-calibration_0.9.1-2-gd22b98f-2024.09.18.21.11_amd64.buildinfo
+ 8cb60a47f89ab6de8db1e46cec0ad633 29184 misc optional ros-one-fetch-calibration_0.9.1-2-gd22b98f-2024.09.18.21.11_amd64.deb

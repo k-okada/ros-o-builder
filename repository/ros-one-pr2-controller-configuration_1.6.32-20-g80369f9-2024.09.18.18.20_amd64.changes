@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 26 May 2021 00:00:00 -0000
+Source: ros-one-pr2-controller-configuration
+Binary: ros-one-pr2-controller-configuration
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.6.32-20-g80369f9-2024.09.18.18.20
+Distribution: jammy
+Urgency: high
+Maintainer: Dave Feil-Seifer <dave@cse.unr.edu>
+Changed-By: Dave Feil-Seifer <dave@cse.unr.edu>
+Description:
+ ros-one-pr2-controller-configuration - Configuration files for PR2 controllers.
+Changes:
+ ros-one-pr2-controller-configuration (1.6.32-20-g80369f9-2024.09.18.18.20) jammy; urgency=high
+ .
+   * add pr2_joint_group_velocity_controllers.yaml
+     add JointGroupVelocityController in pr2_controllers (see https://github.com/PR2/pr2_controllers/pull/400)
+   * Contributors: Shuang Li
+Checksums-Sha1:
+ a57df429672148b9ba6ab5eabbd52ebc3d680242 12231 ros-one-pr2-controller-configuration_1.6.32-20-g80369f9-2024.09.18.18.20_amd64.buildinfo
+ 2340c76b7c393f606bb48a7b40750c50afdc5f98 9158 ros-one-pr2-controller-configuration_1.6.32-20-g80369f9-2024.09.18.18.20_amd64.deb
+Checksums-Sha256:
+ 1f9ebbbc49d60f3f497f0038178e92a29003a61e39df37ae61f040a040f963b7 12231 ros-one-pr2-controller-configuration_1.6.32-20-g80369f9-2024.09.18.18.20_amd64.buildinfo
+ 40dde49816c82f176b0c4865c6d30d9514ca01261aeccba02deebbd8d2b7a9d8 9158 ros-one-pr2-controller-configuration_1.6.32-20-g80369f9-2024.09.18.18.20_amd64.deb
+Files:
+ 0c31e18ef9b6aade7e32ae5eb8a879f0 12231 misc optional ros-one-pr2-controller-configuration_1.6.32-20-g80369f9-2024.09.18.18.20_amd64.buildinfo
+ 85566fba93ac52832e16b30e18327776 9158 misc optional ros-one-pr2-controller-configuration_1.6.32-20-g80369f9-2024.09.18.18.20_amd64.deb

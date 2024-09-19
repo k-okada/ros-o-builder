@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2024-09-18 15:43 ./
+drwxr-xr-x root/root         0 2024-09-18 15:43 ./opt/
+drwxr-xr-x root/root         0 2024-09-18 15:43 ./opt/ros/
+drwxr-xr-x root/root         0 2024-09-18 15:43 ./opt/ros/one/
+drwxr-xr-x root/root         0 2024-09-18 15:43 ./opt/ros/one/share/
+drwxr-xr-x root/root         0 2024-09-18 15:43 ./opt/ros/one/share/perception_pcl/
+-rw-r--r-- root/root      1136 2024-09-18 14:11 ./opt/ros/one/share/perception_pcl/package.xml
+drwxr-xr-x root/root         0 2024-09-18 15:43 ./usr/
+drwxr-xr-x root/root         0 2024-09-18 15:43 ./usr/share/
+drwxr-xr-x root/root         0 2024-09-18 15:43 ./usr/share/doc/
+drwxr-xr-x root/root         0 2024-09-18 15:43 ./usr/share/doc/ros-one-perception-pcl/
+-rw-r--r-- root/root      1087 2024-09-18 15:43 ./usr/share/doc/ros-one-perception-pcl/changelog.Debian.gz

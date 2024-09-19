@@ -1,0 +1,12 @@
+drwxr-xr-x root/root         0 2024-09-18 21:30 ./
+drwxr-xr-x root/root         0 2024-09-18 21:30 ./opt/
+drwxr-xr-x root/root         0 2024-09-18 21:30 ./opt/ros/
+drwxr-xr-x root/root         0 2024-09-18 21:30 ./opt/ros/one/
+drwxr-xr-x root/root         0 2024-09-18 21:30 ./opt/ros/one/share/
+drwxr-xr-x root/root         0 2024-09-18 21:30 ./opt/ros/one/share/laser_filtering/
+-rw-r--r-- root/root       420 2024-09-18 20:46 ./opt/ros/one/share/laser_filtering/package.xml
+drwxr-xr-x root/root         0 2024-09-18 21:30 ./usr/
+drwxr-xr-x root/root         0 2024-09-18 21:30 ./usr/share/
+drwxr-xr-x root/root         0 2024-09-18 21:30 ./usr/share/doc/
+drwxr-xr-x root/root         0 2024-09-18 21:30 ./usr/share/doc/ros-one-laser-filtering/
+-rw-r--r-- root/root       204 2024-09-18 21:30 ./usr/share/doc/ros-one-laser-filtering/changelog.Debian.gz

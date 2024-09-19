@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 27 Sep 2023 00:00:00 -0000
+Source: ros-one-rosbridge-server
+Binary: ros-one-rosbridge-server
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.11.17-2024.09.19.01.37
+Distribution: jammy
+Urgency: high
+Maintainer: Russell Toris <rctoris@wpi.edu>
+Changed-By: Russell Toris <rctoris@wpi.edu>
+Description:
+ ros-one-rosbridge-server - A WebSocket interface to rosbridge.
+Changes:
+ ros-one-rosbridge-server (0.11.17-2024.09.19.01.37) jammy; urgency=high
+Checksums-Sha1:
+ 4a6c0b192bfb36ea9dc5590377fb3782e7c040bb 12391 ros-one-rosbridge-server_0.11.17-2024.09.19.01.37_amd64.buildinfo
+ 7a38eb14ed80bab6927d5902bc3e8c8f3ae223b8 33378 ros-one-rosbridge-server_0.11.17-2024.09.19.01.37_amd64.deb
+Checksums-Sha256:
+ 8506fffbc54460ba68cf8dfb93e07e1bd1a1906ffc2794565345ba3f13e2728e 12391 ros-one-rosbridge-server_0.11.17-2024.09.19.01.37_amd64.buildinfo
+ e0702045187636b6d315a9933d9c1434851db130bc5c271d7db8b57a87759f01 33378 ros-one-rosbridge-server_0.11.17-2024.09.19.01.37_amd64.deb
+Files:
+ 51e5936ff010f17e047b37c4427c950e 12391 misc optional ros-one-rosbridge-server_0.11.17-2024.09.19.01.37_amd64.buildinfo
+ 00117676f9a2f701eab3f3fe00fcc675 33378 misc optional ros-one-rosbridge-server_0.11.17-2024.09.19.01.37_amd64.deb

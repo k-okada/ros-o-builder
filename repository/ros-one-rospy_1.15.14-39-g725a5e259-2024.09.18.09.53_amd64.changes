@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 15 Feb 2023 00:00:00 -0000
+Source: ros-one-rospy
+Binary: ros-one-rospy
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.15.14-39-g725a5e259-2024.09.18.09.53
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-rospy - rospy is a pure Python client library for ROS.
+Changes:
+ ros-one-rospy (1.15.14-39-g725a5e259-2024.09.18.09.53) jammy; urgency=high
+Checksums-Sha1:
+ 461d8352f0723447300fd8876dcb81ef5bf16912 7758 ros-one-rospy_1.15.14-39-g725a5e259-2024.09.18.09.53_amd64.buildinfo
+ cc55854db09675f947685923d2669cbaf2cf4a0f 143280 ros-one-rospy_1.15.14-39-g725a5e259-2024.09.18.09.53_amd64.deb
+Checksums-Sha256:
+ 0694bc10cef2e527e50abe7ea43f03683ff896708e971206b07e9c6c3078c92a 7758 ros-one-rospy_1.15.14-39-g725a5e259-2024.09.18.09.53_amd64.buildinfo
+ 67a09b6a9518d89d2a05db7132ba92afadff1b0456031dadbf58e346b4d9f81f 143280 ros-one-rospy_1.15.14-39-g725a5e259-2024.09.18.09.53_amd64.deb
+Files:
+ fef027270d66e9ed7dac48ccfc02e6ca 7758 misc optional ros-one-rospy_1.15.14-39-g725a5e259-2024.09.18.09.53_amd64.buildinfo
+ b3af322bb8cd1a9154b7b78bfe9cae53 143280 misc optional ros-one-rospy_1.15.14-39-g725a5e259-2024.09.18.09.53_amd64.deb

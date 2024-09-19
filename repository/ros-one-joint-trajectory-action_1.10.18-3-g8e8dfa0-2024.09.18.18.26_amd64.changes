@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-joint-trajectory-action
+Binary: ros-one-joint-trajectory-action
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.10.18-3-g8e8dfa0-2024.09.18.18.26
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-joint-trajectory-action - The joint_trajectory_action is a node that exposes an action inte
+Changes:
+ ros-one-joint-trajectory-action (1.10.18-3-g8e8dfa0-2024.09.18.18.26) jammy; urgency=high
+Checksums-Sha1:
+ b498279eeb951ce95cc13ca67e21ca530f6e7691 1071294 ros-one-joint-trajectory-action-dbgsym_1.10.18-3-g8e8dfa0-2024.09.18.18.26_amd64.ddeb
+ 84ff3a727d9d59bdd8f5d785b53dbc04f17ba392 13327 ros-one-joint-trajectory-action_1.10.18-3-g8e8dfa0-2024.09.18.18.26_amd64.buildinfo
+ 1e6996f09393292279b11912ce159ee67e66a020 89172 ros-one-joint-trajectory-action_1.10.18-3-g8e8dfa0-2024.09.18.18.26_amd64.deb
+Checksums-Sha256:
+ f2b7286686ba58084e4711c12aa78a6302f995d17cbb00b5ccf47a7cee0622fb 1071294 ros-one-joint-trajectory-action-dbgsym_1.10.18-3-g8e8dfa0-2024.09.18.18.26_amd64.ddeb
+ fcae68f6cf2c3765e560456596b39ff8cb1bb9e3c76fbe8fbeb75d2dc6a6eac2 13327 ros-one-joint-trajectory-action_1.10.18-3-g8e8dfa0-2024.09.18.18.26_amd64.buildinfo
+ a6dd453cb1b98230680fd5581a7152165e8514ac70859a5142b2e125a0681965 89172 ros-one-joint-trajectory-action_1.10.18-3-g8e8dfa0-2024.09.18.18.26_amd64.deb
+Files:
+ 5ec656c377b03b9445742020ca9b9901 1071294 debug optional ros-one-joint-trajectory-action-dbgsym_1.10.18-3-g8e8dfa0-2024.09.18.18.26_amd64.ddeb
+ 32fb972f8c67038e91f466523f3038e2 13327 misc optional ros-one-joint-trajectory-action_1.10.18-3-g8e8dfa0-2024.09.18.18.26_amd64.buildinfo
+ 3501f3ef609bf0860b8f0988e74643dc 89172 misc optional ros-one-joint-trajectory-action_1.10.18-3-g8e8dfa0-2024.09.18.18.26_amd64.deb

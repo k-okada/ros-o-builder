@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 17 Jun 2024 00:00:00 -0000
+Source: ros-one-catkin-virtualenv
+Binary: ros-one-catkin-virtualenv
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.12.0-2024.09.18.17.36
+Distribution: jammy
+Urgency: high
+Maintainer: Paul Bovbel <pbovbel@locusrobotics.com>
+Changed-By: Paul Bovbel <pbovbel@locusrobotics.com>
+Description:
+ ros-one-catkin-virtualenv - Bundle python requirements in a catkin package via virtualenv.
+Changes:
+ ros-one-catkin-virtualenv (0.12.0-2024.09.18.17.36) jammy; urgency=high
+Checksums-Sha1:
+ 8ad667f4999c38135143fc275b7f56fa53de561b 7812 ros-one-catkin-virtualenv_0.12.0-2024.09.18.17.36_amd64.buildinfo
+ c537f3ac9ebb980d43068856111bdcc27977f36a 23930 ros-one-catkin-virtualenv_0.12.0-2024.09.18.17.36_amd64.deb
+Checksums-Sha256:
+ 839d464adb91a0f4d30c4b9d643e794ba9aa04c83086911d918c42d964ae901e 7812 ros-one-catkin-virtualenv_0.12.0-2024.09.18.17.36_amd64.buildinfo
+ 237de94d03eff553e0052e5b765ffb776df86b2118e0cadb27f3d33ba1bae2ea 23930 ros-one-catkin-virtualenv_0.12.0-2024.09.18.17.36_amd64.deb
+Files:
+ b532fff8e4ac9a49f5a3dfd8d8fa776d 7812 misc optional ros-one-catkin-virtualenv_0.12.0-2024.09.18.17.36_amd64.buildinfo
+ 3c74ed421b3d47b19de04dfb2e2d040e 23930 misc optional ros-one-catkin-virtualenv_0.12.0-2024.09.18.17.36_amd64.deb

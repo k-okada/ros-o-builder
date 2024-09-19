@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Jun 2021 00:00:00 -0000
+Source: ros-one-spacenav-node
+Binary: ros-one-spacenav-node
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0-2024.09.18.20.07
+Distribution: jammy
+Urgency: high
+Maintainer: Jonathan Bohren <jbo@jhu.edu>
+Changed-By: Jonathan Bohren <jbo@jhu.edu>
+Description:
+ ros-one-spacenav-node - ROS interface to the 3Dconnexion SpaceNavigator 6DOF joystick.
+Changes:
+ ros-one-spacenav-node (0-2024.09.18.20.07) jammy; urgency=high
+Checksums-Sha1:
+ d70f73f1686a44f20c90dcf5aa6704e96983f83b 278514 ros-one-spacenav-node-dbgsym_0-2024.09.18.20.07_amd64.ddeb
+ 3d837996b58a8508627c7217e6d567a14b1447fa 11403 ros-one-spacenav-node_0-2024.09.18.20.07_amd64.buildinfo
+ a0b74346a7ec28267c8be34b8b17c0b759c6df1a 23774 ros-one-spacenav-node_0-2024.09.18.20.07_amd64.deb
+Checksums-Sha256:
+ d1a07c3dd52652c0266af28135ebc5e51d54d49e440ad24cca197088089cea86 278514 ros-one-spacenav-node-dbgsym_0-2024.09.18.20.07_amd64.ddeb
+ 414ddebb42d4bd95b0cd3b490ab3cec276c96f016624a62543403b8321199cca 11403 ros-one-spacenav-node_0-2024.09.18.20.07_amd64.buildinfo
+ 59c0e966145f714bd97451a5b720651f4c46510782636ee3a381f7b75ab302c7 23774 ros-one-spacenav-node_0-2024.09.18.20.07_amd64.deb
+Files:
+ bff3fd210a074613cef19b4927acf780 278514 debug optional ros-one-spacenav-node-dbgsym_0-2024.09.18.20.07_amd64.ddeb
+ fd2a662b72eb6c0fc6a02d6243fc7794 11403 misc optional ros-one-spacenav-node_0-2024.09.18.20.07_amd64.buildinfo
+ 4ec26e9306734f4599ca971af6868d53 23774 misc optional ros-one-spacenav-node_0-2024.09.18.20.07_amd64.deb

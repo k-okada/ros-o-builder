@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 15 Feb 2023 00:00:00 -0000
+Source: ros-one-rostopic
+Binary: ros-one-rostopic
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.15.14-39-g725a5e259-2024.09.18.10.45
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-rostopic - rostopic contains the rostopic command-line tool for displaying d
+Changes:
+ ros-one-rostopic (1.15.14-39-g725a5e259-2024.09.18.10.45) jammy; urgency=high
+Checksums-Sha1:
+ 66fffb3cbf3808512513069128d36b092b72326c 12407 ros-one-rostopic_1.15.14-39-g725a5e259-2024.09.18.10.45_amd64.buildinfo
+ 5b46b3cd190ab6cf6071aa2fc0af27e156ca1e1a 48562 ros-one-rostopic_1.15.14-39-g725a5e259-2024.09.18.10.45_amd64.deb
+Checksums-Sha256:
+ 6bbddcd840253d91a974793f895b30d4de2cd8e1467a6e57babd8c729b75c4c8 12407 ros-one-rostopic_1.15.14-39-g725a5e259-2024.09.18.10.45_amd64.buildinfo
+ e0ac5b9d93e669aeffffc3cfe49ae4a9b89922e21074a9301c48ddedb7bc23b9 48562 ros-one-rostopic_1.15.14-39-g725a5e259-2024.09.18.10.45_amd64.deb
+Files:
+ 77b9e7d45749344c3396503dee8d3b7e 12407 misc optional ros-one-rostopic_1.15.14-39-g725a5e259-2024.09.18.10.45_amd64.buildinfo
+ fe8303b747541edbecc60b5f5bbdd43a 48562 misc optional ros-one-rostopic_1.15.14-39-g725a5e259-2024.09.18.10.45_amd64.deb

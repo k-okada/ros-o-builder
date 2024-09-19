@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Wed, 22 May 2024 00:00:00 -0000
+Source: ros-one-joint-state-controller
+Binary: ros-one-joint-state-controller
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.22.0-2024.09.18.16.14
+Distribution: jammy
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-joint-state-controller - Controller to publish joint state
+Changes:
+ ros-one-joint-state-controller (0.22.0-2024.09.18.16.14) jammy; urgency=high
+ .
+   * Fix uncaught exception in joint_state_controller (#630 <https://github.com/ros-controls/ros_controllers/issues/630>)
+   * add flag controlling init of last_publish_time_ (`#617 <https://github.com/ros-controls/ros_controllers/pull/617`_)
+   * Contributors: Bryan Stuurman, Robert Haschke, Dr Denis
+Checksums-Sha1:
+ 30f728a4cd0308e4c392e7b8438b036a4911871d 583578 ros-one-joint-state-controller-dbgsym_0.22.0-2024.09.18.16.14_amd64.ddeb
+ 73d4d7e0ade20ba0be0e2ebba727c27aeb0aee55 14449 ros-one-joint-state-controller_0.22.0-2024.09.18.16.14_amd64.buildinfo
+ c736deedc2ad6326e73887bc831334c60467e6f4 51610 ros-one-joint-state-controller_0.22.0-2024.09.18.16.14_amd64.deb
+Checksums-Sha256:
+ 1c100916d31d51726c77f8134a93ef3fae2855aeecafa1aa7f372c3a763a4de2 583578 ros-one-joint-state-controller-dbgsym_0.22.0-2024.09.18.16.14_amd64.ddeb
+ a65a68fadadd67aafbec3c1ccc4777d417bf21b9489e2f443333d9c0cbe1816e 14449 ros-one-joint-state-controller_0.22.0-2024.09.18.16.14_amd64.buildinfo
+ 038eb8b8d57790339e8ccf6797fa8606ef94d4c5e429506efbabbe423a5494e7 51610 ros-one-joint-state-controller_0.22.0-2024.09.18.16.14_amd64.deb
+Files:
+ 8ae8f36b3611ba58766d8ba407fec23a 583578 debug optional ros-one-joint-state-controller-dbgsym_0.22.0-2024.09.18.16.14_amd64.ddeb
+ 44456bb4c416f27ced3c4d6d5053a3e7 14449 misc optional ros-one-joint-state-controller_0.22.0-2024.09.18.16.14_amd64.buildinfo
+ 6b795aaff0b80ef8c2a6ccbd9a555c69 51610 misc optional ros-one-joint-state-controller_0.22.0-2024.09.18.16.14_amd64.deb
