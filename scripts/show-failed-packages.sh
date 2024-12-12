@@ -2,7 +2,7 @@
 
 distro=$1
 if [ -z "$distro" ]; then
-   distro=jammy
+   distro=noble
 fi
 
 REPO=https://raw.githubusercontent.com/v4hn/ros-o-builder/refs/heads/$distro-one-unstable
