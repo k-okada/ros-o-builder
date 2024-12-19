@@ -17,7 +17,10 @@ SBUILD_OPTIONS = {
 def stages(ws):
     ws = deepcopy(ws)
     while ws.repositories:
-        if "setup_files" in ws.repositories or "ros_environment" in ws.repositories:
+        if "catkin" in ws.repositories or "rosdep" in ws.repositories or "rosdistro" in ws.repositories:
+            # these two are special because they are needed for the build environment
+            stage = [ws.repositories["catkin"], ws.repositories["rosdep"], ws.repositories["rosdistro"]]
+        elif "setup_files" in ws.repositories or "ros_environment" in ws.repositories:
             # these two are special because they are needed for the build environment
             stage = [ws.repositories["setup_files"], ws.repositories["ros_environment"]]
         else:
