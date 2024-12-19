@@ -365,8 +365,8 @@ repositories:
     version: noetic-devel
   libfranka:
     type: git
-    url: https://github.com/frankaemika/libfranka.git
-    version: main
+    url: https://github.com/k-okada/libfranka.git
+    version: ros-o
   librealsense2:
     type: git
     url: https://github.com/ros-o/librealsense.git
