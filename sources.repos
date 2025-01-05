@@ -317,8 +317,8 @@ repositories:
     version: master
   jsk_common:
     type: git
-    url: https://github.com/jsk-ros-pkg/jsk_common.git
-    version: master
+    url: https://github.com/k-okada/jsk_common.git
+    version: fix_roso
   jsk_common_msgs:
     type: git
     url: https://github.com/jsk-ros-pkg/jsk_common_msgs.git
