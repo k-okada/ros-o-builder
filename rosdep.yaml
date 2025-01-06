@@ -87,16 +87,20 @@ python-slacker-cli:
 python-tabulate-pip:
   ubuntu:
     - python3-tabulate
+python-dlib:
+  ubuntu: []
+python-pytesseract-pip:
+  ubuntu: []
 
 # does not exist in ubuntu jammy yet, only added there in noble
 #python3-catkin-tools:
 #  ubuntu:
 #    - catkin-tools
 
-# these break in roseus in ubuntu jammy, so we have to rely on TORK's released catkin packages
-#euslisp:
-#  ubuntu:
-#    - euslisp-dev
-#jskeus:
-#  ubuntu:
-#    - jskeus-dev
+# use system packages, waiting for release at https://bugs.launchpad.net/ubuntu/+source/euslisp/+bug/2096808/comments/8
+euslisp:
+  ubuntu:
+    - euslisp-dev
+jskeus:
+  ubuntu:
+    - jskeus-dev
