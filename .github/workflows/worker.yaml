@@ -67,7 +67,7 @@ jobs:
           yq "$QUERY" sources.repos | tee worker-jobs.repos
           echo "extra_sbuild_conf: $OPTS"
       - name: Build packages
-        uses: k-okada/ros-deb-builder-action/build@roso-noble
+        uses: k-okada/ros-deb-builder-action/build@roso-noble-fix
         timeout-minutes: 330
         with:
           DEB_DISTRO: ${{ env.DEB_DISTRO }}
