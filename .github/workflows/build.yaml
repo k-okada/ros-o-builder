@@ -142,7 +142,7 @@ jobs:
       - name: move packages to repo
         run: |
           mv ${{ env.AGG }} /home/runner/apt_repo
-      - uses: k-okada/ros-deb-builder-action/deploy@fix_deploy
+      - uses: k-okada/ros-deb-builder-action/deploy@use_ssh
         with:
           BRANCH: ${{ env.BRANCH }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
