@@ -132,6 +132,8 @@ jobs:
     if: always() && !cancelled()
     runs-on: ubuntu-24.04
     steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
       - name: get apt packages from last job
         uses: actions/cache/restore@v4
         with:
