@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 20 May 2021 00:00:00 -0000
+Source: ros-one-pr2-arm-move-ik
+Binary: ros-one-pr2-arm-move-ik
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.0.12-5-g7f34d64-2025.02.09.10.17
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-arm-move-ik - Move the pr2 arm using inverse kinematics
+Changes:
+ ros-one-pr2-arm-move-ik (0.0.12-5-g7f34d64-2025.02.09.10.17) jammy; urgency=high
+Checksums-Sha1:
+ 25400b8a34d30bdc6d40e6d61049158530772e5b 18789 ros-one-pr2-arm-move-ik_0.0.12-5-g7f34d64-2025.02.09.10.17_amd64.buildinfo
+ e0fad33b60ee14ff4b1be17676f0f1a0f4b28692 5264 ros-one-pr2-arm-move-ik_0.0.12-5-g7f34d64-2025.02.09.10.17_amd64.deb
+Checksums-Sha256:
+ 74798da4923e7994ba97da4013d943ba6f2b215fa5065d4a8a20efd6150e9c2a 18789 ros-one-pr2-arm-move-ik_0.0.12-5-g7f34d64-2025.02.09.10.17_amd64.buildinfo
+ 0f561076c6e8269686674c246ee1affc21991421e0c00b00ac472547bd72d86d 5264 ros-one-pr2-arm-move-ik_0.0.12-5-g7f34d64-2025.02.09.10.17_amd64.deb
+Files:
+ d468cb513eedbb6966618c35ee4ad1a7 18789 misc optional ros-one-pr2-arm-move-ik_0.0.12-5-g7f34d64-2025.02.09.10.17_amd64.buildinfo
+ 0a1ea76dd00bbc093f77442b1ac103af 5264 misc optional ros-one-pr2-arm-move-ik_0.0.12-5-g7f34d64-2025.02.09.10.17_amd64.deb

@@ -1,0 +1,40 @@
+Format: 1.8
+Date: Wed, 18 May 2022 00:00:00 -0000
+Source: ros-one-pr2-navigation-self-filter
+Binary: ros-one-pr2-navigation-self-filter
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.2.0-4-gb917a3f-2025.02.09.12.44
+Distribution: jammy
+Urgency: high
+Maintainer: David Feil-Seifer <dave@cse.unr.edu>
+Changed-By: David Feil-Seifer <dave@cse.unr.edu>
+Description:
+ ros-one-pr2-navigation-self-filter - Filters the robot's body out of point clouds.
+Changes:
+ ros-one-pr2-navigation-self-filter (0.2.0-4-gb917a3f-2025.02.09.12.44) jammy; urgency=high
+ .
+   * fix build in noetic (#44 <https://github.com/pr2/pr2_navigation/issues/44>)
+     I'm not claiming that any of these packages work as they should on
+     noetic. Claiming they worked on kinetic might be a stretch.
+   * fixed CMake files for compile in kinetic (#38 <https://github.com/pr2/pr2_navigation/issues/38>)
+ .
+       * updated pr2_navigation_self_filter to fix unstable build warning with c++11 arg to gcc
+       * updated CMakeLists.txt to fix CMake warnings and compile warnigns causing unstable build:
+         * removed eigen dependency from semantic_point_aggregator
+         * added c++11 compile option to pr2_navigation_self_filter
+ .
+   * updated maintainer
+   * Contributors: David Feil-Seifer, Michael Görner
+Checksums-Sha1:
+ 2e3e9869e6d7427197faa8df19ce0e7b1c0de9c4 3654060 ros-one-pr2-navigation-self-filter-dbgsym_0.2.0-4-gb917a3f-2025.02.09.12.44_amd64.ddeb
+ 41d608f430ef8e7a1e8d50fa53cd872afb2b136f 38967 ros-one-pr2-navigation-self-filter_0.2.0-4-gb917a3f-2025.02.09.12.44_amd64.buildinfo
+ 816970856d5c475c2514d343af47101dbe3eea8c 188566 ros-one-pr2-navigation-self-filter_0.2.0-4-gb917a3f-2025.02.09.12.44_amd64.deb
+Checksums-Sha256:
+ f2bbb137eab0e2bd15089cf4bef1307e067fc4f739194469b2791d82a3c4f610 3654060 ros-one-pr2-navigation-self-filter-dbgsym_0.2.0-4-gb917a3f-2025.02.09.12.44_amd64.ddeb
+ d75e9c835ecc2ef54c2651b5a48ebf7a81f5aa395b460f034247320cb9246f54 38967 ros-one-pr2-navigation-self-filter_0.2.0-4-gb917a3f-2025.02.09.12.44_amd64.buildinfo
+ ed6f539f87ce4dba40ac194ae7b43b67b501f49bfb0645f63bdeb005fc9ad6c7 188566 ros-one-pr2-navigation-self-filter_0.2.0-4-gb917a3f-2025.02.09.12.44_amd64.deb
+Files:
+ 4ef0124ddb74c8091aef2e5b44da262f 3654060 debug optional ros-one-pr2-navigation-self-filter-dbgsym_0.2.0-4-gb917a3f-2025.02.09.12.44_amd64.ddeb
+ ec1370b8590737b52dc8f0f47a9278f4 38967 misc optional ros-one-pr2-navigation-self-filter_0.2.0-4-gb917a3f-2025.02.09.12.44_amd64.buildinfo
+ 10b286d4a009d5d3870a011233cfea47 188566 misc optional ros-one-pr2-navigation-self-filter_0.2.0-4-gb917a3f-2025.02.09.12.44_amd64.deb

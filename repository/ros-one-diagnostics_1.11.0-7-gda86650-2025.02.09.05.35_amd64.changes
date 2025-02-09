@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 31 Dec 2021 00:00:00 -0000
+Source: ros-one-diagnostics
+Binary: ros-one-diagnostics
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.11.0-7-gda86650-2025.02.09.05.35
+Distribution: jammy
+Urgency: high
+Maintainer: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Changed-By: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Description:
+ ros-one-diagnostics - diagnostics
+Changes:
+ ros-one-diagnostics (1.11.0-7-gda86650-2025.02.09.05.35) jammy; urgency=high
+Checksums-Sha1:
+ 2039049145c88e05fca1879fa95af92ed8991da9 8180 ros-one-diagnostics_1.11.0-7-gda86650-2025.02.09.05.35_amd64.buildinfo
+ 87a89a56948ac413260b86045fb21d9effca75ff 2484 ros-one-diagnostics_1.11.0-7-gda86650-2025.02.09.05.35_amd64.deb
+Checksums-Sha256:
+ b6b4d99e99731f3b686728bb086c15c647245d35b66cd4d29461dd2e95b6c0b1 8180 ros-one-diagnostics_1.11.0-7-gda86650-2025.02.09.05.35_amd64.buildinfo
+ 15c14688c8b5b8cd140ba20bc93a1ddf304d208c777ca0b6641da8b000fbd4be 2484 ros-one-diagnostics_1.11.0-7-gda86650-2025.02.09.05.35_amd64.deb
+Files:
+ a8cd8e2579b9f9fe3f0f2352072a9a29 8180 misc optional ros-one-diagnostics_1.11.0-7-gda86650-2025.02.09.05.35_amd64.buildinfo
+ ec01e601af712c5f6d954f342ba056b2 2484 misc optional ros-one-diagnostics_1.11.0-7-gda86650-2025.02.09.05.35_amd64.deb

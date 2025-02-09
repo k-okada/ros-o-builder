@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-ffha
+Binary: ros-one-ffha
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.29-6-g5b37f2c7-2025.02.09.12.35
+Distribution: jammy
+Urgency: high
+Maintainer: Yohei Kakiuchi <youhei@jsk.t.u-tokyo.ac.jp>
+Changed-By: Yohei Kakiuchi <youhei@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-ffha - ffha: PDDL Planner (http://ipc.informatik.uni-freiburg.de)
+Changes:
+ ros-one-ffha (2.1.29-6-g5b37f2c7-2025.02.09.12.35) jammy; urgency=high
+ .
+   * Support ros-o / Ubuntu 22.04 (#512 <https://github.com/jsk-ros-pkg/jsk_3rdparty/issues/512>)
+ .
+       * [ffha] relax linker. allow function duplication
+ .
+   * Contributors: Yoshiki Obinata
+Checksums-Sha1:
+ 183bf8f616a7c540d715fb5a6b9d1f8cca29ff79 377874 ros-one-ffha-dbgsym_2.1.29-6-g5b37f2c7-2025.02.09.12.35_amd64.ddeb
+ 3aa6ba9596a4c37d5a6bd4c74eb4940ce56535eb 11520 ros-one-ffha_2.1.29-6-g5b37f2c7-2025.02.09.12.35_amd64.buildinfo
+ 269b6caf1957e56ef77afa1d55b664c478f9ffa8 168886 ros-one-ffha_2.1.29-6-g5b37f2c7-2025.02.09.12.35_amd64.deb
+Checksums-Sha256:
+ 4ce780c02e246317fece0af9df0c4abe45d08d8285654e923d268c6772ac9f53 377874 ros-one-ffha-dbgsym_2.1.29-6-g5b37f2c7-2025.02.09.12.35_amd64.ddeb
+ fb8577e2058a522dd9b29af2dce4092342dac0a246bca9b1a21a099786e4f408 11520 ros-one-ffha_2.1.29-6-g5b37f2c7-2025.02.09.12.35_amd64.buildinfo
+ a755e3a3c47628a128dc022ae812497156687248c864012fa644a6396b1aaaae 168886 ros-one-ffha_2.1.29-6-g5b37f2c7-2025.02.09.12.35_amd64.deb
+Files:
+ ce636325f842aaaeb53f3fbb5dfcf1b2 377874 debug optional ros-one-ffha-dbgsym_2.1.29-6-g5b37f2c7-2025.02.09.12.35_amd64.ddeb
+ fa0482e8c403812cc31853d8356cc2b8 11520 misc optional ros-one-ffha_2.1.29-6-g5b37f2c7-2025.02.09.12.35_amd64.buildinfo
+ b3956af34d42338cb130ef635f132a44 168886 misc optional ros-one-ffha_2.1.29-6-g5b37f2c7-2025.02.09.12.35_amd64.deb

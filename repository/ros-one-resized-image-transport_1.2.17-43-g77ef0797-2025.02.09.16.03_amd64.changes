@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 14 Nov 2023 00:00:00 -0000
+Source: ros-one-resized-image-transport
+Binary: ros-one-resized-image-transport
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.2.17-43-g77ef0797-2025.02.09.16.03
+Distribution: jammy
+Urgency: high
+Maintainer: Yohei Kakiuchi <youhei@jsk.t.u-tokyo.ac.jp>
+Changed-By: Yohei Kakiuchi <youhei@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-resized-image-transport - ROS nodes to publish resized images.
+Changes:
+ ros-one-resized-image-transport (1.2.17-43-g77ef0797-2025.02.09.16.03) jammy; urgency=high
+Checksums-Sha1:
+ c9cdb8d642efb94ea5e4fe1133b078e3b4430d74 2693718 ros-one-resized-image-transport-dbgsym_1.2.17-43-g77ef0797-2025.02.09.16.03_amd64.ddeb
+ 65549ae6308fa96c8e912771c1c667bd9c1597a2 36347 ros-one-resized-image-transport_1.2.17-43-g77ef0797-2025.02.09.16.03_amd64.buildinfo
+ 3424b6ed41e464e5379214d39220cd9f317994d5 147618 ros-one-resized-image-transport_1.2.17-43-g77ef0797-2025.02.09.16.03_amd64.deb
+Checksums-Sha256:
+ 9b0128af3737c31f7bc213e630cfcb03fcd84b5c044109d764f3a211fc9d2a4a 2693718 ros-one-resized-image-transport-dbgsym_1.2.17-43-g77ef0797-2025.02.09.16.03_amd64.ddeb
+ cc0c579a10b31771f6ddff3d7cb6b0a026574f5fd77c7811aa5854eff50edf1a 36347 ros-one-resized-image-transport_1.2.17-43-g77ef0797-2025.02.09.16.03_amd64.buildinfo
+ 7696f2a5241d54a32d90c4dcd1656aebb6af008870954f0c0f80ce2bac1f8df5 147618 ros-one-resized-image-transport_1.2.17-43-g77ef0797-2025.02.09.16.03_amd64.deb
+Files:
+ 21193ea2fc6a555f508b23c5c1ddbc60 2693718 debug optional ros-one-resized-image-transport-dbgsym_1.2.17-43-g77ef0797-2025.02.09.16.03_amd64.ddeb
+ a0efcd74b3c51f83504a07f59bd9a679 36347 misc optional ros-one-resized-image-transport_1.2.17-43-g77ef0797-2025.02.09.16.03_amd64.buildinfo
+ e14f68e262d0bb06894dbe200003bd30 147618 misc optional ros-one-resized-image-transport_1.2.17-43-g77ef0797-2025.02.09.16.03_amd64.deb

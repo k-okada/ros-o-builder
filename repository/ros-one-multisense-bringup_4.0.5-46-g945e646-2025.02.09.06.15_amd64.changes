@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 03 Aug 2020 00:00:00 -0000
+Source: ros-one-multisense-bringup
+Binary: ros-one-multisense-bringup
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 4.0.5-46-g945e646-2025.02.09.06.15
+Distribution: jammy
+Urgency: high
+Maintainer: Carnegie Robotics <support@carnegierobotics.com>
+Changed-By: Carnegie Robotics <support@carnegierobotics.com>
+Description:
+ ros-one-multisense-bringup - multisense_bringup
+Changes:
+ ros-one-multisense-bringup (4.0.5-46-g945e646-2025.02.09.06.15) jammy; urgency=high
+ .
+   * Update for OpenCV 4.2, and updated launch file for ROS Noetic compatibility (#4 <https://github.com/QuentinTorg/multisense_ros/issues/4>)
+   * Contributors: Quentin Torgerson
+Checksums-Sha1:
+ 518593c0c890bc6c70680d632bfe1a1658132603 33595 ros-one-multisense-bringup_4.0.5-46-g945e646-2025.02.09.06.15_amd64.buildinfo
+ 3b51098f16976e218c653560fa1e327eaf615cc6 9966 ros-one-multisense-bringup_4.0.5-46-g945e646-2025.02.09.06.15_amd64.deb
+Checksums-Sha256:
+ cbc879214ba8e7141688b25e2e7e7041ebbbed7f3f7ee52bf0ddaf6ddbfd267f 33595 ros-one-multisense-bringup_4.0.5-46-g945e646-2025.02.09.06.15_amd64.buildinfo
+ 148e38b7a7cb1824a5c7d688f21ebad33e58580631fd3b446ac5ec22e798e7b1 9966 ros-one-multisense-bringup_4.0.5-46-g945e646-2025.02.09.06.15_amd64.deb
+Files:
+ 273418ffea5e98231845123b381fe6cc 33595 misc optional ros-one-multisense-bringup_4.0.5-46-g945e646-2025.02.09.06.15_amd64.buildinfo
+ 999aabb47c6c3a5d9ea25d3288172470 9966 misc optional ros-one-multisense-bringup_4.0.5-46-g945e646-2025.02.09.06.15_amd64.deb

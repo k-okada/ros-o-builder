@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros-occupancy-map-monitor
+Binary: ros-one-moveit-ros-occupancy-map-monitor
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-31-g7bc8da05d-2025.02.09.08.12
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-ros-occupancy-map-monitor - Components of MoveIt connecting to occupancy map
+Changes:
+ ros-one-moveit-ros-occupancy-map-monitor (1.1.16-31-g7bc8da05d-2025.02.09.08.12) jammy; urgency=high
+Checksums-Sha1:
+ 0d41a95a7b3ae2e5e7770c4b3233f70790d0ef3c 2221586 ros-one-moveit-ros-occupancy-map-monitor-dbgsym_1.1.16-31-g7bc8da05d-2025.02.09.08.12_amd64.ddeb
+ 99f18a3324d01bac8d76f24661cf15e1010de3ff 22769 ros-one-moveit-ros-occupancy-map-monitor_1.1.16-31-g7bc8da05d-2025.02.09.08.12_amd64.buildinfo
+ 61054941a8114a4421f95e17b9fb55237116161a 134766 ros-one-moveit-ros-occupancy-map-monitor_1.1.16-31-g7bc8da05d-2025.02.09.08.12_amd64.deb
+Checksums-Sha256:
+ f6a4eed0a287c8d00ea03ccc400648998e4e8e3e7c2ebebcedab5defd3fde84a 2221586 ros-one-moveit-ros-occupancy-map-monitor-dbgsym_1.1.16-31-g7bc8da05d-2025.02.09.08.12_amd64.ddeb
+ b334f8988021a8436a21607972b9107e35f56142fe41de6d383ef343061c7bc4 22769 ros-one-moveit-ros-occupancy-map-monitor_1.1.16-31-g7bc8da05d-2025.02.09.08.12_amd64.buildinfo
+ 1182a5267a1c491834c96c561a7cab91794d0c4b97cfd46e5af8a9fa6cf656e9 134766 ros-one-moveit-ros-occupancy-map-monitor_1.1.16-31-g7bc8da05d-2025.02.09.08.12_amd64.deb
+Files:
+ a9c0e1cc411826393cfbf91d2958959e 2221586 debug optional ros-one-moveit-ros-occupancy-map-monitor-dbgsym_1.1.16-31-g7bc8da05d-2025.02.09.08.12_amd64.ddeb
+ 3ebd2b7d958f60e2e2f5233a55bf4263 22769 misc optional ros-one-moveit-ros-occupancy-map-monitor_1.1.16-31-g7bc8da05d-2025.02.09.08.12_amd64.buildinfo
+ ad1e730e4e6dbf08a03a9a97e11e742b 134766 misc optional ros-one-moveit-ros-occupancy-map-monitor_1.1.16-31-g7bc8da05d-2025.02.09.08.12_amd64.deb

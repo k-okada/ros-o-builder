@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Mon, 06 Mar 2023 00:00:00 -0000
+Source: ros-one-moveit-task-constructor-demo
+Binary: ros-one-moveit-task-constructor-demo
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1-0.1.3-120-g9ea1692-2025.02.09.10.33
+Distribution: jammy
+Urgency: high
+Maintainer: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Changed-By: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Description:
+ ros-one-moveit-task-constructor-demo - demo tasks illustrating various capabilities of MTC.
+Changes:
+ ros-one-moveit-task-constructor-demo (1-0.1.3-120-g9ea1692-2025.02.09.10.33) jammy; urgency=high
+ .
+   * Use const reference instead of reference for ros::NodeHandle (#437 <https://github.com/ros-planning/moveit_task_constructor/issues/437>)
+   * Contributors: Robert Haschke
+Checksums-Sha1:
+ e1454aed495b9481cf34e427a2ec69e47c9550dd 11719032 ros-one-moveit-task-constructor-demo-dbgsym_1-0.1.3-120-g9ea1692-2025.02.09.10.33_amd64.ddeb
+ 0a12f9352988c4dbb051b5205c68836867db266d 27416 ros-one-moveit-task-constructor-demo_1-0.1.3-120-g9ea1692-2025.02.09.10.33_amd64.buildinfo
+ 803576f59506c57708d673c4e9bb7d11548699c3 90586 ros-one-moveit-task-constructor-demo_1-0.1.3-120-g9ea1692-2025.02.09.10.33_amd64.deb
+Checksums-Sha256:
+ 4a15bb411b49d467d386d1d2f7c9d5dceb582aae78b4bb0dcab1d7635636f525 11719032 ros-one-moveit-task-constructor-demo-dbgsym_1-0.1.3-120-g9ea1692-2025.02.09.10.33_amd64.ddeb
+ 03c97c25451ff87fa428e9dbb39c4df55ccc24f381e6a23cdc1f990019276083 27416 ros-one-moveit-task-constructor-demo_1-0.1.3-120-g9ea1692-2025.02.09.10.33_amd64.buildinfo
+ 4926b989d531d4255b9f91e6752bccf5486a76f2d18595a6aa13c9a1a9643eb1 90586 ros-one-moveit-task-constructor-demo_1-0.1.3-120-g9ea1692-2025.02.09.10.33_amd64.deb
+Files:
+ 5ceeaad31558f661bce647d588d1c4f5 11719032 debug optional ros-one-moveit-task-constructor-demo-dbgsym_1-0.1.3-120-g9ea1692-2025.02.09.10.33_amd64.ddeb
+ 8cd79558eda85e81bd40100508fa3906 27416 misc optional ros-one-moveit-task-constructor-demo_1-0.1.3-120-g9ea1692-2025.02.09.10.33_amd64.buildinfo
+ f6611360756b1d3dfa116b3835969f2c 90586 misc optional ros-one-moveit-task-constructor-demo_1-0.1.3-120-g9ea1692-2025.02.09.10.33_amd64.deb

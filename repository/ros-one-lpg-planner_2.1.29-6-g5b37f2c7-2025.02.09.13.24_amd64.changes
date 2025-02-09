@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-lpg-planner
+Binary: ros-one-lpg-planner
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.29-6-g5b37f2c7-2025.02.09.13.24
+Distribution: jammy
+Urgency: high
+Maintainer: Hitoshi Kamada <h-kamada@jsk.imi.i.u-tokyo.ac.jp>
+Changed-By: Hitoshi Kamada <h-kamada@jsk.imi.i.u-tokyo.ac.jp>
+Description:
+ ros-one-lpg-planner - lpg_planner: LPGL Planner (http://zeus.ing.unibs.it/lpg/)
+Changes:
+ ros-one-lpg-planner (2.1.29-6-g5b37f2c7-2025.02.09.13.24) jammy; urgency=high
+Checksums-Sha1:
+ 8134abc94deb3d4c133331e213475e3a28ae5672 11026 ros-one-lpg-planner_2.1.29-6-g5b37f2c7-2025.02.09.13.24_amd64.buildinfo
+ ad1a74c5f8642dcec2f2fed7bfc219f3a59d5e8c 173044 ros-one-lpg-planner_2.1.29-6-g5b37f2c7-2025.02.09.13.24_amd64.deb
+Checksums-Sha256:
+ 182928307c8b8401c061a3fba5294fdb771020c45754c59f627f27e58f2aaba5 11026 ros-one-lpg-planner_2.1.29-6-g5b37f2c7-2025.02.09.13.24_amd64.buildinfo
+ 5cbbbe61d2345ab3b5d51a4f139495a7e58c4222471b85d337857643c09eb403 173044 ros-one-lpg-planner_2.1.29-6-g5b37f2c7-2025.02.09.13.24_amd64.deb
+Files:
+ a2914f6c1a457c3bf017d0d040f56259 11026 misc optional ros-one-lpg-planner_2.1.29-6-g5b37f2c7-2025.02.09.13.24_amd64.buildinfo
+ abbf318c58f1f01db2275c83e7bf0e45 173044 misc optional ros-one-lpg-planner_2.1.29-6-g5b37f2c7-2025.02.09.13.24_amd64.deb

@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-collada-urdf-jsk-patch
+Binary: ros-one-collada-urdf-jsk-patch
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.29-6-g5b37f2c7-2025.02.09.12.13
+Distribution: jammy
+Urgency: high
+Maintainer: Yohei Kakiuchi <youhei@jsk.t.u-tokyo.ac.jp>
+Changed-By: Yohei Kakiuchi <youhei@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-collada-urdf-jsk-patch - unaccepted patch for collada_urdf
+Changes:
+ ros-one-collada-urdf-jsk-patch (2.1.29-6-g5b37f2c7-2025.02.09.12.13) jammy; urgency=high
+ .
+   * Support ros-o / Ubuntu 22.04 (#512 <https://github.com/jsk-ros-pkg/jsk_3rdparty/issues/512>)
+ .
+       * [collada_urdf_jsk_patch] [ros-o] add CATKIN_IGNORE only when ROS-O, use STREQUAL to compare ROS_DISTRO in cmake
+       * [collada_urdf_jsk_patch] [ros-o] ignore it because no longer needed
+ .
+   * Contributors: Yoshiki Obinata
+Checksums-Sha1:
+ 702843e3ebbbb202fb3a381ea19ae36160142fb4 25528 ros-one-collada-urdf-jsk-patch_2.1.29-6-g5b37f2c7-2025.02.09.12.13_amd64.buildinfo
+ c5ad45e982b603bd03f4715aacc7031f4fb095c5 5792 ros-one-collada-urdf-jsk-patch_2.1.29-6-g5b37f2c7-2025.02.09.12.13_amd64.deb
+Checksums-Sha256:
+ 3c0251f734df114b7ae905d13716676e3d1b21a9903f2bd692aa26a68befe351 25528 ros-one-collada-urdf-jsk-patch_2.1.29-6-g5b37f2c7-2025.02.09.12.13_amd64.buildinfo
+ cd350a30b3f82b1ad185d84086557ccec8ff514c93f4634bf929b0c4619d4c9b 5792 ros-one-collada-urdf-jsk-patch_2.1.29-6-g5b37f2c7-2025.02.09.12.13_amd64.deb
+Files:
+ 4cbb94c55963070e36ba82ca9cb858b6 25528 misc optional ros-one-collada-urdf-jsk-patch_2.1.29-6-g5b37f2c7-2025.02.09.12.13_amd64.buildinfo
+ 725290e0413e6a1b56f8a4f10d6b018a 5792 misc optional ros-one-collada-urdf-jsk-patch_2.1.29-6-g5b37f2c7-2025.02.09.12.13_amd64.deb

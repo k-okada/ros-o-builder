@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 27 Oct 2023 00:00:00 -0000
+Source: ros-one-controller-manager-msgs
+Binary: ros-one-controller-manager-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.20.0-1-g633c374-2025.02.09.05.25
+Distribution: jammy
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-controller-manager-msgs - Messages and services for the controller manager.
+Changes:
+ ros-one-controller-manager-msgs (0.20.0-1-g633c374-2025.02.09.05.25) jammy; urgency=high
+Checksums-Sha1:
+ 8ea58fcdf0808813cf875a2bb650342a0183cad0 9846 ros-one-controller-manager-msgs_0.20.0-1-g633c374-2025.02.09.05.25_amd64.buildinfo
+ 7cf8991e588e8d7d0b9ca61721b97f465886048f 57064 ros-one-controller-manager-msgs_0.20.0-1-g633c374-2025.02.09.05.25_amd64.deb
+Checksums-Sha256:
+ 11076e5580a8c8071cd377170e305ff0387ec239014c18f6c8bb1d7954370ce9 9846 ros-one-controller-manager-msgs_0.20.0-1-g633c374-2025.02.09.05.25_amd64.buildinfo
+ 1c58547dd0da3fc2ba7e02427b9d90ef6b425c372e8638b3d43e5012cea284fa 57064 ros-one-controller-manager-msgs_0.20.0-1-g633c374-2025.02.09.05.25_amd64.deb
+Files:
+ 122a7e020c70d83cf8444c5d538e8471 9846 misc optional ros-one-controller-manager-msgs_0.20.0-1-g633c374-2025.02.09.05.25_amd64.buildinfo
+ 4ab26b4ba960d7b7b4c660c62cac0c1b 57064 misc optional ros-one-controller-manager-msgs_0.20.0-1-g633c374-2025.02.09.05.25_amd64.deb

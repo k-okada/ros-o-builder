@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Tue, 11 May 2021 00:00:00 -0000
+Source: ros-one-settlerlib
+Binary: ros-one-settlerlib
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2025.02.09.04.54
+Distribution: jammy
+Urgency: high
+Maintainer: David Feil-Seifer <david.feilseifer@gmail.com>
+Changed-By: David Feil-Seifer <david.feilseifer@gmail.com>
+Description:
+ ros-one-settlerlib - Defines helper functions and routines that greatly help when tryi
+Changes:
+ ros-one-settlerlib (0-2025.02.09.04.54) jammy; urgency=high
+ .
+   * Merge pull request #47 <https://github.com/ros-perception/calibration/issues/47> from PR2-prime/noetic-devel
+     Noetic devel
+   * fixes for compiler warnings CMP0048 and CMP0046
+   * update maintainer for most packages; first try at setup for travis testing (#46 <https://github.com/ros-perception/calibration/issues/46>)
+   * Contributors: Dave Feil-Seifer
+Checksums-Sha1:
+ 2662339035dd5a06e18ca505cc16d741280ffb32 127086 ros-one-settlerlib-dbgsym_0-2025.02.09.04.54_amd64.ddeb
+ d2279bb244d960269d4a5b1e466c94899b40dfa1 16850 ros-one-settlerlib_0-2025.02.09.04.54_amd64.buildinfo
+ 44480feb99ad599140af8ca74cfe178558e3879a 18250 ros-one-settlerlib_0-2025.02.09.04.54_amd64.deb
+Checksums-Sha256:
+ affe3a59464820d66be6d26bdd3946fb4ec3085956334aabe7a781a03513f649 127086 ros-one-settlerlib-dbgsym_0-2025.02.09.04.54_amd64.ddeb
+ 6a7d00b65dafac380c4e49442d45459932457714207ca49d11e2ed9e0076dec3 16850 ros-one-settlerlib_0-2025.02.09.04.54_amd64.buildinfo
+ c1f93899653e72875b544ba00cd15a5319f7a97eeff3741cfeaf52a798cef048 18250 ros-one-settlerlib_0-2025.02.09.04.54_amd64.deb
+Files:
+ c03a10dcb2622d410dd79200baba8caf 127086 debug optional ros-one-settlerlib-dbgsym_0-2025.02.09.04.54_amd64.ddeb
+ 70e8a819142ac759b625e31ddb019283 16850 misc optional ros-one-settlerlib_0-2025.02.09.04.54_amd64.buildinfo
+ 527d78f11f284959a1637a48ba81cee7 18250 misc optional ros-one-settlerlib_0-2025.02.09.04.54_amd64.deb

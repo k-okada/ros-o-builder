@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 20 May 2021 00:00:00 -0000
+Source: ros-one-pr2-common-actions
+Binary: ros-one-pr2-common-actions
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.0.12-5-g7f34d64-2025.02.09.10.21
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-common-actions - Various actions which help in moving the arms of the PR2 or getti
+Changes:
+ ros-one-pr2-common-actions (0.0.12-5-g7f34d64-2025.02.09.10.21) jammy; urgency=high
+Checksums-Sha1:
+ 127fe4667ef8a3b2f8071f2be3119ca8b2559faf 8215 ros-one-pr2-common-actions_0.0.12-5-g7f34d64-2025.02.09.10.21_amd64.buildinfo
+ 60445c14b3ea2e58bd35b5f9673244f307f42314 2242 ros-one-pr2-common-actions_0.0.12-5-g7f34d64-2025.02.09.10.21_amd64.deb
+Checksums-Sha256:
+ 71e7455193adddc0c6c18811ab7efe665b24ab17cd74590a619b23578d3cd8a5 8215 ros-one-pr2-common-actions_0.0.12-5-g7f34d64-2025.02.09.10.21_amd64.buildinfo
+ e5b0614bb904102c53ba78bf5eab8ddfb49ec2e47d173ff1ada313d8f7fb045f 2242 ros-one-pr2-common-actions_0.0.12-5-g7f34d64-2025.02.09.10.21_amd64.deb
+Files:
+ 9f81c0fc4f9a8cc0f83449a7fcdf947e 8215 misc optional ros-one-pr2-common-actions_0.0.12-5-g7f34d64-2025.02.09.10.21_amd64.buildinfo
+ 2eee44a43d069751d4838423a3a4db17 2242 misc optional ros-one-pr2-common-actions_0.0.12-5-g7f34d64-2025.02.09.10.21_amd64.deb

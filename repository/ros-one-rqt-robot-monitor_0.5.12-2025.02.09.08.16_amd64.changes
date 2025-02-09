@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Tue, 02 Jun 2020 00:00:00 -0000
+Source: ros-one-rqt-robot-monitor
+Binary: ros-one-rqt-robot-monitor
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.5.12-2025.02.09.08.16
+Distribution: jammy
+Urgency: high
+Maintainer: Aaron Blasdel <ablasdel@gmail.com>
+Changed-By: Aaron Blasdel <ablasdel@gmail.com>
+Description:
+ ros-one-rqt-robot-monitor - rqt_robot_monitor displays diagnostics_agg topics messages that a
+Changes:
+ ros-one-rqt-robot-monitor (0.5.12-2025.02.09.08.16) jammy; urgency=high
+ .
+   * use catkin_install_python instead of install
+Checksums-Sha1:
+ f6e60f90935b12ea881ce69e50c0f8e6752eccdc 8169 ros-one-rqt-robot-monitor_0.5.12-2025.02.09.08.16_amd64.buildinfo
+ badd4923bf98e6b41f59fe326266a08db01fc733 31150 ros-one-rqt-robot-monitor_0.5.12-2025.02.09.08.16_amd64.deb
+Checksums-Sha256:
+ 88ff0dfb3a34986fddea1db764fdf19fbd08dea9577f641461a6ce26e1aaff0f 8169 ros-one-rqt-robot-monitor_0.5.12-2025.02.09.08.16_amd64.buildinfo
+ 18b6b8f38dec38f3ac26f2357580cff7ff135ecd05faa91349fd3607be96596d 31150 ros-one-rqt-robot-monitor_0.5.12-2025.02.09.08.16_amd64.deb
+Files:
+ 2f56f268ce41f99623af906ac73a4957 8169 misc optional ros-one-rqt-robot-monitor_0.5.12-2025.02.09.08.16_amd64.buildinfo
+ faa03d36d09e30a8754a8a01e5bf7e98 31150 misc optional ros-one-rqt-robot-monitor_0.5.12-2025.02.09.08.16_amd64.deb

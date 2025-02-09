@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 11 Jan 2021 00:00:00 -0000
+Source: ros-one-geometry-msgs
+Binary: ros-one-geometry-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.13.1-2025.02.09.03.31
+Distribution: jammy
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-geometry-msgs - geometry_msgs provides messages for common geometric primitives s
+Changes:
+ ros-one-geometry-msgs (1.13.1-2025.02.09.03.31) jammy; urgency=high
+ .
+   * Update package maintainers (#168 <https://github.com/ros/common_msgs/issues/168>)
+   * Contributors: Michel Hidalgo
+Checksums-Sha1:
+ 2c6a140538139eeae3f36efffb5bca607be3d770 9752 ros-one-geometry-msgs_1.13.1-2025.02.09.03.31_amd64.buildinfo
+ ec3dae84b4db03abade745a40596a3c233a033e1 66984 ros-one-geometry-msgs_1.13.1-2025.02.09.03.31_amd64.deb
+Checksums-Sha256:
+ 7fad7afb1816998026aef5c059672a08587d5c620c4ad874919c40a95d54a684 9752 ros-one-geometry-msgs_1.13.1-2025.02.09.03.31_amd64.buildinfo
+ 4f92f65616fbdba3224b40bb7243f3fbe047f343e939ca42d8e854a7221f535e 66984 ros-one-geometry-msgs_1.13.1-2025.02.09.03.31_amd64.deb
+Files:
+ 38a6a3458705a96ef7d858bbe28254c9 9752 misc optional ros-one-geometry-msgs_1.13.1-2025.02.09.03.31_amd64.buildinfo
+ 75b1fa00da4416576fff6ac534a6af26 66984 misc optional ros-one-geometry-msgs_1.13.1-2025.02.09.03.31_amd64.deb

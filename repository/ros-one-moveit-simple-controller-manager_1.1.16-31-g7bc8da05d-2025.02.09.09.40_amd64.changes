@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-simple-controller-manager
+Binary: ros-one-moveit-simple-controller-manager
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-31-g7bc8da05d-2025.02.09.09.40
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-simple-controller-manager - A generic, simple controller manager plugin for MoveIt.
+Changes:
+ ros-one-moveit-simple-controller-manager (1.1.16-31-g7bc8da05d-2025.02.09.09.40) jammy; urgency=high
+Checksums-Sha1:
+ 67151f78af841b79cf5e1cded337cccbfe25f7fe 2075818 ros-one-moveit-simple-controller-manager-dbgsym_1.1.16-31-g7bc8da05d-2025.02.09.09.40_amd64.ddeb
+ bd1803a9760510529c10e1689fda5378f7c2aede 22830 ros-one-moveit-simple-controller-manager_1.1.16-31-g7bc8da05d-2025.02.09.09.40_amd64.buildinfo
+ c2631ab26e8e12f264a92980f238ac7466d98769 165916 ros-one-moveit-simple-controller-manager_1.1.16-31-g7bc8da05d-2025.02.09.09.40_amd64.deb
+Checksums-Sha256:
+ 08c7d6e1ebc27255a408ff47be3ea2e29cdf776e1620988bdcfc7e42c572a92e 2075818 ros-one-moveit-simple-controller-manager-dbgsym_1.1.16-31-g7bc8da05d-2025.02.09.09.40_amd64.ddeb
+ 14485bb03b052d7abf327d3fe503a102fd61734a6eefeca24251640d58bdb11f 22830 ros-one-moveit-simple-controller-manager_1.1.16-31-g7bc8da05d-2025.02.09.09.40_amd64.buildinfo
+ 14a843bed8de891babe74dec89fd014d30beb487bd8f337df3640103de53518e 165916 ros-one-moveit-simple-controller-manager_1.1.16-31-g7bc8da05d-2025.02.09.09.40_amd64.deb
+Files:
+ 5280e616415fbfb98afcbdb522ef37c0 2075818 debug optional ros-one-moveit-simple-controller-manager-dbgsym_1.1.16-31-g7bc8da05d-2025.02.09.09.40_amd64.ddeb
+ 7fa56ecb61cf781fabf07a3b7d13a6e1 22830 misc optional ros-one-moveit-simple-controller-manager_1.1.16-31-g7bc8da05d-2025.02.09.09.40_amd64.buildinfo
+ 7dfb07322d197e081b443a5bc52f4972 165916 misc optional ros-one-moveit-simple-controller-manager_1.1.16-31-g7bc8da05d-2025.02.09.09.40_amd64.deb

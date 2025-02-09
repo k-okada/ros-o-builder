@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Mon, 06 Jan 2025 00:00:00 -0000
+Source: ros-one-jsk-rosbag-tools
+Binary: ros-one-jsk-rosbag-tools
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.2.16-2025.02.09.11.14
+Distribution: jammy
+Urgency: high
+Maintainer: Iori Yanokura <yanokura@jsk.imi.i.u-tokyo.ac.jp>
+Changed-By: Iori Yanokura <yanokura@jsk.imi.i.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-rosbag-tools - The rosbag tools
+Changes:
+ ros-one-jsk-rosbag-tools (2.2.16-2025.02.09.11.14) jammy; urgency=high
+ .
+   * [ROS-O] fix for ROS-O (#1802 <https://github.com/jsk-ros-pkg/jsk_common/issues/1802>)
+ .
+       * jsk_rosbag_tools: use requirements.in.python3.12  for python3.12 (ubuntu 24.04)
+       * jsk_rosbag_tools/CMakeLists.txt: $ENV{ROS_DISTRO} -. "$ENV{ROS_DISTRO}" for 24.04, which does not have ROS_DISTRO environment
+ .
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 291fb9e4db2d29f4f5fd113c3078b98c9398c350 10271466 ros-one-jsk-rosbag-tools-dbgsym_2.2.16-2025.02.09.11.14_amd64.ddeb
+ 52d70a02085f449ec464826401f789decfb453b5 10708 ros-one-jsk-rosbag-tools_2.2.16-2025.02.09.11.14_amd64.buildinfo
+ c3b8582c66236764ddcdaba0ec016ccaec6cb5d6 80023214 ros-one-jsk-rosbag-tools_2.2.16-2025.02.09.11.14_amd64.deb
+Checksums-Sha256:
+ e6f41cbd9207024c9cc3597fd669af074c311b9557fda4d7f9c0141a38fd39a5 10271466 ros-one-jsk-rosbag-tools-dbgsym_2.2.16-2025.02.09.11.14_amd64.ddeb
+ 16fc9574db9b60d0f3dc915d64fc5d7073db49446d8c6a1b6abf472764d058d1 10708 ros-one-jsk-rosbag-tools_2.2.16-2025.02.09.11.14_amd64.buildinfo
+ f43818bfd6831657bede8cc24b972bbcf4d65fd61356957fc0874761def3b396 80023214 ros-one-jsk-rosbag-tools_2.2.16-2025.02.09.11.14_amd64.deb
+Files:
+ 9ae28778f52f07446df37cbdba4cf442 10271466 debug optional ros-one-jsk-rosbag-tools-dbgsym_2.2.16-2025.02.09.11.14_amd64.ddeb
+ d8360dc9dac7099d04efc092eda3f218 10708 misc optional ros-one-jsk-rosbag-tools_2.2.16-2025.02.09.11.14_amd64.buildinfo
+ 4a50b4c76a8b0de2ec3e7881e2c14f3b 80023214 misc optional ros-one-jsk-rosbag-tools_2.2.16-2025.02.09.11.14_amd64.deb

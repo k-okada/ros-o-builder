@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Fri, 21 May 2021 00:00:00 -0000
+Source: ros-one-pr2-teleop
+Binary: ros-one-pr2-teleop
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.6.2-1-ge915eff-2025.02.09.11.34
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-teleop - The pr2_teleop package
+Changes:
+ ros-one-pr2-teleop (0.6.2-1-ge915eff-2025.02.09.11.34) jammy; urgency=high
+ .
+   * Merge pull request #40 <https://github.com/pr2/pr2_apps/issues/40> from k-okada/add_roslaunch_add_file_check
+     add test for roslaunch_add_file_check
+   * add test for roslaunch_add_file_check
+   * Contributors: Kei Okada, Michael Görner
+Checksums-Sha1:
+ 2cdc6e0a77297b13318445f8e04559b524e90261 1047670 ros-one-pr2-teleop-dbgsym_0.6.2-1-ge915eff-2025.02.09.11.34_amd64.ddeb
+ 1da9acbbc8d91e2155980de265f773f7cf4e8e2e 18676 ros-one-pr2-teleop_0.6.2-1-ge915eff-2025.02.09.11.34_amd64.buildinfo
+ abc502faaf8b686732b6958a211c7174e21fb5d8 91656 ros-one-pr2-teleop_0.6.2-1-ge915eff-2025.02.09.11.34_amd64.deb
+Checksums-Sha256:
+ d9c8b1ae4fa145abd366ab832f8feff287e6c77a2ed012de6e87b5794f1855e2 1047670 ros-one-pr2-teleop-dbgsym_0.6.2-1-ge915eff-2025.02.09.11.34_amd64.ddeb
+ 47726e47d790337e0e469f33aec6fb47064f81ca5931aead1bfa40a41b0eea45 18676 ros-one-pr2-teleop_0.6.2-1-ge915eff-2025.02.09.11.34_amd64.buildinfo
+ 0a6255978473ef8600f6587b6694969af3cfdc4fb330eb377aa42fc815a951eb 91656 ros-one-pr2-teleop_0.6.2-1-ge915eff-2025.02.09.11.34_amd64.deb
+Files:
+ 6e0d420e2a05a78bf505c06087072531 1047670 debug optional ros-one-pr2-teleop-dbgsym_0.6.2-1-ge915eff-2025.02.09.11.34_amd64.ddeb
+ 42825c36308dcc81129f3174710b295d 18676 misc optional ros-one-pr2-teleop_0.6.2-1-ge915eff-2025.02.09.11.34_amd64.buildinfo
+ 2ea980d710f5cc2e92248443f5ac6bf0 91656 misc optional ros-one-pr2-teleop_0.6.2-1-ge915eff-2025.02.09.11.34_amd64.deb

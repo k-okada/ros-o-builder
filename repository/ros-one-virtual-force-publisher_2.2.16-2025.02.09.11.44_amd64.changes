@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 06 Jan 2025 00:00:00 -0000
+Source: ros-one-virtual-force-publisher
+Binary: ros-one-virtual-force-publisher
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.2.16-2025.02.09.11.44
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-virtual-force-publisher - publish end effector's force, which is estmated from joint torque
+Changes:
+ ros-one-virtual-force-publisher (2.2.16-2025.02.09.11.44) jammy; urgency=high
+Checksums-Sha1:
+ 0f9b16908cebd7f1d3842acd24c9dde8910018e6 2665450 ros-one-virtual-force-publisher-dbgsym_2.2.16-2025.02.09.11.44_amd64.ddeb
+ 604da7f511b80ab43f7748c312270713c614da83 19322 ros-one-virtual-force-publisher_2.2.16-2025.02.09.11.44_amd64.buildinfo
+ 47431a93ecf0272b6baaf30c7d83eee5941c8d92 75924 ros-one-virtual-force-publisher_2.2.16-2025.02.09.11.44_amd64.deb
+Checksums-Sha256:
+ ea29c831b316ea8b78a7849e437690ae74988a432816b10361415395c98fd10a 2665450 ros-one-virtual-force-publisher-dbgsym_2.2.16-2025.02.09.11.44_amd64.ddeb
+ 75cd23561fcd34a91d1100808d00ddfae9560d71c8d876eea782d2f1bac0a70b 19322 ros-one-virtual-force-publisher_2.2.16-2025.02.09.11.44_amd64.buildinfo
+ c69329de0b46fc9d1f385731e24e73323a193b4066e433506ea4b21abfaeaf89 75924 ros-one-virtual-force-publisher_2.2.16-2025.02.09.11.44_amd64.deb
+Files:
+ 3b443b6a1a7dd2cccbc14415c309e969 2665450 debug optional ros-one-virtual-force-publisher-dbgsym_2.2.16-2025.02.09.11.44_amd64.ddeb
+ cd87203379d40551b10dc3980193944b 19322 misc optional ros-one-virtual-force-publisher_2.2.16-2025.02.09.11.44_amd64.buildinfo
+ e7c8c013284d1e42f38d3f70f44ffe58 75924 misc optional ros-one-virtual-force-publisher_2.2.16-2025.02.09.11.44_amd64.deb

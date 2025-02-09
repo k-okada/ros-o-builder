@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 03 Jan 2023 00:00:00 -0000
+Source: ros-one-moveit-python
+Binary: ros-one-moveit-python
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.4.5-1-gbc6d4a4-2025.02.09.05.33
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Ferguson <fergs@botnuvo.com>
+Changed-By: Michael Ferguson <fergs@botnuvo.com>
+Description:
+ ros-one-moveit-python - A pure-python interaface to the MoveIt! ROS API.
+Changes:
+ ros-one-moveit-python (0.4.5-1-gbc6d4a4-2025.02.09.05.33) jammy; urgency=high
+ .
+   * fix CI after adding setup tools dependency
+   * Contributors: Michael Ferguson
+Checksums-Sha1:
+ 44d147fd1987668c11a52b3cc333c9c74133e83b 8189 ros-one-moveit-python_0.4.5-1-gbc6d4a4-2025.02.09.05.33_amd64.buildinfo
+ ba9444bce871774be22c1009b5a6e73eddb0e4fc 26158 ros-one-moveit-python_0.4.5-1-gbc6d4a4-2025.02.09.05.33_amd64.deb
+Checksums-Sha256:
+ 8c73254015a0252ce997b9ec536efdfc61955f9f8888e787ab8cd0e9f92e933c 8189 ros-one-moveit-python_0.4.5-1-gbc6d4a4-2025.02.09.05.33_amd64.buildinfo
+ 2d4d93ca2daf825dc4c4dbe670603e81294871edeae9fb8b98461e44c98658f6 26158 ros-one-moveit-python_0.4.5-1-gbc6d4a4-2025.02.09.05.33_amd64.deb
+Files:
+ b5cf5cd28bca4eef197f415a4e807c87 8189 misc optional ros-one-moveit-python_0.4.5-1-gbc6d4a4-2025.02.09.05.33_amd64.buildinfo
+ 79d660aa7bbd8714d49f926c27109b74 26158 misc optional ros-one-moveit-python_0.4.5-1-gbc6d4a4-2025.02.09.05.33_amd64.deb

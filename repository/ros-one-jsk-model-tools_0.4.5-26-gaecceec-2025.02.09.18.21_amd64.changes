@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 30 Nov 2023 00:00:00 -0000
+Source: ros-one-jsk-model-tools
+Binary: ros-one-jsk-model-tools
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.4.5-26-gaecceec-2025.02.09.18.21
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-model-tools - Metapackage that contains model_tools package for jsk-ros-pkg
+Changes:
+ ros-one-jsk-model-tools (0.4.5-26-gaecceec-2025.02.09.18.21) jammy; urgency=high
+Checksums-Sha1:
+ 05370cac859a39bcb07c6c5ec8c127a795a198b2 8200 ros-one-jsk-model-tools_0.4.5-26-gaecceec-2025.02.09.18.21_amd64.buildinfo
+ 075040a8bb5dd2e1fe920aabb769b351aa68bfbb 2196 ros-one-jsk-model-tools_0.4.5-26-gaecceec-2025.02.09.18.21_amd64.deb
+Checksums-Sha256:
+ abae9b99231b6910c5e6ba35d555d4ed1d070c4c1ac7bc4cfd447b2360b8bb47 8200 ros-one-jsk-model-tools_0.4.5-26-gaecceec-2025.02.09.18.21_amd64.buildinfo
+ a39f899b3e25633353833f10cec9a7f183099bb2cb52fae0766294b72f8c4e61 2196 ros-one-jsk-model-tools_0.4.5-26-gaecceec-2025.02.09.18.21_amd64.deb
+Files:
+ 622ca5af636108290dd1c5c8a69c30fb 8200 misc optional ros-one-jsk-model-tools_0.4.5-26-gaecceec-2025.02.09.18.21_amd64.buildinfo
+ e4d9a6a23fbf7d4734016dfc8b091e92 2196 misc optional ros-one-jsk-model-tools_0.4.5-26-gaecceec-2025.02.09.18.21_amd64.deb

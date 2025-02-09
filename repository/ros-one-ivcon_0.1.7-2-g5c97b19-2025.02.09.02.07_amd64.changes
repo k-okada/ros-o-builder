@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Wed, 05 Sep 2018 00:00:00 -0000
+Source: ros-one-ivcon
+Binary: ros-one-ivcon
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.1.7-2-g5c97b19-2025.02.09.02.07
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-ivcon - Mesh Conversion Utility Used to generate '.iv' files from '.stl'
+Changes:
+ ros-one-ivcon (0.1.7-2-g5c97b19-2025.02.09.02.07) jammy; urgency=high
+ .
+   * Merge pull request #6 <https://github.com/ros/ivcon/issues/6> from k-okada/add_travis
+     Add travis.yml
+   * update maintainer to ROS Orphaned Package Maintainers
+   * mv readme -> README.md
+   * update travis.yml
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ b7dfe4e09218fb87a69e316b4ca6212769c03192 192022 ros-one-ivcon-dbgsym_0.1.7-2-g5c97b19-2025.02.09.02.07_amd64.ddeb
+ cf89628e9491fe241945f1fe65ff72a8db517a49 8531 ros-one-ivcon_0.1.7-2-g5c97b19-2025.02.09.02.07_amd64.buildinfo
+ c57a315134d087dceee90a7971b3006cc114b50d 75110 ros-one-ivcon_0.1.7-2-g5c97b19-2025.02.09.02.07_amd64.deb
+Checksums-Sha256:
+ c42789dab8d17d71e5fd0b97cb35e61aa34f9841dddc3cec183726d5d28123ae 192022 ros-one-ivcon-dbgsym_0.1.7-2-g5c97b19-2025.02.09.02.07_amd64.ddeb
+ 45965b476d7a654f4d6d22383711442e9f6fb142be659f43e59341918a4b011e 8531 ros-one-ivcon_0.1.7-2-g5c97b19-2025.02.09.02.07_amd64.buildinfo
+ 2031746d334791ce3ef65f61b2f024059838cfe74c8bc7a1dc2f5a6394d5838a 75110 ros-one-ivcon_0.1.7-2-g5c97b19-2025.02.09.02.07_amd64.deb
+Files:
+ 0f353d2107f5ae0ce6dd085a39e0f498 192022 debug optional ros-one-ivcon-dbgsym_0.1.7-2-g5c97b19-2025.02.09.02.07_amd64.ddeb
+ 09f9b55cc6e91f630a70500646b6cf83 8531 misc optional ros-one-ivcon_0.1.7-2-g5c97b19-2025.02.09.02.07_amd64.buildinfo
+ 9b8884bce600a87738e7bc15db52ed4d 75110 misc optional ros-one-ivcon_0.1.7-2-g5c97b19-2025.02.09.02.07_amd64.deb

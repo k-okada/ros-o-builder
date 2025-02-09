@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 13 Sep 2024 00:00:00 -0000
+Source: ros-one-rosmsg
+Binary: ros-one-rosmsg
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.17.0-12-g2a12474fb-2025.02.09.03.55
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-rosmsg - rosmsg contains two command-line tools: rosmsg and rossrv.
+Changes:
+ ros-one-rosmsg (1.17.0-12-g2a12474fb-2025.02.09.03.55) jammy; urgency=high
+Checksums-Sha1:
+ e99c176cb7bd264b17a32a062435cdce8ae98c25 8170 ros-one-rosmsg_1.17.0-12-g2a12474fb-2025.02.09.03.55_amd64.buildinfo
+ 184e950dca0ad91a23a122fa2a98c05f711f8231 24196 ros-one-rosmsg_1.17.0-12-g2a12474fb-2025.02.09.03.55_amd64.deb
+Checksums-Sha256:
+ d604e52df6853ec1025baf55f59ab39bee8f09e1df6a99a4aa132ee1072161c1 8170 ros-one-rosmsg_1.17.0-12-g2a12474fb-2025.02.09.03.55_amd64.buildinfo
+ 9a266fea7485bb39e77363819887e348b2837be43cdc15a52b2df742c768e91c 24196 ros-one-rosmsg_1.17.0-12-g2a12474fb-2025.02.09.03.55_amd64.deb
+Files:
+ e5db77456e500d595fc90c209d878a61 8170 misc optional ros-one-rosmsg_1.17.0-12-g2a12474fb-2025.02.09.03.55_amd64.buildinfo
+ 8a246da45b5873781c497f271fec85fe 24196 misc optional ros-one-rosmsg_1.17.0-12-g2a12474fb-2025.02.09.03.55_amd64.deb

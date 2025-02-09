@@ -1,0 +1,41 @@
+Format: 1.8
+Date: Tue, 10 Jan 2023 00:00:00 -0000
+Source: ros-one-amcl
+Binary: ros-one-amcl
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.17.3-3-g9ad64419-2025.02.09.06.07
+Distribution: jammy
+Urgency: high
+Maintainer: David V. Lu!! <davidvlu@gmail.com>
+Changed-By: David V. Lu!! <davidvlu@gmail.com>
+Description:
+ ros-one-amcl - amcl is a probabilistic localization system for a robot moving in
+Changes:
+ ros-one-amcl (1.17.3-3-g9ad64419-2025.02.09.06.07) jammy; urgency=high
+ .
+   * [AMCL] Add option to force nomotion update after initialpose (#1226 <https://github.com/ros-planning/navigation/issues/1226>)
+     * Adds a new boolean parameter force_update_after_initialpose. When set to true, an update is forced on the next laser scan callback, such as when the /request_nomotion_update service is called. This often results in an improved robot pose after a manual (not very precise) re-localization - without a need for the robot to move.
+     * Fixes a bunch of compiler warnings (unused variable now, catching exceptions by value), normalizes how tf exceptions are caught
+   * [ROS-O] various patches (#1225 <https://github.com/ros-planning/navigation/issues/1225>)
+     * do not specify obsolete c++11 standard
+     this breaks with current versions of log4cxx.
+     * update pluginlib include paths
+     the non-hpp headers have been deprecated since kinetic
+     * use lambdas in favor of boost::bind
+     Using boost's _1 as a global system is deprecated since C++11.
+     The ROS packages in Debian removed the implicit support for the global symbols,
+     so this code fails to compile there without the patch.
+   * Contributors: Michael Görner, Stephan
+Checksums-Sha1:
+ 12d13250648c5afbd8e166876fb9c02b9baeb749 2490918 ros-one-amcl-dbgsym_1.17.3-3-g9ad64419-2025.02.09.06.07_amd64.ddeb
+ 3bab45b26d207fe666f6f79deb71c7de61c7e286 16962 ros-one-amcl_1.17.3-3-g9ad64419-2025.02.09.06.07_amd64.buildinfo
+ 96d2dfb8810a246501179b537cef31fcbbc8c7da 243202 ros-one-amcl_1.17.3-3-g9ad64419-2025.02.09.06.07_amd64.deb
+Checksums-Sha256:
+ fc0bed952e865d337049b00b8842d8c55f14413efa6dee1f88471264ce3163bd 2490918 ros-one-amcl-dbgsym_1.17.3-3-g9ad64419-2025.02.09.06.07_amd64.ddeb
+ 41698e66f10cbd26e6fa8cf82b890aa979138273d0bfaf7467079457cae6f973 16962 ros-one-amcl_1.17.3-3-g9ad64419-2025.02.09.06.07_amd64.buildinfo
+ 0c5535280481aa3398436c8de47ae0e76e2e9c9fe08aa385b80b55ee308c57ca 243202 ros-one-amcl_1.17.3-3-g9ad64419-2025.02.09.06.07_amd64.deb
+Files:
+ c4c5e07875269f8fc64f955159d01e7b 2490918 debug optional ros-one-amcl-dbgsym_1.17.3-3-g9ad64419-2025.02.09.06.07_amd64.ddeb
+ f309f518c4b26ae3e802c0a4672cdc92 16962 misc optional ros-one-amcl_1.17.3-3-g9ad64419-2025.02.09.06.07_amd64.buildinfo
+ 8a54d6ee0678770e07c3d05cfd129006 243202 misc optional ros-one-amcl_1.17.3-3-g9ad64419-2025.02.09.06.07_amd64.deb

@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Wed, 18 May 2022 00:00:00 -0000
+Source: ros-one-pr2-navigation-config
+Binary: ros-one-pr2-navigation-config
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.2.0-4-gb917a3f-2025.02.09.12.32
+Distribution: jammy
+Urgency: high
+Maintainer: David Feil-Seifer <dave@cse.unr.edu>
+Changed-By: David Feil-Seifer <dave@cse.unr.edu>
+Description:
+ ros-one-pr2-navigation-config - This package holds common configuration files for running the
+Changes:
+ ros-one-pr2-navigation-config (0.2.0-4-gb917a3f-2025.02.09.12.32) jammy; urgency=high
+ .
+   * remove sim_period parameter: it does not exist (anymore?) (#42 <https://github.com/pr2/pr2_navigation/issues/42>)
+   * updated maintainer
+   * fixed CMake files for compile in kinetic
+   * Contributors: Dave Feil-Seifer, Michael Görner
+Checksums-Sha1:
+ 591dfeff772b427b9031fcea5ba032d5db3a5e51 19274 ros-one-pr2-navigation-config_0.2.0-4-gb917a3f-2025.02.09.12.32_amd64.buildinfo
+ 0ef5f60c9e383183bfc6e8babc07fd563ca7a7fa 7346 ros-one-pr2-navigation-config_0.2.0-4-gb917a3f-2025.02.09.12.32_amd64.deb
+Checksums-Sha256:
+ af913aa169e40ff15ec31a484fcca65dd685b3b6a1d3294af05328715d018cef 19274 ros-one-pr2-navigation-config_0.2.0-4-gb917a3f-2025.02.09.12.32_amd64.buildinfo
+ 606d86c92cb7a127ad5990d69632fcbd6bb62fa20c148d5e90480e6640eab9c6 7346 ros-one-pr2-navigation-config_0.2.0-4-gb917a3f-2025.02.09.12.32_amd64.deb
+Files:
+ 2896404a802d63866d6bda80821f25dd 19274 misc optional ros-one-pr2-navigation-config_0.2.0-4-gb917a3f-2025.02.09.12.32_amd64.buildinfo
+ 2afd434acccf5a98cfe5380145e46753 7346 misc optional ros-one-pr2-navigation-config_0.2.0-4-gb917a3f-2025.02.09.12.32_amd64.deb

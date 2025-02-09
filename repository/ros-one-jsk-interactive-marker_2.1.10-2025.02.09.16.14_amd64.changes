@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Wed, 11 Dec 2024 00:00:00 -0000
+Source: ros-one-jsk-interactive-marker
+Binary: ros-one-jsk-interactive-marker
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.10-2025.02.09.16.14
+Distribution: jammy
+Urgency: high
+Maintainer: furuta <furuta@jsk.t.u-tokyo.ac.jp>
+Changed-By: furuta <furuta@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-interactive-marker - jsk interactive markers
+Changes:
+ ros-one-jsk-interactive-marker (2.1.10-2025.02.09.16.14) jammy; urgency=high
+ .
+   * jsk_interactive_marker: use catkin_install_python in CMakeLists.txt (#897 <https://github.com/jsk-ros-pkg/jsk_visualization/issues/897>)
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ b4351656e1f984137a2fd188ff5e8d771448dfda 33252494 ros-one-jsk-interactive-marker-dbgsym_2.1.10-2025.02.09.16.14_amd64.ddeb
+ 05bd80f11ceb3d8d36087a70f9935accb69b816d 50313 ros-one-jsk-interactive-marker_2.1.10-2025.02.09.16.14_amd64.buildinfo
+ 39c67564ea13154b3bb69d3c5e671e8fd8dd78df 1189622 ros-one-jsk-interactive-marker_2.1.10-2025.02.09.16.14_amd64.deb
+Checksums-Sha256:
+ 1ac8708003fa6ea071c4c9284d04a774ee0404a8e0ac41190f93c27b8e2601cf 33252494 ros-one-jsk-interactive-marker-dbgsym_2.1.10-2025.02.09.16.14_amd64.ddeb
+ e29e706f3beac8ae892757c9396513a76863438f275f94d03ae43960c32c9ae3 50313 ros-one-jsk-interactive-marker_2.1.10-2025.02.09.16.14_amd64.buildinfo
+ 824dd5e9ba53000063e8ea61b6e0ec138284bca16216cbab2d8f02b39b580d6d 1189622 ros-one-jsk-interactive-marker_2.1.10-2025.02.09.16.14_amd64.deb
+Files:
+ ac84a685718269ab43985e83a2bde32f 33252494 debug optional ros-one-jsk-interactive-marker-dbgsym_2.1.10-2025.02.09.16.14_amd64.ddeb
+ bf2ffa9d009cbf1de23d7a62f1e7be5b 50313 misc optional ros-one-jsk-interactive-marker_2.1.10-2025.02.09.16.14_amd64.buildinfo
+ 2a7f22d459e54948da471d3038e2a952 1189622 misc optional ros-one-jsk-interactive-marker_2.1.10-2025.02.09.16.14_amd64.deb

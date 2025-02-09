@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 31 Dec 2021 00:00:00 -0000
+Source: ros-one-rosdiagnostic
+Binary: ros-one-rosdiagnostic
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.11.0-7-gda86650-2025.02.09.05.44
+Distribution: jammy
+Urgency: high
+Maintainer: Guillaume Autran <gautran@clearpath.ai>
+Changed-By: Guillaume Autran <gautran@clearpath.ai>
+Description:
+ ros-one-rosdiagnostic - Command to print aggregated diagnostic contents to the command li
+Changes:
+ ros-one-rosdiagnostic (1.11.0-7-gda86650-2025.02.09.05.44) jammy; urgency=high
+Checksums-Sha1:
+ ce02089382cfa7e12506bbf1dd6a6bf635c52aeb 8193 ros-one-rosdiagnostic_1.11.0-7-gda86650-2025.02.09.05.44_amd64.buildinfo
+ ea2df8f5863767d177339b26187e5c6faae052f8 11094 ros-one-rosdiagnostic_1.11.0-7-gda86650-2025.02.09.05.44_amd64.deb
+Checksums-Sha256:
+ fc470770654306fdf7c28efb0c095d76c01789a83a78fd2dea40248d1f9e23e0 8193 ros-one-rosdiagnostic_1.11.0-7-gda86650-2025.02.09.05.44_amd64.buildinfo
+ f884fc82a77df6dfefa85aa16dc44b22c52fb0f1246620696c17cc876f5669a9 11094 ros-one-rosdiagnostic_1.11.0-7-gda86650-2025.02.09.05.44_amd64.deb
+Files:
+ d42866d57922e83a8667f55ce6e7347c 8193 misc optional ros-one-rosdiagnostic_1.11.0-7-gda86650-2025.02.09.05.44_amd64.buildinfo
+ 4c782ee2bc56c8928816d4134bcebd86 11094 misc optional ros-one-rosdiagnostic_1.11.0-7-gda86650-2025.02.09.05.44_amd64.deb

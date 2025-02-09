@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Fri, 19 May 2017 00:00:00 -0000
+Source: ros-one-rqt-action
+Binary: ros-one-rqt-action
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.4.9-14-gfd461f4-2025.02.09.10.10
+Distribution: jammy
+Urgency: high
+Maintainer: Mikael Arguedas <mikael@osrfoundation.org>
+Changed-By: Mikael Arguedas <mikael@osrfoundation.org>
+Description:
+ ros-one-rqt-action - rqt_action provides a feature to introspect all available ROS act
+Changes:
+ ros-one-rqt-action (0.4.9-14-gfd461f4-2025.02.09.10.10) jammy; urgency=high
+ .
+   * Add gbiggs as maintainer (#2 <https://github.com/ros-visualization/rqt_action/issues/2>)
+Checksums-Sha1:
+ b5777a6eff7773e4ab05cf593f025a04a8703ac6 8175 ros-one-rqt-action_0.4.9-14-gfd461f4-2025.02.09.10.10_amd64.buildinfo
+ 6fed3531a15f595818361a00f4a5441e8fae68c2 8728 ros-one-rqt-action_0.4.9-14-gfd461f4-2025.02.09.10.10_amd64.deb
+Checksums-Sha256:
+ 035718991270d101c49e36d527044c0f3afad5b0539ff171bf67865a7e13308b 8175 ros-one-rqt-action_0.4.9-14-gfd461f4-2025.02.09.10.10_amd64.buildinfo
+ 5388c553d1b4d4647bd2595cf116c5f0af96d5c6efaa6b26ca040d7b3e6c6d3c 8728 ros-one-rqt-action_0.4.9-14-gfd461f4-2025.02.09.10.10_amd64.deb
+Files:
+ df53a86229f6d3a574c9d0c55667857c 8175 misc optional ros-one-rqt-action_0.4.9-14-gfd461f4-2025.02.09.10.10_amd64.buildinfo
+ 94891c2eaff5d693f9c1856059223ca0 8728 misc optional ros-one-rqt-action_0.4.9-14-gfd461f4-2025.02.09.10.10_amd64.deb

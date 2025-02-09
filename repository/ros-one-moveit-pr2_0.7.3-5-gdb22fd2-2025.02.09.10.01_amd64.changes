@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sun, 06 Oct 2019 00:00:00 -0000
+Source: ros-one-moveit-pr2
+Binary: ros-one-moveit-pr2
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.7.3-5-gdb22fd2-2025.02.09.10.01
+Distribution: jammy
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-moveit-pr2 - All PR2-specific packages for MoveIt
+Changes:
+ ros-one-moveit-pr2 (0.7.3-5-gdb22fd2-2025.02.09.10.01) jammy; urgency=high
+Checksums-Sha1:
+ 334f11b42caee86b9bbd619a81da639632147c04 8171 ros-one-moveit-pr2_0.7.3-5-gdb22fd2-2025.02.09.10.01_amd64.buildinfo
+ d5c1975bc13522f3ea2a9583a9307250bb4cff11 2664 ros-one-moveit-pr2_0.7.3-5-gdb22fd2-2025.02.09.10.01_amd64.deb
+Checksums-Sha256:
+ f043ad4bd7902f3290d56f23db4ed0df9cbb5dd3191d12d7bf261618eead0379 8171 ros-one-moveit-pr2_0.7.3-5-gdb22fd2-2025.02.09.10.01_amd64.buildinfo
+ dd4a9320d7ada42aa5ade8f45b2b6927b2bfdefe24649cd46dcbe71036bd2112 2664 ros-one-moveit-pr2_0.7.3-5-gdb22fd2-2025.02.09.10.01_amd64.deb
+Files:
+ 5d13727f054653f73cc431c1bd58b93c 8171 misc optional ros-one-moveit-pr2_0.7.3-5-gdb22fd2-2025.02.09.10.01_amd64.buildinfo
+ c96e4a92c108c729314f880a61b64915 2664 misc optional ros-one-moveit-pr2_0.7.3-5-gdb22fd2-2025.02.09.10.01_amd64.deb

@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 18 May 2022 00:00:00 -0000
+Source: ros-one-pr2-navigation-slam
+Binary: ros-one-pr2-navigation-slam
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.2.0-4-gb917a3f-2025.02.09.12.50
+Distribution: jammy
+Urgency: high
+Maintainer: David Feil-Seifer <dave@cse.unr.edu>
+Changed-By: David Feil-Seifer <dave@cse.unr.edu>
+Description:
+ ros-one-pr2-navigation-slam - This package holds launch files for running the
+Changes:
+ ros-one-pr2-navigation-slam (0.2.0-4-gb917a3f-2025.02.09.12.50) jammy; urgency=high
+ .
+   * updated maintainer
+   * fixed CMake files for compile in kinetic
+   * Contributors: Dave Feil-Seifer, David Feil-Seifer
+Checksums-Sha1:
+ 99b31b270b6c61c3ba8043714e6b6e5aca5742cf 8219 ros-one-pr2-navigation-slam_0.2.0-4-gb917a3f-2025.02.09.12.50_amd64.buildinfo
+ bde8986c7110eb3bfb9163527929eda2a60ebd38 12278 ros-one-pr2-navigation-slam_0.2.0-4-gb917a3f-2025.02.09.12.50_amd64.deb
+Checksums-Sha256:
+ c5b7a4037bf4d4b6f49092034ef537d8036067d030dd97f027100eb62bb44ce8 8219 ros-one-pr2-navigation-slam_0.2.0-4-gb917a3f-2025.02.09.12.50_amd64.buildinfo
+ 853fe47aa0c06ed7919a2f8e6e72d7bdf60632a5e33622f04308f00d03df5c74 12278 ros-one-pr2-navigation-slam_0.2.0-4-gb917a3f-2025.02.09.12.50_amd64.deb
+Files:
+ 04d6e63936f452e3482ecfee00037464 8219 misc optional ros-one-pr2-navigation-slam_0.2.0-4-gb917a3f-2025.02.09.12.50_amd64.buildinfo
+ 4247a00e0d46f2c3ed43161bd5c80fc6 12278 misc optional ros-one-pr2-navigation-slam_0.2.0-4-gb917a3f-2025.02.09.12.50_amd64.deb

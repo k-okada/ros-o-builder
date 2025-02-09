@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros-planning-interface
+Binary: ros-one-moveit-ros-planning-interface
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-31-g7bc8da05d-2025.02.09.09.07
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-ros-planning-interface - Components of MoveIt that offer simpler interfaces to planning an
+Changes:
+ ros-one-moveit-ros-planning-interface (1.1.16-31-g7bc8da05d-2025.02.09.09.07) jammy; urgency=high
+Checksums-Sha1:
+ 6f94600fdfbde72c7c13ab30640a44379e1be32d 16836882 ros-one-moveit-ros-planning-interface-dbgsym_1.1.16-31-g7bc8da05d-2025.02.09.09.07_amd64.ddeb
+ b8189d6712131cce8707424b05f843de01ba7ece 26859 ros-one-moveit-ros-planning-interface_1.1.16-31-g7bc8da05d-2025.02.09.09.07_amd64.buildinfo
+ 00f0daa4312c1712c39954251493d5aa57206728 549838 ros-one-moveit-ros-planning-interface_1.1.16-31-g7bc8da05d-2025.02.09.09.07_amd64.deb
+Checksums-Sha256:
+ e17950cf49a0e857c369a763ebe5adc006722f71fdb3946af1688cfd0c3cb753 16836882 ros-one-moveit-ros-planning-interface-dbgsym_1.1.16-31-g7bc8da05d-2025.02.09.09.07_amd64.ddeb
+ 0c07014d8f3799e6c089bf021f3eab2b6e1865de79fe8b3a035baa625554f29b 26859 ros-one-moveit-ros-planning-interface_1.1.16-31-g7bc8da05d-2025.02.09.09.07_amd64.buildinfo
+ cf26c774fa25a0777372cc0575570f2870deaa88ce4ccd36d3e782f5e5e4b9be 549838 ros-one-moveit-ros-planning-interface_1.1.16-31-g7bc8da05d-2025.02.09.09.07_amd64.deb
+Files:
+ 16c71c1a9a93d2792962ac3ec7fdc817 16836882 debug optional ros-one-moveit-ros-planning-interface-dbgsym_1.1.16-31-g7bc8da05d-2025.02.09.09.07_amd64.ddeb
+ bc764352d3f46d6bd1f8865c8a90fa34 26859 misc optional ros-one-moveit-ros-planning-interface_1.1.16-31-g7bc8da05d-2025.02.09.09.07_amd64.buildinfo
+ 652493798a6ac33fef57a74d770f0c69 549838 misc optional ros-one-moveit-ros-planning-interface_1.1.16-31-g7bc8da05d-2025.02.09.09.07_amd64.deb

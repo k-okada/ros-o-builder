@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Thu, 02 Apr 2020 00:00:00 -0000
+Source: ros-one-turtle-tf
+Binary: ros-one-turtle-tf
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.2.3-1-g1d1d36a-2025.02.09.05.53
+Distribution: jammy
+Urgency: high
+Maintainer: William Woodall <william@osrfoundation.org>
+Changed-By: William Woodall <william@osrfoundation.org>
+Description:
+ ros-one-turtle-tf - turtle_tf demonstrates how to write a tf broadcaster and listener
+Changes:
+ ros-one-turtle-tf (0.2.3-1-g1d1d36a-2025.02.09.05.53) jammy; urgency=high
+ .
+   * Bump CMake version to avoid CMP0048 warning (#29 <https://github.com/ros/geometry_tutorials//issues/29>)
+   * Merge pull request #26 <https://github.com/ros/geometry_tutorials//issues/26> from jwhendy/tutorial-node-name-fix
+   * updated node names in all tf and tf2 nodes/.py files to match filenames for simplicity
+   * Merge pull request #22 <https://github.com/ros/geometry_tutorials//issues/22> from 23pointsNorth/patch-1
+   * Clean up code
+   * Merge pull request #20 <https://github.com/ros/geometry_tutorials//issues/20> from romainreignier/indigo-devel
+   * Add install rule for turtle_tf_message_filter
+   * Contributors: Alejandro Hernández Cordero, Daniel Angelov, John Henderson, Romain Reignier, Tully Foote
+Checksums-Sha1:
+ 0fcc3ea1d748fd34d51e649f567931c7699a4a4e 1791560 ros-one-turtle-tf-dbgsym_0.2.3-1-g1d1d36a-2025.02.09.05.53_amd64.ddeb
+ 31f980462a4854e11abaadc8177c797e756b64cb 20741 ros-one-turtle-tf_0.2.3-1-g1d1d36a-2025.02.09.05.53_amd64.buildinfo
+ 0fe460e1e8f792226e756d5eaed4a59f640b9d8b 95790 ros-one-turtle-tf_0.2.3-1-g1d1d36a-2025.02.09.05.53_amd64.deb
+Checksums-Sha256:
+ 2d9242873ea9dc6526b1ad317d71a0901c4ab65e82da1bf1e09dbdff62250e23 1791560 ros-one-turtle-tf-dbgsym_0.2.3-1-g1d1d36a-2025.02.09.05.53_amd64.ddeb
+ 8c5954bed37c4c5408f62717ec454dfc0c3ff6c1e58e3f3f9abe7566de852333 20741 ros-one-turtle-tf_0.2.3-1-g1d1d36a-2025.02.09.05.53_amd64.buildinfo
+ 9df6c3027df57353fc87638ad0256311d395bfbe255005fc07f6d60360cbdda5 95790 ros-one-turtle-tf_0.2.3-1-g1d1d36a-2025.02.09.05.53_amd64.deb
+Files:
+ f7096a99ce9d8d05cf605dba490e57e0 1791560 debug optional ros-one-turtle-tf-dbgsym_0.2.3-1-g1d1d36a-2025.02.09.05.53_amd64.ddeb
+ 193077782a822e03c6bcae21a84b6acc 20741 misc optional ros-one-turtle-tf_0.2.3-1-g1d1d36a-2025.02.09.05.53_amd64.buildinfo
+ df7e15a69a0d61108f91e8a8ce62f08c 95790 misc optional ros-one-turtle-tf_0.2.3-1-g1d1d36a-2025.02.09.05.53_amd64.deb

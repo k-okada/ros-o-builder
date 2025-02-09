@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 13 Nov 2024 00:00:00 -0000
+Source: ros-one-test-nodelet-topic-tools
+Binary: ros-one-test-nodelet-topic-tools
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.11.1-2025.02.09.05.00
+Distribution: jammy
+Urgency: high
+Maintainer: Geoffrey Biggs <geoff@openrobotics.org>
+Changed-By: Geoffrey Biggs <geoff@openrobotics.org>
+Description:
+ ros-one-test-nodelet-topic-tools - A package for nodelet_topic_tools unit tests.
+Changes:
+ ros-one-test-nodelet-topic-tools (1.11.1-2025.02.09.05.00) jammy; urgency=high
+Checksums-Sha1:
+ 3040dd24ae7226e39c285e0142c2085201c5b90c 16032 ros-one-test-nodelet-topic-tools_1.11.1-2025.02.09.05.00_amd64.buildinfo
+ a69b01b4ba343ff6d09cf798a840e675e87613a5 6270 ros-one-test-nodelet-topic-tools_1.11.1-2025.02.09.05.00_amd64.deb
+Checksums-Sha256:
+ 94dd746aade50cf50e030fdb3cfa9cf8409b5f9922f010e635a845a753cee35d 16032 ros-one-test-nodelet-topic-tools_1.11.1-2025.02.09.05.00_amd64.buildinfo
+ 7f0b27f9088ec3d0c87decaf06646f0f0003f83a3619ee5da12251936153004a 6270 ros-one-test-nodelet-topic-tools_1.11.1-2025.02.09.05.00_amd64.deb
+Files:
+ 126ac2be80e1b2bd02a6a091b371f676 16032 misc optional ros-one-test-nodelet-topic-tools_1.11.1-2025.02.09.05.00_amd64.buildinfo
+ 2d51bbfd15c79fdde18be74681cd801c 6270 misc optional ros-one-test-nodelet-topic-tools_1.11.1-2025.02.09.05.00_amd64.deb

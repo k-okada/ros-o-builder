@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Mon, 17 Jun 2024 00:00:00 -0000
+Source: ros-one-ur-calibration
+Binary: ros-one-ur-calibration
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.5-13-gc64d549-2025.02.09.13.40
+Distribution: jammy
+Urgency: high
+Maintainer: Felix Exner <feex@universal-robots.com>
+Changed-By: Felix Exner <feex@universal-robots.com>
+Description:
+ ros-one-ur-calibration - Package for extracting the factory calibration from a UR robot an
+Changes:
+ ros-one-ur-calibration (2.1.5-13-gc64d549-2025.02.09.13.40) jammy; urgency=high
+ .
+   * Fix calibration (#704 <https://github.com/UniversalRobots/Universal_Robots_ROS_Driver/issues/704>)
+   * Contributors: Felix Exner (fexner)
+Checksums-Sha1:
+ 673611dd519991ae60993a33bf441c991df0d553 1488714 ros-one-ur-calibration-dbgsym_2.1.5-13-gc64d549-2025.02.09.13.40_amd64.ddeb
+ dad70e2a2f2089880391b5d8fee0d557fd3a53a4 31824 ros-one-ur-calibration_2.1.5-13-gc64d549-2025.02.09.13.40_amd64.buildinfo
+ 51b721ebaa68d773f02abb71703be86e3f61644c 57966 ros-one-ur-calibration_2.1.5-13-gc64d549-2025.02.09.13.40_amd64.deb
+Checksums-Sha256:
+ 48d32eb5da0097efefbdcfc38a1037ec29a7e3d4bd3d1b459c35d8b86aab913a 1488714 ros-one-ur-calibration-dbgsym_2.1.5-13-gc64d549-2025.02.09.13.40_amd64.ddeb
+ df2e59bfb5922ed9bfed1f9c4fe723c0f94f6182dcdd1e63df2a1aadd0e0d0fb 31824 ros-one-ur-calibration_2.1.5-13-gc64d549-2025.02.09.13.40_amd64.buildinfo
+ 402f65a9dc8fe906f772892810c2da223f87d4eb150f0b1d23a5c1c753625fb4 57966 ros-one-ur-calibration_2.1.5-13-gc64d549-2025.02.09.13.40_amd64.deb
+Files:
+ 4fa1a791e8787b085744452eafe20e9a 1488714 debug optional ros-one-ur-calibration-dbgsym_2.1.5-13-gc64d549-2025.02.09.13.40_amd64.ddeb
+ 289a331c67b6d983eb6086759188b993 31824 misc optional ros-one-ur-calibration_2.1.5-13-gc64d549-2025.02.09.13.40_amd64.buildinfo
+ d8052cee3888fc1af1796caddd9977cd 57966 misc optional ros-one-ur-calibration_2.1.5-13-gc64d549-2025.02.09.13.40_amd64.deb

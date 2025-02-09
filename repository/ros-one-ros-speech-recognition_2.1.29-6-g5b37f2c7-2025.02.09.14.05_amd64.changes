@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-ros-speech-recognition
+Binary: ros-one-ros-speech-recognition
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.29-6-g5b37f2c7-2025.02.09.14.05
+Distribution: jammy
+Urgency: high
+Maintainer: Yuki Furuta <furushchev@jsk.imi.i.u-tokyo.ac.jp>
+Changed-By: Yuki Furuta <furushchev@jsk.imi.i.u-tokyo.ac.jp>
+Description:
+ ros-one-ros-speech-recognition - ROS wrapper for Python SpeechRecognition library
+Changes:
+ ros-one-ros-speech-recognition (2.1.29-6-g5b37f2c7-2025.02.09.14.05) jammy; urgency=high
+ .
+   * [doc] fix typo in jsk_3rdparty/ros_speech_recognition/README.md (#499 <https://github.com/jsk-ros-pkg/jsk_3rdparty/issues/499>)
+   * Contributors: Yukina Iwata
+Checksums-Sha1:
+ 9adbe11e25561839ca61041ff60574ac5bddbdc4 1756726 ros-one-ros-speech-recognition-dbgsym_2.1.29-6-g5b37f2c7-2025.02.09.14.05_amd64.ddeb
+ 727aead7aa36dd566a64c03b4cfce13097d39703 42378 ros-one-ros-speech-recognition_2.1.29-6-g5b37f2c7-2025.02.09.14.05_amd64.buildinfo
+ 2f06e01229a6aaa841fedf6a47a612e28eac68b2 37588658 ros-one-ros-speech-recognition_2.1.29-6-g5b37f2c7-2025.02.09.14.05_amd64.deb
+Checksums-Sha256:
+ d088605faff5246681f02158d1931d6600365f41650f167e9fec88624b666db8 1756726 ros-one-ros-speech-recognition-dbgsym_2.1.29-6-g5b37f2c7-2025.02.09.14.05_amd64.ddeb
+ 7dd7776101f675bfc8416926c32878ee147f92ee8af2485769e1e1f52ff7ae1c 42378 ros-one-ros-speech-recognition_2.1.29-6-g5b37f2c7-2025.02.09.14.05_amd64.buildinfo
+ 433f1038e57f1a504677e6370dac1a02fbe07e1cd24a50ec6dc96cae20bf0731 37588658 ros-one-ros-speech-recognition_2.1.29-6-g5b37f2c7-2025.02.09.14.05_amd64.deb
+Files:
+ 396a9bfd88d519c5d0de609c2fab4d4e 1756726 debug optional ros-one-ros-speech-recognition-dbgsym_2.1.29-6-g5b37f2c7-2025.02.09.14.05_amd64.ddeb
+ 1e8da991a98286998c9eec2aac72e0ba 42378 misc optional ros-one-ros-speech-recognition_2.1.29-6-g5b37f2c7-2025.02.09.14.05_amd64.buildinfo
+ 21c29d1e129f101851b3cb806e024bbd 37588658 misc optional ros-one-ros-speech-recognition_2.1.29-6-g5b37f2c7-2025.02.09.14.05_amd64.deb

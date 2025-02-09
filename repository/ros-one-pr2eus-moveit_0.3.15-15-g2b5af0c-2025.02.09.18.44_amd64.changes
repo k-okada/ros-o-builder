@@ -1,0 +1,41 @@
+Format: 1.8
+Date: Mon, 17 Apr 2023 00:00:00 -0000
+Source: ros-one-pr2eus-moveit
+Binary: ros-one-pr2eus-moveit
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.3.15-15-g2b5af0c-2025.02.09.18.44
+Distribution: jammy
+Urgency: high
+Maintainer: YoheiKakiuchi <youhei@jsk.t.u-tokyo.ac.jp>
+Changed-By: YoheiKakiuchi <youhei@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-pr2eus-moveit - pr2eus_moveit
+Changes:
+ ros-one-pr2eus-moveit (0.3.15-15-g2b5af0c-2025.02.09.18.44) jammy; urgency=high
+ .
+   * Loosen test condition for test-collision-object-publisher (#484 <https://github.com/jsk-ros-pkg/jsk_pr2eus/issues/484>)
+   * integrate all .github/workflows/*.yml to config.yml, fix permission issue (#479 <https://github.com/jsk-ros-pkg/jsk_pr2eus/issues/479>)
+   * test check apply_planning_scene before creating collision-object-publisher/*ci* without MoveIt (#469 <https://github.com/jsk-ros-pkg/jsk_pr2eus/issues/469>)
+   * check apply_planning_scene before creating collision-object-publisher/*ci* (#446 <https://github.com/jsk-ros-pkg/jsk_pr2eus/issues/446>)
+   * add test code for #461 <https://github.com/jsk-ros-pkg/jsk_pr2eus/issues/461> (#468 <https://github.com/jsk-ros-pkg/jsk_pr2eus/issues/468>)
+   * [pr2eus_moveit] Add timeout arg for computing IK and increase timeout for test (#438 <https://github.com/jsk-ros-pkg/jsk_pr2eus/issues/438>)
+   * Check current collision when trajectory could not be generated (#448 <https://github.com/jsk-ros-pkg/jsk_pr2eus/issues/448>)
+   * [pr2eus_moveit] evaluate all bodies only when it has bodies (#442 <https://github.com/jsk-ros-pkg/jsk_pr2eus/issues/442>)
+   * [pr2eus_moveit] Add test for collision-object-publisher (#431 <https://github.com/jsk-ros-pkg/jsk_pr2eus/issues/431>)
+   * [pr2eus_moveit] fix collision-object-sample.l and :add-object in collision-object-publisher.l (#423 <https://github.com/jsk-ros-pkg/jsk_pr2eus/issues/423>)
+   * [pr2eus_moveit] add method to delete collision objects by id (#421 <https://github.com/jsk-ros-pkg/jsk_pr2eus/issues/421>)
+   * [pr2eus_moveit] fix cylinder collision object msg (#419 <https://github.com/jsk-ros-pkg/jsk_pr2eus/issues/419>)
+   * enable to test navigation in gazebo for  pr2-ri-test (#420 <https://github.com/jsk-ros-pkg/jsk_pr2eus/issues/420>)
+   * [pr2eus_moveit] Add docstring to :angle-vector-motion-plan (#392 <https://github.com/jsk-ros-pkg/jsk_pr2eus/issues/392>)
+   * need to check both pr2_gazebo and pr2_moveit_config (#393 <https://github.com/jsk-ros-pkg/jsk_pr2eus/issues/393>)
+   * Contributors: Kei Okada, Koki Shinjo, Naoto Tsukamoto, Naoya Yamaguchi, Shingo Kitagawa, Shumpei Wakabayashi, Shun Hasegawa, Yuto Uchimi
+Checksums-Sha1:
+ 7ac601da79543306c99a15984cc93c87f2266b86 31009 ros-one-pr2eus-moveit_0.3.15-15-g2b5af0c-2025.02.09.18.44_amd64.buildinfo
+ 8db6ba9a5c07aa0eb4c9e1cd6fbaf5eeff520218 25420 ros-one-pr2eus-moveit_0.3.15-15-g2b5af0c-2025.02.09.18.44_amd64.deb
+Checksums-Sha256:
+ b752b20baaa071fcbaa876d3d4433c11b9e25aef43c7048e81def944321b3095 31009 ros-one-pr2eus-moveit_0.3.15-15-g2b5af0c-2025.02.09.18.44_amd64.buildinfo
+ 925b73e3b20545c3de46c72700838418ffaca03deefe10a0a170dc5679ea78e2 25420 ros-one-pr2eus-moveit_0.3.15-15-g2b5af0c-2025.02.09.18.44_amd64.deb
+Files:
+ 3932990cebb1cf23a57225b6b897799a 31009 misc optional ros-one-pr2eus-moveit_0.3.15-15-g2b5af0c-2025.02.09.18.44_amd64.buildinfo
+ dc490372233c046f8a1b5b1285e386d9 25420 misc optional ros-one-pr2eus-moveit_0.3.15-15-g2b5af0c-2025.02.09.18.44_amd64.deb

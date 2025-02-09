@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 06 Jan 2025 00:00:00 -0000
+Source: ros-one-jsk-data
+Binary: ros-one-jsk-data
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.2.16-2025.02.09.11.05
+Distribution: jammy
+Urgency: high
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Changed-By: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-data - The jsk_data package
+Changes:
+ ros-one-jsk-data (2.2.16-2025.02.09.11.05) jammy; urgency=high
+Checksums-Sha1:
+ b021b6aa1f8e8e42f69854caa01ffc3ea3e160e1 14950 ros-one-jsk-data_2.2.16-2025.02.09.11.05_amd64.buildinfo
+ f3b3abe56129898ea24306e617e657feb62bb310 1453978 ros-one-jsk-data_2.2.16-2025.02.09.11.05_amd64.deb
+Checksums-Sha256:
+ c738a746e10dcc180d92576e756b0a1ea5686f1351bce1edd8a57e2e7dd68bff 14950 ros-one-jsk-data_2.2.16-2025.02.09.11.05_amd64.buildinfo
+ 48cb459f9b25f25243586ad5035b2a7b6cda668dc2b836c41d4e56787372dba7 1453978 ros-one-jsk-data_2.2.16-2025.02.09.11.05_amd64.deb
+Files:
+ d24498638eafaa9906c001ce7fc93a55 14950 misc optional ros-one-jsk-data_2.2.16-2025.02.09.11.05_amd64.buildinfo
+ 58326daa3b0902323398949803e0db25 1453978 misc optional ros-one-jsk-data_2.2.16-2025.02.09.11.05_amd64.deb

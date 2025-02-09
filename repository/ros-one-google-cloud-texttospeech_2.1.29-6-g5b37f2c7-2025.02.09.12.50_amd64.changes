@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-google-cloud-texttospeech
+Binary: ros-one-google-cloud-texttospeech
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.29-6-g5b37f2c7-2025.02.09.12.50
+Distribution: jammy
+Urgency: high
+Maintainer: Shingo Kitagawa <shingogo.5511@gmail.com>
+Changed-By: Shingo Kitagawa <shingogo.5511@gmail.com>
+Description:
+ ros-one-google-cloud-texttospeech - The google_cloud_texttospeech package
+Changes:
+ ros-one-google-cloud-texttospeech (2.1.29-6-g5b37f2c7-2025.02.09.12.50) jammy; urgency=high
+Checksums-Sha1:
+ 46cb5b375e75981f9f9e42005b52d70ba02a8c0a 8257 ros-one-google-cloud-texttospeech_2.1.29-6-g5b37f2c7-2025.02.09.12.50_amd64.buildinfo
+ f31ac4f56100c3863cebe571265514d6a6a33d7a 10480 ros-one-google-cloud-texttospeech_2.1.29-6-g5b37f2c7-2025.02.09.12.50_amd64.deb
+Checksums-Sha256:
+ 0002f2d24bf0b349e1d933e772cc58b7a2611821537dbbfeb3ca84a8ed38f29c 8257 ros-one-google-cloud-texttospeech_2.1.29-6-g5b37f2c7-2025.02.09.12.50_amd64.buildinfo
+ 9e2fd25bff705f68a2621371ad234643ab5f31ea8bfe4d64281e0d19b5fe8bf6 10480 ros-one-google-cloud-texttospeech_2.1.29-6-g5b37f2c7-2025.02.09.12.50_amd64.deb
+Files:
+ e6f37b28d473554254f53bf2334471f0 8257 misc optional ros-one-google-cloud-texttospeech_2.1.29-6-g5b37f2c7-2025.02.09.12.50_amd64.buildinfo
+ c7dbb13d3c1ac18d31a5104e09fbdd64 10480 misc optional ros-one-google-cloud-texttospeech_2.1.29-6-g5b37f2c7-2025.02.09.12.50_amd64.deb

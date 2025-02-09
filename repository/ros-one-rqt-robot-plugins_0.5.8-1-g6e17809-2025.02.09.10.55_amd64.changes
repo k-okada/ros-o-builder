@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 14 May 2020 00:00:00 -0000
+Source: ros-one-rqt-robot-plugins
+Binary: ros-one-rqt-robot-plugins
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.5.8-1-g6e17809-2025.02.09.10.55
+Distribution: jammy
+Urgency: high
+Maintainer: Aaron Blasdel <ablasdel@gmail.com>
+Changed-By: Aaron Blasdel <ablasdel@gmail.com>
+Description:
+ ros-one-rqt-robot-plugins - Metapackage of rqt plugins that are particularly used with robots
+Changes:
+ ros-one-rqt-robot-plugins (0.5.8-1-g6e17809-2025.02.09.10.55) jammy; urgency=high
+ .
+   * Bump CMake version to avoid CMP0048 warning (#124 <https://github.com/ros-visualization/rqt_robot_plugins/issues/124>)
+   * Remove dirk-thomas as maintainer (#125 <https://github.com/ros-visualization/rqt_robot_plugins/issues/125>)
+   * Contributors: Alejandro Hernández Cordero, Shane Loretz
+Checksums-Sha1:
+ 3f4f8dd890e23373ca02f6a1de514dd409eb9999 8206 ros-one-rqt-robot-plugins_0.5.8-1-g6e17809-2025.02.09.10.55_amd64.buildinfo
+ d7dd5d287bdc77ca7b0c9af74680222749c69047 3396 ros-one-rqt-robot-plugins_0.5.8-1-g6e17809-2025.02.09.10.55_amd64.deb
+Checksums-Sha256:
+ 400ef02e0c56a604070e9bda37456470cdbc9a76b8b3ebcae4f591e2a2bc3b4f 8206 ros-one-rqt-robot-plugins_0.5.8-1-g6e17809-2025.02.09.10.55_amd64.buildinfo
+ a10a2bf2c87cebcee08d54cfc0bbb85f9bfaa44b3494122a2ed7f62401543018 3396 ros-one-rqt-robot-plugins_0.5.8-1-g6e17809-2025.02.09.10.55_amd64.deb
+Files:
+ 76d79173d4cc1a7c166a70abe985def4 8206 misc optional ros-one-rqt-robot-plugins_0.5.8-1-g6e17809-2025.02.09.10.55_amd64.buildinfo
+ acb95a45a019f5401833262d853cf0f8 3396 misc optional ros-one-rqt-robot-plugins_0.5.8-1-g6e17809-2025.02.09.10.55_amd64.deb

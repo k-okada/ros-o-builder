@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 06 Jan 2025 00:00:00 -0000
+Source: ros-one-audio-video-recorder
+Binary: ros-one-audio-video-recorder
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.2.16-2025.02.09.10.47
+Distribution: jammy
+Urgency: high
+Maintainer: Shingo Kitagawa <shingogo.5511@gmail.com>
+Changed-By: Shingo Kitagawa <shingogo.5511@gmail.com>
+Description:
+ ros-one-audio-video-recorder - ROS package for recording image and audio synchronously
+Changes:
+ ros-one-audio-video-recorder (2.2.16-2025.02.09.10.47) jammy; urgency=high
+Checksums-Sha1:
+ bb228125d3ece7974f10e3879f9600e47d0a4ce5 620870 ros-one-audio-video-recorder-dbgsym_2.2.16-2025.02.09.10.47_amd64.ddeb
+ d4e5cb388fc47d5db661d1c2ca7247d78842a3f8 15411 ros-one-audio-video-recorder_2.2.16-2025.02.09.10.47_amd64.buildinfo
+ 043d680abb0ab4de26816e8c3aa637c8489bf1df 48706 ros-one-audio-video-recorder_2.2.16-2025.02.09.10.47_amd64.deb
+Checksums-Sha256:
+ 9d7a1cd5658143a00bbdf09848c5a0425328ed7f8365c525f6acc21a523a48b4 620870 ros-one-audio-video-recorder-dbgsym_2.2.16-2025.02.09.10.47_amd64.ddeb
+ e780faa33214ecba22d7c29b7624a0e970a255310b54a6ec319dba676f2cdcba 15411 ros-one-audio-video-recorder_2.2.16-2025.02.09.10.47_amd64.buildinfo
+ e8a9bc11f202c66e8ceb85bf06dfd02132b7994149b0cf606a084b738f35c27c 48706 ros-one-audio-video-recorder_2.2.16-2025.02.09.10.47_amd64.deb
+Files:
+ a914e9d5f5951deee6574db685f9b8f0 620870 debug optional ros-one-audio-video-recorder-dbgsym_2.2.16-2025.02.09.10.47_amd64.ddeb
+ 99f1c508784bda9be989a9fd6caba305 15411 misc optional ros-one-audio-video-recorder_2.2.16-2025.02.09.10.47_amd64.buildinfo
+ a43c4fc7b9a90c87706c24b2e2a24e7a 48706 misc optional ros-one-audio-video-recorder_2.2.16-2025.02.09.10.47_amd64.deb

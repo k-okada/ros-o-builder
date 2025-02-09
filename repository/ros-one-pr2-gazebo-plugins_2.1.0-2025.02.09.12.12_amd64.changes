@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Tue, 12 Apr 2022 00:00:00 -0000
+Source: ros-one-pr2-gazebo-plugins
+Binary: ros-one-pr2-gazebo-plugins
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.0-2025.02.09.12.12
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-gazebo-plugins - Gazebo Plugins for various PR2-specific sensors and actuators on
+Changes:
+ ros-one-pr2-gazebo-plugins (2.1.0-2025.02.09.12.12) jammy; urgency=high
+ .
+   * Support Noetic (#150 <https://github.com/pr2/pr2_simulator/issues/150>) from k-okada/ga
+     use catkin_dev to use default veresion of Gazebo, see https://github.com/ros-simulation/gazebo_ros_pkgs/pull/571 for more info
+     package.xml: use liborocos-kdl for ROS_PYTHON_VERSION=3
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 34839bdc4bb0ff82d0103cff63e61973786dd514 2839702 ros-one-pr2-gazebo-plugins-dbgsym_2.1.0-2025.02.09.12.12_amd64.ddeb
+ dac68db8027a73295b963db524f7e73874fffbba 44719 ros-one-pr2-gazebo-plugins_2.1.0-2025.02.09.12.12_amd64.buildinfo
+ 0d38e86229f0bb90d666dc08066792b2b5cb2858 153600 ros-one-pr2-gazebo-plugins_2.1.0-2025.02.09.12.12_amd64.deb
+Checksums-Sha256:
+ a9d061cc133dbf258596abdf997c06eed3b07ea4d19b8555f996d49be2496313 2839702 ros-one-pr2-gazebo-plugins-dbgsym_2.1.0-2025.02.09.12.12_amd64.ddeb
+ bd25d46c794e87c825beb4d8f0d5125e85574d9a59a1fb8bbf98d1dc9c4022dd 44719 ros-one-pr2-gazebo-plugins_2.1.0-2025.02.09.12.12_amd64.buildinfo
+ 0db5b149c43444660f61230a887819a7517c6c625e5dac935e5e4b922550498a 153600 ros-one-pr2-gazebo-plugins_2.1.0-2025.02.09.12.12_amd64.deb
+Files:
+ 09955da381f8a167e44ae6fad980a4eb 2839702 debug optional ros-one-pr2-gazebo-plugins-dbgsym_2.1.0-2025.02.09.12.12_amd64.ddeb
+ eb621667a0cd0374369100e5020d5db5 44719 misc optional ros-one-pr2-gazebo-plugins_2.1.0-2025.02.09.12.12_amd64.buildinfo
+ e4e71fad743e7d8888d5d80aec95af1f 153600 misc optional ros-one-pr2-gazebo-plugins_2.1.0-2025.02.09.12.12_amd64.deb

@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Fri, 13 Sep 2024 00:00:00 -0000
+Source: ros-one-message-filters
+Binary: ros-one-message-filters
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.17.0-12-g2a12474fb-2025.02.09.03.51
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-message-filters - A set of message filters which take in messages and may output th
+Changes:
+ ros-one-message-filters (1.17.0-12-g2a12474fb-2025.02.09.03.51) jammy; urgency=high
+ .
+   * Enable building with boost 1.73 (#2348 <https://github.com/ros/ros_comm/issues/2348>)
+   * Contributors: Robert Haschke
+Checksums-Sha1:
+ 313bc632d4fcab603fce7c4367f0d751ca40ae99 42270 ros-one-message-filters-dbgsym_1.17.0-12-g2a12474fb-2025.02.09.03.51_amd64.ddeb
+ 5ac4acde36be93100d5ec0ec8f35e2464d195ebb 13417 ros-one-message-filters_1.17.0-12-g2a12474fb-2025.02.09.03.51_amd64.buildinfo
+ 5f08e01153872a6a8b2256d350ddc20f892a50e9 35988 ros-one-message-filters_1.17.0-12-g2a12474fb-2025.02.09.03.51_amd64.deb
+Checksums-Sha256:
+ 439fcc95d71115d502fccf71c145665424daea8ae0e51118e1f6c9364a28f490 42270 ros-one-message-filters-dbgsym_1.17.0-12-g2a12474fb-2025.02.09.03.51_amd64.ddeb
+ 39ce2952909365fc2bebff082bf2a528c17f8ccd1f852e563e2d1b4c096319f7 13417 ros-one-message-filters_1.17.0-12-g2a12474fb-2025.02.09.03.51_amd64.buildinfo
+ e2f984f6d1a1521af7c469a9cd44d80a044b0db486eabd94666f628b7c687251 35988 ros-one-message-filters_1.17.0-12-g2a12474fb-2025.02.09.03.51_amd64.deb
+Files:
+ 9253ceb600938c6f4e634967d3d0112f 42270 debug optional ros-one-message-filters-dbgsym_1.17.0-12-g2a12474fb-2025.02.09.03.51_amd64.ddeb
+ 45e2887f72a1e35b9ec9af920411dd1d 13417 misc optional ros-one-message-filters_1.17.0-12-g2a12474fb-2025.02.09.03.51_amd64.buildinfo
+ 124442cc04942b8cab2b9f26ebceec0d 35988 misc optional ros-one-message-filters_1.17.0-12-g2a12474fb-2025.02.09.03.51_amd64.deb

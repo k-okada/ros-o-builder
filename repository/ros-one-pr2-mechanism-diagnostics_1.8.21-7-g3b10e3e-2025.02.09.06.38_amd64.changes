@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Wed, 22 Jun 2022 00:00:00 -0000
+Source: ros-one-pr2-mechanism-diagnostics
+Binary: ros-one-pr2-mechanism-diagnostics
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.8.21-7-g3b10e3e-2025.02.09.06.38
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-mechanism-diagnostics - The `pr2_mechanism_diagnostics` node subscribes to `mechanism_sta
+Changes:
+ ros-one-pr2-mechanism-diagnostics (1.8.21-7-g3b10e3e-2025.02.09.06.38) jammy; urgency=high
+ .
+   * set catkin_add_gtest within CATKIN_ENABLE_TESTING (#346 <https://github.com/pr2/pr2_mechanism/issues/346>)
+     fix with CATKIN_ENABLE_TESTING=OFF
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 9b454477b2707c46e724bdc060d138872255f83a 857968 ros-one-pr2-mechanism-diagnostics-dbgsym_1.8.21-7-g3b10e3e-2025.02.09.06.38_amd64.ddeb
+ 8be5e02326d30af644790516a3e3723c0ac21c1e 15997 ros-one-pr2-mechanism-diagnostics_1.8.21-7-g3b10e3e-2025.02.09.06.38_amd64.buildinfo
+ 647bb694172cc4c1376b3f8410b5dd7b4bdf23cb 55792 ros-one-pr2-mechanism-diagnostics_1.8.21-7-g3b10e3e-2025.02.09.06.38_amd64.deb
+Checksums-Sha256:
+ 10928c5f81aeb5aa6a1fc7604bba2e3bbc800e1758042756c00ff72ecd3aca2f 857968 ros-one-pr2-mechanism-diagnostics-dbgsym_1.8.21-7-g3b10e3e-2025.02.09.06.38_amd64.ddeb
+ fdc6bd648360f5417bd4741f14532168a62d75b5903c23dd198159c12c1dcf1f 15997 ros-one-pr2-mechanism-diagnostics_1.8.21-7-g3b10e3e-2025.02.09.06.38_amd64.buildinfo
+ 04aa241b213c4d2c61d9a4fa0e48bfaff06ac06682e2b48b8232e4f171efaf4b 55792 ros-one-pr2-mechanism-diagnostics_1.8.21-7-g3b10e3e-2025.02.09.06.38_amd64.deb
+Files:
+ 84b431d01265b474dbc89d967ea3c119 857968 debug optional ros-one-pr2-mechanism-diagnostics-dbgsym_1.8.21-7-g3b10e3e-2025.02.09.06.38_amd64.ddeb
+ 19560f5fdfe0f393c84ef300b7e674dc 15997 misc optional ros-one-pr2-mechanism-diagnostics_1.8.21-7-g3b10e3e-2025.02.09.06.38_amd64.buildinfo
+ 85f89402cafb8866a083ac45d51ab818 55792 misc optional ros-one-pr2-mechanism-diagnostics_1.8.21-7-g3b10e3e-2025.02.09.06.38_amd64.deb

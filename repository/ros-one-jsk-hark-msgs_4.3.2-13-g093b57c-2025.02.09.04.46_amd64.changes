@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sun, 03 May 2020 00:00:00 -0000
+Source: ros-one-jsk-hark-msgs
+Binary: ros-one-jsk-hark-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 4.3.2-13-g093b57c-2025.02.09.04.46
+Distribution: jammy
+Urgency: high
+Maintainer: Shohei Fujii <s-fujii@jsk.t.u-tokyo.ac.jp>
+Changed-By: Shohei Fujii <s-fujii@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-hark-msgs - jsk_hark_msgs
+Changes:
+ ros-one-jsk-hark-msgs (4.3.2-13-g093b57c-2025.02.09.04.46) jammy; urgency=high
+Checksums-Sha1:
+ 4d4ba872f4888b73bdbb8af5a7ee1235fb480b5b 9796 ros-one-jsk-hark-msgs_4.3.2-13-g093b57c-2025.02.09.04.46_amd64.buildinfo
+ 173cc54a19968c8e2505349ca63aa5cd72d6c61e 16224 ros-one-jsk-hark-msgs_4.3.2-13-g093b57c-2025.02.09.04.46_amd64.deb
+Checksums-Sha256:
+ aa197d4fe8c9fc35b92305726f9a33388d1d45b1624dd21d46711db92e80814a 9796 ros-one-jsk-hark-msgs_4.3.2-13-g093b57c-2025.02.09.04.46_amd64.buildinfo
+ 177d32f5e76d34ca7a0c31bc2cd3fc91dc625a8be10910e287765e78f7e3fbbc 16224 ros-one-jsk-hark-msgs_4.3.2-13-g093b57c-2025.02.09.04.46_amd64.deb
+Files:
+ 9297c739ae8700cedda693abc440dcda 9796 misc optional ros-one-jsk-hark-msgs_4.3.2-13-g093b57c-2025.02.09.04.46_amd64.buildinfo
+ 169432975d21f6485a2d2f7c442d0228 16224 misc optional ros-one-jsk-hark-msgs_4.3.2-13-g093b57c-2025.02.09.04.46_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 14 Nov 2023 00:00:00 -0000
+Source: ros-one-jsk-pcl-ros-utils
+Binary: ros-one-jsk-pcl-ros-utils
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.2.17-43-g77ef0797-2025.02.09.16.53
+Distribution: jammy
+Urgency: high
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Changed-By: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-pcl-ros-utils - ROS utility nodelets for pointcloud perception.
+Changes:
+ ros-one-jsk-pcl-ros-utils (1.2.17-43-g77ef0797-2025.02.09.16.53) jammy; urgency=high
+Checksums-Sha1:
+ 0b8a33bdfe374ef911db7b151142226ade22162a 68647894 ros-one-jsk-pcl-ros-utils-dbgsym_1.2.17-43-g77ef0797-2025.02.09.16.53_amd64.ddeb
+ 915e6b6b69ccda0b360b05b83e67672e52f54258 52028 ros-one-jsk-pcl-ros-utils_1.2.17-43-g77ef0797-2025.02.09.16.53_amd64.buildinfo
+ dc4ea2c33c1e269e0ca686b3aae569709432919d 1013328 ros-one-jsk-pcl-ros-utils_1.2.17-43-g77ef0797-2025.02.09.16.53_amd64.deb
+Checksums-Sha256:
+ 36fdc4e312c49dcb932b3d59ca95ba7f62e60ba9a42ffe0cb47cceab6823f0cc 68647894 ros-one-jsk-pcl-ros-utils-dbgsym_1.2.17-43-g77ef0797-2025.02.09.16.53_amd64.ddeb
+ eb8bc3687f8d35cf2fd59542b46abbb82884d13e574f433bcfe1c443af0a1f6a 52028 ros-one-jsk-pcl-ros-utils_1.2.17-43-g77ef0797-2025.02.09.16.53_amd64.buildinfo
+ b135eb9b8e0803204cfb2ab649f49627c0a4f1c7b8bb8be4a097f89597c4dcc1 1013328 ros-one-jsk-pcl-ros-utils_1.2.17-43-g77ef0797-2025.02.09.16.53_amd64.deb
+Files:
+ 1de38b50fde5479fefcb6cae60fd03a0 68647894 debug optional ros-one-jsk-pcl-ros-utils-dbgsym_1.2.17-43-g77ef0797-2025.02.09.16.53_amd64.ddeb
+ cfefb54ee29f50b58938e690f07e50d8 52028 misc optional ros-one-jsk-pcl-ros-utils_1.2.17-43-g77ef0797-2025.02.09.16.53_amd64.buildinfo
+ d771ad017e83b4095bd6c8742cf56d47 1013328 misc optional ros-one-jsk-pcl-ros-utils_1.2.17-43-g77ef0797-2025.02.09.16.53_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 10 Nov 2023 00:00:00 -0000
+Source: ros-one-moveit-resources-pr2-description
+Binary: ros-one-moveit-resources-pr2-description
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.8.3-2-gb771644-2025.02.09.07.36
+Distribution: jammy
+Urgency: high
+Maintainer: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Changed-By: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Description:
+ ros-one-moveit-resources-pr2-description - PR2 Resources used for MoveIt! testing
+Changes:
+ ros-one-moveit-resources-pr2-description (0.8.3-2-gb771644-2025.02.09.07.36) jammy; urgency=high
+Checksums-Sha1:
+ cb5cc9f72e679a8baa0b0c4af3c7758ab955d168 8293 ros-one-moveit-resources-pr2-description_0.8.3-2-gb771644-2025.02.09.07.36_amd64.buildinfo
+ c9449eaaace896af6cd54224fe912973da9e11d3 24389042 ros-one-moveit-resources-pr2-description_0.8.3-2-gb771644-2025.02.09.07.36_amd64.deb
+Checksums-Sha256:
+ 108c583603b9bae24c7112d05344183e7ea1bab7d3abd84cbd4ac7a186147526 8293 ros-one-moveit-resources-pr2-description_0.8.3-2-gb771644-2025.02.09.07.36_amd64.buildinfo
+ 775c5938ab3ff6cbf40fd48a37460d947ad884f4091a1ea5392d8456aadb7ba9 24389042 ros-one-moveit-resources-pr2-description_0.8.3-2-gb771644-2025.02.09.07.36_amd64.deb
+Files:
+ e7b183eb408e1f3ef6f0ec8981e65ce7 8293 misc optional ros-one-moveit-resources-pr2-description_0.8.3-2-gb771644-2025.02.09.07.36_amd64.buildinfo
+ d8df1b181c0a828cdb75e95c16997f74 24389042 misc optional ros-one-moveit-resources-pr2-description_0.8.3-2-gb771644-2025.02.09.07.36_amd64.deb

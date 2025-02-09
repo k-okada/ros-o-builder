@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Mon, 08 Apr 2024 00:00:00 -0000
+Source: ros-one-ur-kinematics
+Binary: ros-one-ur-kinematics
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.3.3-3-gcce1f0e-2025.02.09.11.34
+Distribution: jammy
+Urgency: high
+Maintainer: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-ur-kinematics - Provides forward and inverse kinematics for Universal Robots desi
+Changes:
+ ros-one-ur-kinematics (1.3.3-3-gcce1f0e-2025.02.09.11.34) jammy; urgency=high
+ .
+   * Changed include for Boost in ur_kinematics (#675 <https://github.com/ros-industrial/universal_robot/issues/675>)
+   * UR30 description and meshes (#674 <https://github.com/ros-industrial/universal_robot/issues/674>)
+   * Contributors: Vincenzo Di Pentima
+Checksums-Sha1:
+ 143e5c75cb6a60ef74dca9f3f143081bcd711c59 1550182 ros-one-ur-kinematics-dbgsym_1.3.3-3-gcce1f0e-2025.02.09.11.34_amd64.ddeb
+ 20e983db94287eaecec0397d1cd2783f6fdcf3db 26082 ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2025.02.09.11.34_amd64.buildinfo
+ e14c2860d8ef744571a45f6e28787cc6b0b2bbe5 74728 ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2025.02.09.11.34_amd64.deb
+Checksums-Sha256:
+ a97e1ccf9aaaeba4bd55a3a6cbd0f59206c737efe74f8fa97ef7310a969954b2 1550182 ros-one-ur-kinematics-dbgsym_1.3.3-3-gcce1f0e-2025.02.09.11.34_amd64.ddeb
+ ccc72bc3807e517c6398651c77e47308be7869d15583288951cff650132a39ab 26082 ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2025.02.09.11.34_amd64.buildinfo
+ d0ec9c188d54c14c6be689e36ad904d12245360e3abe2728eb4bef164c966d89 74728 ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2025.02.09.11.34_amd64.deb
+Files:
+ bfefcf0fcb7dfbd354105581f1af8db5 1550182 debug optional ros-one-ur-kinematics-dbgsym_1.3.3-3-gcce1f0e-2025.02.09.11.34_amd64.ddeb
+ ade4a9a7030987aa1b07266de2c9cb66 26082 misc optional ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2025.02.09.11.34_amd64.buildinfo
+ e7d716b08dc28929271c40b6d93a392b 74728 misc optional ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2025.02.09.11.34_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 06 Jan 2025 00:00:00 -0000
+Source: ros-one-dynamic-tf-publisher
+Binary: ros-one-dynamic-tf-publisher
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.2.16-2025.02.09.10.51
+Distribution: jammy
+Urgency: high
+Maintainer: Ryohei Ueda <garaemon@gmail.com>
+Changed-By: Ryohei Ueda <garaemon@gmail.com>
+Description:
+ ros-one-dynamic-tf-publisher - dynamically set the tf trensformation
+Changes:
+ ros-one-dynamic-tf-publisher (2.2.16-2025.02.09.10.51) jammy; urgency=high
+Checksums-Sha1:
+ af56924bace29c9b1cf934349d696e7f9bfc335d 18154 ros-one-dynamic-tf-publisher_2.2.16-2025.02.09.10.51_amd64.buildinfo
+ 72d1a63c1b2d1ba9ce1b4f965f3ae7aae7e66e06 35226 ros-one-dynamic-tf-publisher_2.2.16-2025.02.09.10.51_amd64.deb
+Checksums-Sha256:
+ 28a4a8274735f5e85cd6b9941306d8589f588347d64c7eea1bd8e583a63f1582 18154 ros-one-dynamic-tf-publisher_2.2.16-2025.02.09.10.51_amd64.buildinfo
+ 4cfe069b70aa47e06017a3905718e756d203e737436fcb5181338909c6b817d3 35226 ros-one-dynamic-tf-publisher_2.2.16-2025.02.09.10.51_amd64.deb
+Files:
+ 4101c3966e43e5dbde43939e9bcf7ae8 18154 misc optional ros-one-dynamic-tf-publisher_2.2.16-2025.02.09.10.51_amd64.buildinfo
+ 163ca10d4e8b337b66453e1c754c7837 35226 misc optional ros-one-dynamic-tf-publisher_2.2.16-2025.02.09.10.51_amd64.deb

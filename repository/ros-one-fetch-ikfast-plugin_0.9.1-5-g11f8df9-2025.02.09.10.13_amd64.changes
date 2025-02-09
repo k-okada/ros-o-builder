@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 05 Mar 2021 00:00:00 -0000
+Source: ros-one-fetch-ikfast-plugin
+Binary: ros-one-fetch-ikfast-plugin
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.9.1-5-g11f8df9-2025.02.09.10.13
+Distribution: jammy
+Urgency: high
+Maintainer: Sarah Elliott <selliott@fetchrobotics.com>
+Changed-By: Sarah Elliott <selliott@fetchrobotics.com>
+Description:
+ ros-one-fetch-ikfast-plugin - Kinematics plugin for Fetch robot, generated through IKFast
+Changes:
+ ros-one-fetch-ikfast-plugin (0.9.1-5-g11f8df9-2025.02.09.10.13) jammy; urgency=high
+Checksums-Sha1:
+ a147cbf3f76f47652ff5f14a35e7207d7f78ad6a 2422228 ros-one-fetch-ikfast-plugin-dbgsym_0.9.1-5-g11f8df9-2025.02.09.10.13_amd64.ddeb
+ e3b00d71f171b5534d0febabd7bc5ba9f759811a 22819 ros-one-fetch-ikfast-plugin_0.9.1-5-g11f8df9-2025.02.09.10.13_amd64.buildinfo
+ 065a10365ad7a1bacbaed046cd8b1a0ad3edfd61 134932 ros-one-fetch-ikfast-plugin_0.9.1-5-g11f8df9-2025.02.09.10.13_amd64.deb
+Checksums-Sha256:
+ 88d49f7e83278a699e745cb45f54cf9ecb94114c1292c1b09b25425f160c2d97 2422228 ros-one-fetch-ikfast-plugin-dbgsym_0.9.1-5-g11f8df9-2025.02.09.10.13_amd64.ddeb
+ c618a9415165c6e498072d8f398113a2ce5966bd0a01669a5b17cf8f5899c9ee 22819 ros-one-fetch-ikfast-plugin_0.9.1-5-g11f8df9-2025.02.09.10.13_amd64.buildinfo
+ f9243a7a683473e5aedf80238e5dec01857b064dd9f115860e6b4ab69df98360 134932 ros-one-fetch-ikfast-plugin_0.9.1-5-g11f8df9-2025.02.09.10.13_amd64.deb
+Files:
+ e2309c16ed220d180774a9421e6107ad 2422228 debug optional ros-one-fetch-ikfast-plugin-dbgsym_0.9.1-5-g11f8df9-2025.02.09.10.13_amd64.ddeb
+ 23ad0717fe6c2b8d0af8168223549388 22819 misc optional ros-one-fetch-ikfast-plugin_0.9.1-5-g11f8df9-2025.02.09.10.13_amd64.buildinfo
+ b91219be706c68c59a7ca960588dfd3b 134932 misc optional ros-one-fetch-ikfast-plugin_0.9.1-5-g11f8df9-2025.02.09.10.13_amd64.deb

@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Fri, 24 Apr 2020 00:00:00 -0000
+Source: ros-one-laser-proc
+Binary: ros-one-laser-proc
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.1.6-2-ge2bb8ce-2025.02.09.05.13
+Distribution: jammy
+Urgency: high
+Maintainer: Chad Rockey <chadrockey@willowgarage.com>
+Changed-By: Chad Rockey <chadrockey@willowgarage.com>
+Description:
+ ros-one-laser-proc - laser_proc
+Changes:
+ ros-one-laser-proc (0.1.6-2-ge2bb8ce-2025.02.09.05.13) jammy; urgency=high
+ .
+   * Update required cmake version
+   * Contributors: Jon Binney
+Checksums-Sha1:
+ c3bf07b1232fa1087b120d653b4bef3fc7598f91 1225036 ros-one-laser-proc-dbgsym_0.1.6-2-ge2bb8ce-2025.02.09.05.13_amd64.ddeb
+ c6561bd9500d80aad15d553df44eb0a96be2a0bf 14287 ros-one-laser-proc_0.1.6-2-ge2bb8ce-2025.02.09.05.13_amd64.buildinfo
+ b028f1b82ccec3d5b2d88186dfe59f5688c63b9c 61976 ros-one-laser-proc_0.1.6-2-ge2bb8ce-2025.02.09.05.13_amd64.deb
+Checksums-Sha256:
+ 9ea038406063a1a4f0f972a25124dddc224c4dc40ab7fdc3996a0761da4e44cb 1225036 ros-one-laser-proc-dbgsym_0.1.6-2-ge2bb8ce-2025.02.09.05.13_amd64.ddeb
+ 4ba435ef2365e78f1047f5185d716b6efe20fabc029bc4253567e13ee7371e7f 14287 ros-one-laser-proc_0.1.6-2-ge2bb8ce-2025.02.09.05.13_amd64.buildinfo
+ 852977bc5977fb7e6bbc9c0685ea218c237b6f15c4e77a0e99ff332db8fdaaa9 61976 ros-one-laser-proc_0.1.6-2-ge2bb8ce-2025.02.09.05.13_amd64.deb
+Files:
+ cfd34a121be9bf895b148911291d627e 1225036 debug optional ros-one-laser-proc-dbgsym_0.1.6-2-ge2bb8ce-2025.02.09.05.13_amd64.ddeb
+ 899214c65b59d6776e9828f75f7ebae4 14287 misc optional ros-one-laser-proc_0.1.6-2-ge2bb8ce-2025.02.09.05.13_amd64.buildinfo
+ 42352fef7c0b727014dc6fcba5105c41 61976 misc optional ros-one-laser-proc_0.1.6-2-ge2bb8ce-2025.02.09.05.13_amd64.deb

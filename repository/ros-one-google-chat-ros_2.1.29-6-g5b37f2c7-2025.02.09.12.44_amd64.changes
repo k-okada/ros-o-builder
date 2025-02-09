@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-google-chat-ros
+Binary: ros-one-google-chat-ros
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.29-6-g5b37f2c7-2025.02.09.12.44
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-google-chat-ros - Use Google Chat API clients via ROS
+Changes:
+ ros-one-google-chat-ros (2.1.29-6-g5b37f2c7-2025.02.09.12.44) jammy; urgency=high
+ .
+   * [google_chat_ros] check whether google_chat_button's parameters include NoneType object for avoiding rospy serialization error (#501 <https://github.com/jsk-ros-pkg/jsk_3rdparty/issues/501>)
+   * [google_chat_ros] Fix an error message typo; https ==> url (#492 <https://github.com/jsk-ros-pkg/jsk_3rdparty/issues/492>)
+   * Contributors: Kei Okada, Naoto Tsukamoto
+Checksums-Sha1:
+ 57e32de72ddaec44de749928b50239918eeaeb11 515962 ros-one-google-chat-ros-dbgsym_2.1.29-6-g5b37f2c7-2025.02.09.12.44_amd64.ddeb
+ fa28278bb5f8395ac7939d2e23ebdf24424adce5 12193 ros-one-google-chat-ros_2.1.29-6-g5b37f2c7-2025.02.09.12.44_amd64.buildinfo
+ bf883d439959967a7b2f3fa1ec0214eeeb8d9797 11802866 ros-one-google-chat-ros_2.1.29-6-g5b37f2c7-2025.02.09.12.44_amd64.deb
+Checksums-Sha256:
+ 5e17c5b29188002e9f8fd75ae5bc3e234cc05ee8fe94a6ffca2ef5d3b33cfc7e 515962 ros-one-google-chat-ros-dbgsym_2.1.29-6-g5b37f2c7-2025.02.09.12.44_amd64.ddeb
+ 1331bb5c6c8411b54098b5c9aac85527800a57de36c7bb6ae17d0a6bf9951edf 12193 ros-one-google-chat-ros_2.1.29-6-g5b37f2c7-2025.02.09.12.44_amd64.buildinfo
+ c03de7956dd47ca464371579862e75a8fff0bf755fa499335b5da529577aa0ab 11802866 ros-one-google-chat-ros_2.1.29-6-g5b37f2c7-2025.02.09.12.44_amd64.deb
+Files:
+ 116b7e6dab71b280fb3d48a204e2c28f 515962 debug optional ros-one-google-chat-ros-dbgsym_2.1.29-6-g5b37f2c7-2025.02.09.12.44_amd64.ddeb
+ 810db0b92c215b129c0a4b50dd2260d6 12193 misc optional ros-one-google-chat-ros_2.1.29-6-g5b37f2c7-2025.02.09.12.44_amd64.buildinfo
+ 4a90865e7b0af2b2a6af440930f11609 11802866 misc optional ros-one-google-chat-ros_2.1.29-6-g5b37f2c7-2025.02.09.12.44_amd64.deb

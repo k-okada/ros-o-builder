@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-dialogflow-task-executive
+Binary: ros-one-dialogflow-task-executive
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.29-6-g5b37f2c7-2025.02.09.12.18
+Distribution: jammy
+Urgency: high
+Maintainer: Shingo Kitagawa <shingogo.5511@gmail.com>
+Changed-By: Shingo Kitagawa <shingogo.5511@gmail.com>
+Description:
+ ros-one-dialogflow-task-executive - A ROS package for Google Dialogflow and launching apps via Dialog
+Changes:
+ ros-one-dialogflow-task-executive (2.1.29-6-g5b37f2c7-2025.02.09.12.18) jammy; urgency=high
+ .
+   * Support ros-o / Ubuntu 22.04 (#512 <https://github.com/jsk-ros-pkg/jsk_3rdparty/issues/512>)
+ .
+       * [respeaker_ros][diamondback] [ros-o] only use STREQUAL to compare ROS_DISTRO in cmake
+ .
+   * fix CMake: install apps/samples/config (#504 <https://github.com/jsk-ros-pkg/jsk_3rdparty/issues/504>)
+   * GA: relax failed test dialogflow_task_executive, julius_ros (#497 <https://github.com/jsk-ros-pkg/jsk_3rdparty/issues/497>)
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ a0636a0091913d47c1ce8ab60b66bfa9ca4270db 516066 ros-one-dialogflow-task-executive-dbgsym_2.1.29-6-g5b37f2c7-2025.02.09.12.18_amd64.ddeb
+ 5a8de046ed572c225c1d403e00855106403e7c0b 13902 ros-one-dialogflow-task-executive_2.1.29-6-g5b37f2c7-2025.02.09.12.18_amd64.buildinfo
+ 65e8edcc243095c989570534dcd736409b52a3a3 8678802 ros-one-dialogflow-task-executive_2.1.29-6-g5b37f2c7-2025.02.09.12.18_amd64.deb
+Checksums-Sha256:
+ 1fc6cddf304af59244bc20e45c0a3484442a4d7edfbfd2fcc4f934c04fcdc654 516066 ros-one-dialogflow-task-executive-dbgsym_2.1.29-6-g5b37f2c7-2025.02.09.12.18_amd64.ddeb
+ 272fd6690b4df99647fb11ed85e49e8244ae754e7a01265418664eb919faaf16 13902 ros-one-dialogflow-task-executive_2.1.29-6-g5b37f2c7-2025.02.09.12.18_amd64.buildinfo
+ 3df1b4a9f2ad4366dc08abb5eebfb5f68b04b35db6adc225aeeda55d460ed5e6 8678802 ros-one-dialogflow-task-executive_2.1.29-6-g5b37f2c7-2025.02.09.12.18_amd64.deb
+Files:
+ 4899bbf8acc622fa605d075d7e0a8e17 516066 debug optional ros-one-dialogflow-task-executive-dbgsym_2.1.29-6-g5b37f2c7-2025.02.09.12.18_amd64.ddeb
+ 4d0c2a9e12adf77012d48d6cb746e4a4 13902 misc optional ros-one-dialogflow-task-executive_2.1.29-6-g5b37f2c7-2025.02.09.12.18_amd64.buildinfo
+ aa0ca414252b1c8732fe1caac98eeaca 8678802 misc optional ros-one-dialogflow-task-executive_2.1.29-6-g5b37f2c7-2025.02.09.12.18_amd64.deb

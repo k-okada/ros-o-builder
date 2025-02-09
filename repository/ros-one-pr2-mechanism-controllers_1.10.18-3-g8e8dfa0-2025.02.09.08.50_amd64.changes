@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-pr2-mechanism-controllers
+Binary: ros-one-pr2-mechanism-controllers
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.10.18-3-g8e8dfa0-2025.02.09.08.50
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-mechanism-controllers - The pr2_mechanism_controllers package contains realtime controlle
+Changes:
+ ros-one-pr2-mechanism-controllers (1.10.18-3-g8e8dfa0-2025.02.09.08.50) jammy; urgency=high
+ .
+   * 2to3 -w -f print . (#401 <https://github.com/PR2/pr2_controllers/issues/401>)
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 11f71367a5bfb751996c402a6eaa44d993d58ba7 7187324 ros-one-pr2-mechanism-controllers-dbgsym_1.10.18-3-g8e8dfa0-2025.02.09.08.50_amd64.ddeb
+ bfacd4d996292975e4014c56f07a089ace708e04 21304 ros-one-pr2-mechanism-controllers_1.10.18-3-g8e8dfa0-2025.02.09.08.50_amd64.buildinfo
+ c4d09ccf79d7115f2f187f69a9803fda9cb7a8d4 323014 ros-one-pr2-mechanism-controllers_1.10.18-3-g8e8dfa0-2025.02.09.08.50_amd64.deb
+Checksums-Sha256:
+ 730669fd2013dc822fbf6be81fdf9f981dd13e93749816d8147b214b7abb5aa8 7187324 ros-one-pr2-mechanism-controllers-dbgsym_1.10.18-3-g8e8dfa0-2025.02.09.08.50_amd64.ddeb
+ 174f309384b826698a116940c618804c8c4c3274ae460c274e60cc2695b299ac 21304 ros-one-pr2-mechanism-controllers_1.10.18-3-g8e8dfa0-2025.02.09.08.50_amd64.buildinfo
+ 20c9285aee3e1b9c0dc10d7b2771f3d962a2f83fa3632576f43d3aba2575f92f 323014 ros-one-pr2-mechanism-controllers_1.10.18-3-g8e8dfa0-2025.02.09.08.50_amd64.deb
+Files:
+ 0b2a878fb36bfb7bd357c5898f0a8f14 7187324 debug optional ros-one-pr2-mechanism-controllers-dbgsym_1.10.18-3-g8e8dfa0-2025.02.09.08.50_amd64.ddeb
+ 5b59f697c32292ac596bbbf992f9b0c3 21304 misc optional ros-one-pr2-mechanism-controllers_1.10.18-3-g8e8dfa0-2025.02.09.08.50_amd64.buildinfo
+ 20fcde9f70a803b2d3533b51ff551ef1 323014 misc optional ros-one-pr2-mechanism-controllers_1.10.18-3-g8e8dfa0-2025.02.09.08.50_amd64.deb

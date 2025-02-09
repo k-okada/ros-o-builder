@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 11 Dec 2024 00:00:00 -0000
+Source: ros-one-jsk-interactive
+Binary: ros-one-jsk-interactive
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.10-2025.02.09.16.23
+Distribution: jammy
+Urgency: high
+Maintainer: Yusuke Furuta <furua@jsk.imi.i.u-tokyo.ac.jp>
+Changed-By: Yusuke Furuta <furua@jsk.imi.i.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-interactive - jsk_interactive
+Changes:
+ ros-one-jsk-interactive (2.1.10-2025.02.09.16.23) jammy; urgency=high
+Checksums-Sha1:
+ 6509865f9b300b54050b0200810db6fc8fe73a85 49845 ros-one-jsk-interactive_2.1.10-2025.02.09.16.23_amd64.buildinfo
+ dc8f2c2bb9a14dce1146fced1b31f112e2ac5708 17762 ros-one-jsk-interactive_2.1.10-2025.02.09.16.23_amd64.deb
+Checksums-Sha256:
+ 70eee0789839f740b09d52a57520e0691b8d3711751d3c830f829156dd1312d6 49845 ros-one-jsk-interactive_2.1.10-2025.02.09.16.23_amd64.buildinfo
+ 9769cc372db2481511efb4be76d07e84e4c75792437ea834aeb064bb08fa6c7a 17762 ros-one-jsk-interactive_2.1.10-2025.02.09.16.23_amd64.deb
+Files:
+ e1915834e3a66375b0fd4721a691ebd6 49845 misc optional ros-one-jsk-interactive_2.1.10-2025.02.09.16.23_amd64.buildinfo
+ 853bef64d1f7100ea2bf6880ff4722ee 17762 misc optional ros-one-jsk-interactive_2.1.10-2025.02.09.16.23_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 15 Jun 2023 00:00:00 -0000
+Source: ros-one-roscpp-traits
+Binary: ros-one-roscpp-traits
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.7.3-3-gcae00b4-2025.02.09.02.05
+Distribution: jammy
+Urgency: high
+Maintainer: Martin Pecka <peckama2@fel.cvut.cz>
+Changed-By: Martin Pecka <peckama2@fel.cvut.cz>
+Description:
+ ros-one-roscpp-traits - roscpp_traits contains the message traits code as described in Me
+Changes:
+ ros-one-roscpp-traits (0.7.3-3-gcae00b4-2025.02.09.02.05) jammy; urgency=high
+ .
+   * Changed maintainer to Martin Pecka
+   * Contributors: Martin Pecka
+Checksums-Sha1:
+ ad861b24e9fd6c4ceb5f33a0ff46db593e00aa63 8189 ros-one-roscpp-traits_0.7.3-3-gcae00b4-2025.02.09.02.05_amd64.buildinfo
+ a42721417c2861e5d7fb3f2a70ffa90e00609ed3 10720 ros-one-roscpp-traits_0.7.3-3-gcae00b4-2025.02.09.02.05_amd64.deb
+Checksums-Sha256:
+ bc04c75ff5671e75040f612993f4a56b69a743c08e823094712b02d6c3253b0a 8189 ros-one-roscpp-traits_0.7.3-3-gcae00b4-2025.02.09.02.05_amd64.buildinfo
+ a9eac6709283b29762f95dbf9f0d22e88cf35d93a2132cf09cfb5d3bebedaea8 10720 ros-one-roscpp-traits_0.7.3-3-gcae00b4-2025.02.09.02.05_amd64.deb
+Files:
+ 43cb88925f1767042292cc632d6d07ee 8189 misc optional ros-one-roscpp-traits_0.7.3-3-gcae00b4-2025.02.09.02.05_amd64.buildinfo
+ 8a37f739918dab43ce4da7d41f241a77 10720 misc optional ros-one-roscpp-traits_0.7.3-3-gcae00b4-2025.02.09.02.05_amd64.deb

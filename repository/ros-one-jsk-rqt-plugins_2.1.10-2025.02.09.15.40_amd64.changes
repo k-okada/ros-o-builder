@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 11 Dec 2024 00:00:00 -0000
+Source: ros-one-jsk-rqt-plugins
+Binary: ros-one-jsk-rqt-plugins
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.10-2025.02.09.15.40
+Distribution: jammy
+Urgency: high
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Changed-By: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-rqt-plugins - The jsk_rqt_plugins package
+Changes:
+ ros-one-jsk-rqt-plugins (2.1.10-2025.02.09.15.40) jammy; urgency=high
+Checksums-Sha1:
+ 4bc10e75d7fc9a082405c6fa8012dc9fd27aec6e 41921 ros-one-jsk-rqt-plugins_2.1.10-2025.02.09.15.40_amd64.buildinfo
+ de6d04fdc0c5fd4955b62a75a3266ae5204aac33 609420 ros-one-jsk-rqt-plugins_2.1.10-2025.02.09.15.40_amd64.deb
+Checksums-Sha256:
+ d606efe7eea0d9b0e22e272dce11e77d8c28280ec0d4bc6dc74bbefdc065ad16 41921 ros-one-jsk-rqt-plugins_2.1.10-2025.02.09.15.40_amd64.buildinfo
+ 27e73d356bf52816d46d8abae7b00d7b2106dea99a77883fa376745294e5c60e 609420 ros-one-jsk-rqt-plugins_2.1.10-2025.02.09.15.40_amd64.deb
+Files:
+ 0f5bdbd709fc9ce2a541c63e13780d5f 41921 misc optional ros-one-jsk-rqt-plugins_2.1.10-2025.02.09.15.40_amd64.buildinfo
+ 6438a587ce19a6f62e532f1b21124e67 609420 misc optional ros-one-jsk-rqt-plugins_2.1.10-2025.02.09.15.40_amd64.deb

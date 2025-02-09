@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 15 Jul 2021 00:00:00 -0000
+Source: ros-one-simple-message
+Binary: ros-one-simple-message
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.7.3-7-ge4d2633-2025.02.09.10.26
+Distribution: jammy
+Urgency: high
+Maintainer: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-simple-message - simple_message defines a simple messaging connection and protocol
+Changes:
+ ros-one-simple-message (0.7.3-7-ge4d2633-2025.02.09.10.26) jammy; urgency=high
+ .
+   * accept old defines as well for now, bw-compatibility for (#262 <https://github.com/ros-industrial/industrial_core/issues/262>) (#275 <https://github.com/ros-industrial/industrial_core/issues/275>)
+   * for a complete list of changes see the commit log for 0.7.3 <https://github.com/ros-industrial/industrial_core/compare/0.7.2...0.7.3>.
+   * contributors: gavanderhoorn
+Checksums-Sha1:
+ 94e0c473fab255a768e14b5cec3b970d54ebbe91 4582468 ros-one-simple-message-dbgsym_0.7.3-7-ge4d2633-2025.02.09.10.26_amd64.ddeb
+ ac7cb5c09985c29436d172206732f066b5e16c58 11594 ros-one-simple-message_0.7.3-7-ge4d2633-2025.02.09.10.26_amd64.buildinfo
+ 23569053e1d4e4b81597174f8d03c8401d480d0d 135988 ros-one-simple-message_0.7.3-7-ge4d2633-2025.02.09.10.26_amd64.deb
+Checksums-Sha256:
+ 0f83351ece1eef6e90cd32c103545c95f210c57b2a07ad7b3eba3f98df623b78 4582468 ros-one-simple-message-dbgsym_0.7.3-7-ge4d2633-2025.02.09.10.26_amd64.ddeb
+ bf21bcb6a791c763420df4babfc76923bbc44d202fdb7c7792a5569daecc9d40 11594 ros-one-simple-message_0.7.3-7-ge4d2633-2025.02.09.10.26_amd64.buildinfo
+ 646cd3f04397df5fc55d18fca25a1fef5df39eba97d1c2ba09330548cbbc5fbd 135988 ros-one-simple-message_0.7.3-7-ge4d2633-2025.02.09.10.26_amd64.deb
+Files:
+ 7901a5ed0f9b075fe85fd1dd6936e282 4582468 debug optional ros-one-simple-message-dbgsym_0.7.3-7-ge4d2633-2025.02.09.10.26_amd64.ddeb
+ 54ae8a6ad9915ec6792298f80face2e8 11594 misc optional ros-one-simple-message_0.7.3-7-ge4d2633-2025.02.09.10.26_amd64.buildinfo
+ 09dbc184a8b987f10ac7cbb4d0823ad0 135988 misc optional ros-one-simple-message_0.7.3-7-ge4d2633-2025.02.09.10.26_amd64.deb

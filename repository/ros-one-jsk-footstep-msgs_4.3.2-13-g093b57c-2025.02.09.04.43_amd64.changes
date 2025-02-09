@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sun, 03 May 2020 00:00:00 -0000
+Source: ros-one-jsk-footstep-msgs
+Binary: ros-one-jsk-footstep-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 4.3.2-13-g093b57c-2025.02.09.04.43
+Distribution: jammy
+Urgency: high
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Changed-By: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-footstep-msgs - jsk_footstep_msgs
+Changes:
+ ros-one-jsk-footstep-msgs (4.3.2-13-g093b57c-2025.02.09.04.43) jammy; urgency=high
+Checksums-Sha1:
+ 50b4c31d6da0a1f341267c890b45d66889b465be 9921 ros-one-jsk-footstep-msgs_4.3.2-13-g093b57c-2025.02.09.04.43_amd64.buildinfo
+ b5f7e14cdd74f46db33c2943ae25ac16dbd18e3a 55160 ros-one-jsk-footstep-msgs_4.3.2-13-g093b57c-2025.02.09.04.43_amd64.deb
+Checksums-Sha256:
+ f3eab9f98185f223073de0dc8c0831d94d2b56740b185209c64ef8d0e9a0f4bd 9921 ros-one-jsk-footstep-msgs_4.3.2-13-g093b57c-2025.02.09.04.43_amd64.buildinfo
+ 9f146bd1dd7d221d59c4d3de760e3ad0319d0ce8333c04f18772c32ff419d56a 55160 ros-one-jsk-footstep-msgs_4.3.2-13-g093b57c-2025.02.09.04.43_amd64.deb
+Files:
+ 16ef25c0f93485a6ba80fbce633fa89c 9921 misc optional ros-one-jsk-footstep-msgs_4.3.2-13-g093b57c-2025.02.09.04.43_amd64.buildinfo
+ 50fd375c3fa493a3718306d50ab0e990 55160 misc optional ros-one-jsk-footstep-msgs_4.3.2-13-g093b57c-2025.02.09.04.43_amd64.deb

@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Mon, 17 Apr 2023 00:00:00 -0000
+Source: ros-one-pr2eus-tutorials
+Binary: ros-one-pr2eus-tutorials
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.3.15-15-g2b5af0c-2025.02.09.18.49
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-pr2eus-tutorials - pr2eus_tutorials
+Changes:
+ ros-one-pr2eus-tutorials (0.3.15-15-g2b5af0c-2025.02.09.18.49) jammy; urgency=high
+ .
+   * integrate all .github/workflows/*.yml to config.yml, fix permission issue (#479 <https://github.com/jsk-ros-pkg/jsk_pr2eus/issues/479>)
+   * [pr2eus_tutorials] fix look-at-hand (#472 <https://github.com/jsk-ros-pkg/jsk_pr2eus/issues/472>)
+   * [pr2eus_tutorials] fix pr2_tabletop.launch for remote PC (#459 <https://github.com/jsk-ros-pkg/jsk_pr2eus/issues/459>)
+   * [pr2eus_tutorials] Fix publish status (#464 <https://github.com/jsk-ros-pkg/jsk_pr2eus/issues/464>)
+   * [pr2eus_tutorials] Select grasp position via 2D image (#437 <https://github.com/jsk-ros-pkg/jsk_pr2eus/issues/437>)
+   * Update pr2eus_tutorials README (#389 <https://github.com/jsk-ros-pkg/jsk_pr2eus/issues/389>)
+   * [pr2eus_tutorials] add pr2 tabletop demo test and sample (#387 <https://github.com/jsk-ros-pkg/jsk_pr2eus/issues/387>)
+   * Contributors: Furushchev, Kei Okada, Naoto Tsukamoto, Naoya Yamaguchi, Shingo Kitagawa, Shumpei Wakabayashi, Yuki Furuta
+Checksums-Sha1:
+ da510304ff8c111383ae7fe550c6d78242676fa9 30841 ros-one-pr2eus-tutorials_0.3.15-15-g2b5af0c-2025.02.09.18.49_amd64.buildinfo
+ 76f7f3c5e7bb0d243702b0550820d4a30c47d9e3 26788 ros-one-pr2eus-tutorials_0.3.15-15-g2b5af0c-2025.02.09.18.49_amd64.deb
+Checksums-Sha256:
+ efb00b24981413312648d7b62a14eae11568b8dce342e25f5c09635de6be38ff 30841 ros-one-pr2eus-tutorials_0.3.15-15-g2b5af0c-2025.02.09.18.49_amd64.buildinfo
+ 4a404967f1be11414f7def61831fad77f39d9e8d2e2e41747e62548cb2d894ed 26788 ros-one-pr2eus-tutorials_0.3.15-15-g2b5af0c-2025.02.09.18.49_amd64.deb
+Files:
+ 8379322a78a8c2be033882f18ff8b665 30841 misc optional ros-one-pr2eus-tutorials_0.3.15-15-g2b5af0c-2025.02.09.18.49_amd64.buildinfo
+ 523aa6bd5e68df1bfeb847213ae30d96 26788 misc optional ros-one-pr2eus-tutorials_0.3.15-15-g2b5af0c-2025.02.09.18.49_amd64.deb

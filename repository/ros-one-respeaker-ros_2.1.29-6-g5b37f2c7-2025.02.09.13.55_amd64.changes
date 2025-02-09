@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-respeaker-ros
+Binary: ros-one-respeaker-ros
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.29-6-g5b37f2c7-2025.02.09.13.55
+Distribution: jammy
+Urgency: high
+Maintainer: Yuki Furuta <furushchev@jsk.imi.i.u-tokyo.ac.jp>
+Changed-By: Yuki Furuta <furushchev@jsk.imi.i.u-tokyo.ac.jp>
+Description:
+ ros-one-respeaker-ros - The respeaker_ros package
+Changes:
+ ros-one-respeaker-ros (2.1.29-6-g5b37f2c7-2025.02.09.13.55) jammy; urgency=high
+ .
+   * Support ros-o / Ubuntu 22.04 (#512 <https://github.com/jsk-ros-pkg/jsk_3rdparty/issues/512>)
+ .
+       * [respeaker_ros][diamondback] [ros-o] only use STREQUAL to compare ROS_DISTRO in cmake
+ .
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 13314b706e888d9891f7a1582ff245b6f87e7b92 1528900 ros-one-respeaker-ros-dbgsym_2.1.29-6-g5b37f2c7-2025.02.09.13.55_amd64.ddeb
+ 4b4698aa281835237b6b09c4d0029bbf8fe5f4a4 16063 ros-one-respeaker-ros_2.1.29-6-g5b37f2c7-2025.02.09.13.55_amd64.buildinfo
+ 2a8ba72ac7553e287126f199a4943919f56dd8f6 33513052 ros-one-respeaker-ros_2.1.29-6-g5b37f2c7-2025.02.09.13.55_amd64.deb
+Checksums-Sha256:
+ d5c25962cd0987e1b59337b0be4839e9b1ec7c9bcb5e0d91a9c6485713724e7d 1528900 ros-one-respeaker-ros-dbgsym_2.1.29-6-g5b37f2c7-2025.02.09.13.55_amd64.ddeb
+ e4891e2a574477e68f8ab5283121a2d5aa4be26f532ef54fec6c7fcb160cf8e3 16063 ros-one-respeaker-ros_2.1.29-6-g5b37f2c7-2025.02.09.13.55_amd64.buildinfo
+ e2fe55e2478ba0cd209484a1f7dcc9f2d6abaa8d9b41b237504eb15b0913fccd 33513052 ros-one-respeaker-ros_2.1.29-6-g5b37f2c7-2025.02.09.13.55_amd64.deb
+Files:
+ 8f7f71322941919eb599bacbec21291b 1528900 debug optional ros-one-respeaker-ros-dbgsym_2.1.29-6-g5b37f2c7-2025.02.09.13.55_amd64.ddeb
+ d044e040b68daa851018e957c9b382be 16063 misc optional ros-one-respeaker-ros_2.1.29-6-g5b37f2c7-2025.02.09.13.55_amd64.buildinfo
+ 6db44b22f5848d68431520994a5af37d 33513052 misc optional ros-one-respeaker-ros_2.1.29-6-g5b37f2c7-2025.02.09.13.55_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros-visualization
+Binary: ros-one-moveit-ros-visualization
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-31-g7bc8da05d-2025.02.09.09.16
+Distribution: jammy
+Urgency: high
+Maintainer: Jon Binney <jon.binney@gmail.com>
+Changed-By: Jon Binney <jon.binney@gmail.com>
+Description:
+ ros-one-moveit-ros-visualization - Components of MoveIt that offer visualization
+Changes:
+ ros-one-moveit-ros-visualization (1.1.16-31-g7bc8da05d-2025.02.09.09.16) jammy; urgency=high
+Checksums-Sha1:
+ 6a86e1af284c723d89bc188170fa0f99d41292fb 38611148 ros-one-moveit-ros-visualization-dbgsym_1.1.16-31-g7bc8da05d-2025.02.09.09.16_amd64.ddeb
+ 47024dd3a9512e51af436e9242a341b34c75a444 40574 ros-one-moveit-ros-visualization_1.1.16-31-g7bc8da05d-2025.02.09.09.16_amd64.buildinfo
+ 4ea524af4deaaaba7512e04fdd5df0d3da19883b 582118 ros-one-moveit-ros-visualization_1.1.16-31-g7bc8da05d-2025.02.09.09.16_amd64.deb
+Checksums-Sha256:
+ 127fa25c542c77f70093e7827bcb76ef23046d705d53edae5c88eab4b8267509 38611148 ros-one-moveit-ros-visualization-dbgsym_1.1.16-31-g7bc8da05d-2025.02.09.09.16_amd64.ddeb
+ fbc42bbdb434e3b8d46a4cc00a9644244731a990677f05b9b3e61cb9326105ae 40574 ros-one-moveit-ros-visualization_1.1.16-31-g7bc8da05d-2025.02.09.09.16_amd64.buildinfo
+ c6d0fd0d9b77cf95af2d6b5601fb89803352e59a28c5e6e20df4e101bfe84302 582118 ros-one-moveit-ros-visualization_1.1.16-31-g7bc8da05d-2025.02.09.09.16_amd64.deb
+Files:
+ b16176cad3becb09786322211e99cf2f 38611148 debug optional ros-one-moveit-ros-visualization-dbgsym_1.1.16-31-g7bc8da05d-2025.02.09.09.16_amd64.ddeb
+ 4644ad91392946e4f135149f7d1d8f6f 40574 misc optional ros-one-moveit-ros-visualization_1.1.16-31-g7bc8da05d-2025.02.09.09.16_amd64.buildinfo
+ d4c408b1d87ff33657b157c8e3b201b0 582118 misc optional ros-one-moveit-ros-visualization_1.1.16-31-g7bc8da05d-2025.02.09.09.16_amd64.deb

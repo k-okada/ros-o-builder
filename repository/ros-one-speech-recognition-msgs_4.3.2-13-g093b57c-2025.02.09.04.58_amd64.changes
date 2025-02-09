@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sun, 03 May 2020 00:00:00 -0000
+Source: ros-one-speech-recognition-msgs
+Binary: ros-one-speech-recognition-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 4.3.2-13-g093b57c-2025.02.09.04.58
+Distribution: jammy
+Urgency: high
+Maintainer: Yuki Furuta <furushchev@jsk.imi.i.u-tokyo.ac.jp>
+Changed-By: Yuki Furuta <furushchev@jsk.imi.i.u-tokyo.ac.jp>
+Description:
+ ros-one-speech-recognition-msgs - speech_recognition_msgs
+Changes:
+ ros-one-speech-recognition-msgs (4.3.2-13-g093b57c-2025.02.09.04.58) jammy; urgency=high
+Checksums-Sha1:
+ d5b61c39239d281bb4de973d256e5605f6acb07d 9846 ros-one-speech-recognition-msgs_4.3.2-13-g093b57c-2025.02.09.04.58_amd64.buildinfo
+ 9b3ce9c6e5c9979c6cec9f80f151798ff2d42f9c 31782 ros-one-speech-recognition-msgs_4.3.2-13-g093b57c-2025.02.09.04.58_amd64.deb
+Checksums-Sha256:
+ dc673ce56ad5e80056aed0a9b343727740575f54250e92f95a3d759b0f645b69 9846 ros-one-speech-recognition-msgs_4.3.2-13-g093b57c-2025.02.09.04.58_amd64.buildinfo
+ 12b495212f8b8f5fda4b6e00b7712ee3f0aea95bf8b7afe526bd2961c404ff64 31782 ros-one-speech-recognition-msgs_4.3.2-13-g093b57c-2025.02.09.04.58_amd64.deb
+Files:
+ 3e9b778de68ed16c0c091a7eb2140c46 9846 misc optional ros-one-speech-recognition-msgs_4.3.2-13-g093b57c-2025.02.09.04.58_amd64.buildinfo
+ 32cad27a70b6bdcd391483f20d3cef3a 31782 misc optional ros-one-speech-recognition-msgs_4.3.2-13-g093b57c-2025.02.09.04.58_amd64.deb

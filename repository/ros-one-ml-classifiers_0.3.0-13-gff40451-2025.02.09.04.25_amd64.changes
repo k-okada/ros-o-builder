@@ -1,0 +1,43 @@
+Format: 1.8
+Date: Mon, 15 Sep 2014 00:00:00 -0000
+Source: ros-one-ml-classifiers
+Binary: ros-one-ml-classifiers
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.3.0-13-gff40451-2025.02.09.04.25
+Distribution: jammy
+Urgency: high
+Maintainer: Scott Niekum <sniekum@cs.umass.edu>
+Changed-By: Scott Niekum <sniekum@cs.umass.edu>
+Description:
+ ros-one-ml-classifiers - ml_classifiers
+Changes:
+ ros-one-ml-classifiers (0.3.0-13-gff40451-2025.02.09.04.25) jammy; urgency=high
+ .
+   * Fix build for indigo
+   * Merge pull request #2 <https://github.com/sniekum/ml_classifiers/issues/2> from davetcoleman/rospack_dep
+     Missing dep on rosdep
+   * Missing dep on rosdep
+   * updated version number
+   * Merge pull request #1 <https://github.com/sniekum/ml_classifiers/issues/1> from k-okada/hydro
+     upgrade to hydro
+   * upgrade to hydro
+   * added rosdep eigen
+   * removed eigen rosdep
+   * updated version
+   * fixed rosdep
+   * Switched linear kernel to RBF
+   * Moved to github
+   * Contributors: Dave Coleman, Hunter Laux, Kei Okada, Scott Niekum, sniekum
+Checksums-Sha1:
+ b74007ff5d9f2a01096964466343d7ca73a37efb 1634306 ros-one-ml-classifiers-dbgsym_0.3.0-13-gff40451-2025.02.09.04.25_amd64.ddeb
+ 033ae9b75e53fe28d9280a61037f58a99fc93698 13749 ros-one-ml-classifiers_0.3.0-13-gff40451-2025.02.09.04.25_amd64.buildinfo
+ a02552f4b079400183a67d8c866dbe0b1793f9f6 157830 ros-one-ml-classifiers_0.3.0-13-gff40451-2025.02.09.04.25_amd64.deb
+Checksums-Sha256:
+ 2d9b4394628b8a858682a8464cc52389be8bea74502d0c64fafa26fde4557331 1634306 ros-one-ml-classifiers-dbgsym_0.3.0-13-gff40451-2025.02.09.04.25_amd64.ddeb
+ 669a179a3e60206fae723e8f3f4acb393ed25eeb4078487c717de7816a5405dd 13749 ros-one-ml-classifiers_0.3.0-13-gff40451-2025.02.09.04.25_amd64.buildinfo
+ c22a220a424a3f9c2664a8a95195aa5391dd3c53a2a9e2c1d8702f21486d1cb2 157830 ros-one-ml-classifiers_0.3.0-13-gff40451-2025.02.09.04.25_amd64.deb
+Files:
+ b6e3094c43b5f17d388db521a08227e5 1634306 debug optional ros-one-ml-classifiers-dbgsym_0.3.0-13-gff40451-2025.02.09.04.25_amd64.ddeb
+ 00b012ffad0d64b2b0437894eb1dacd2 13749 misc optional ros-one-ml-classifiers_0.3.0-13-gff40451-2025.02.09.04.25_amd64.buildinfo
+ 42c411ab01dd0e7b59a6a346503bc32a 157830 misc optional ros-one-ml-classifiers_0.3.0-13-gff40451-2025.02.09.04.25_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 06 Jan 2025 00:00:00 -0000
+Source: ros-one-jsk-common
+Binary: ros-one-jsk-common
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.2.16-2025.02.09.11.02
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-common - Metapackage that contains commonly used toolset for jsk-ros-pkg
+Changes:
+ ros-one-jsk-common (2.2.16-2025.02.09.11.02) jammy; urgency=high
+Checksums-Sha1:
+ f1cda2c4bd9126d88bcf0dc5f16d21720f34349b 8131 ros-one-jsk-common_2.2.16-2025.02.09.11.02_amd64.buildinfo
+ ddb1590e270037e578dda684e6a60ae62fcbee2d 3086 ros-one-jsk-common_2.2.16-2025.02.09.11.02_amd64.deb
+Checksums-Sha256:
+ 30d281f9bc64e928bf05e93d9473f06afbed27743b94db55e4c4325ed24ecac7 8131 ros-one-jsk-common_2.2.16-2025.02.09.11.02_amd64.buildinfo
+ d8589a356e64106841b3e713dcae8d4021063cffb67276324e292be2485d7035 3086 ros-one-jsk-common_2.2.16-2025.02.09.11.02_amd64.deb
+Files:
+ 31a583ede3a319024305b428a11c61b3 8131 misc optional ros-one-jsk-common_2.2.16-2025.02.09.11.02_amd64.buildinfo
+ 4029408e5f68157d849d6d1dcc8e45d2 3086 misc optional ros-one-jsk-common_2.2.16-2025.02.09.11.02_amd64.deb

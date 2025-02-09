@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Tue, 20 Sep 2022 00:00:00 -0000
+Source: ros-one-mongodb-log
+Binary: ros-one-mongodb-log
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2025.02.09.05.41
+Distribution: jammy
+Urgency: high
+Maintainer: Marc Hanheide <marc@hanheide.net>
+Changed-By: Marc Hanheide <marc@hanheide.net>
+Description:
+ ros-one-mongodb-log - The mongodb_log package
+Changes:
+ ros-one-mongodb-log (0-2025.02.09.05.41) jammy; urgency=high
+ .
+   * Ensure Python 3 compatibility in mongodb log (#277 <https://github.com/strands-project/mongodb_store/issues/277>)
+   * update package.xml to format=3 (#269 <https://github.com/strands-project/mongodb_store/issues/269>)
+   * Contributors: Gal Gorjup, Kei Okada, Nick Hawes
+Checksums-Sha1:
+ 88ffef54734b0e9b9c51f31ecbeffa72773482bc 1347752 ros-one-mongodb-log-dbgsym_0-2025.02.09.05.41_amd64.ddeb
+ f4f81966abdff863d00c3cba20a59fb19066077e 18691 ros-one-mongodb-log_0-2025.02.09.05.41_amd64.buildinfo
+ 7590ac0686e3a8cb92764cc77a6c306efe689909 68822 ros-one-mongodb-log_0-2025.02.09.05.41_amd64.deb
+Checksums-Sha256:
+ 122f85a6a3250807042bae72116f8f43ce48dcbfcc24e8c169220baeae11be9e 1347752 ros-one-mongodb-log-dbgsym_0-2025.02.09.05.41_amd64.ddeb
+ eb7f9b9ae486406bdeaf3ca1b43c50cf0f5e448202c2967008b9be5092d52208 18691 ros-one-mongodb-log_0-2025.02.09.05.41_amd64.buildinfo
+ ef12360641ba9d9002f95d927a092801feaab61867c2ef567708782344535b87 68822 ros-one-mongodb-log_0-2025.02.09.05.41_amd64.deb
+Files:
+ ee6947768ddf5d9c3f78f80b740cdfdb 1347752 debug optional ros-one-mongodb-log-dbgsym_0-2025.02.09.05.41_amd64.ddeb
+ 89d96e983e1ae89d49e0914654d3a0fa 18691 misc optional ros-one-mongodb-log_0-2025.02.09.05.41_amd64.buildinfo
+ f35b5350814c1d581a5fa77b563830bc 68822 misc optional ros-one-mongodb-log_0-2025.02.09.05.41_amd64.deb

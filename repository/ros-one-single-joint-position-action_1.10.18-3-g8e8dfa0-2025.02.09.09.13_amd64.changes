@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-single-joint-position-action
+Binary: ros-one-single-joint-position-action
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.10.18-3-g8e8dfa0-2025.02.09.09.13
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-single-joint-position-action - The single joint position action is a node that provides an actio
+Changes:
+ ros-one-single-joint-position-action (1.10.18-3-g8e8dfa0-2025.02.09.09.13) jammy; urgency=high
+Checksums-Sha1:
+ 1396528f307caf2ad5ae9c7e2940d5a0e12bab3b 933734 ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2025.02.09.09.13_amd64.ddeb
+ 57ccd8802259838b43fd4adda044094cc84cc556 13917 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.02.09.09.13_amd64.buildinfo
+ 6f3fe272140fcad955299f0d22b51eb7df0aeaaa 82718 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.02.09.09.13_amd64.deb
+Checksums-Sha256:
+ d1e1d306971fa97baa03992a61661d3424e2e5336f4d36cba22bbbc663e831cb 933734 ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2025.02.09.09.13_amd64.ddeb
+ ecb5510be055059509edd473c564f484e399b4ef12929786887e4a11c95fc66f 13917 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.02.09.09.13_amd64.buildinfo
+ 50d96186fdb91ed5f78bbabdf2e88e6562aff7db611de82e3d89b856ada28693 82718 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.02.09.09.13_amd64.deb
+Files:
+ 4fa1e6d7e6c3f059791713697ed5c48c 933734 debug optional ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2025.02.09.09.13_amd64.ddeb
+ 364959f786ec0e454a6b19103b667e75 13917 misc optional ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.02.09.09.13_amd64.buildinfo
+ 13f80b1375a3ee65dc6910be94b7de10 82718 misc optional ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.02.09.09.13_amd64.deb

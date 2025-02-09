@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Tue, 15 Jun 2021 00:00:00 -0000
+Source: ros-one-scaled-joint-trajectory-controller
+Binary: ros-one-scaled-joint-trajectory-controller
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.1.1-4-gb2fff50-2025.02.09.08.30
+Distribution: jammy
+Urgency: high
+Maintainer: Felix Exner <exner@fzi.de>
+Changed-By: Felix Exner <exner@fzi.de>
+Description:
+ ros-one-scaled-joint-trajectory-controller - Provides controllers that use the speed scaling interface.
+Changes:
+ ros-one-scaled-joint-trajectory-controller (0.1.1-4-gb2fff50-2025.02.09.08.30) jammy; urgency=high
+ .
+   * Require same CMake version in all packages
+   * Contributors: Felix Exner
+Checksums-Sha1:
+ b8904fd98bea585d848c7eebada4f826352052d7 2203040 ros-one-scaled-joint-trajectory-controller-dbgsym_0.1.1-4-gb2fff50-2025.02.09.08.30_amd64.ddeb
+ 700fa18fa11ae39d2ceccfe68e8259ed23bfcb36 22363 ros-one-scaled-joint-trajectory-controller_0.1.1-4-gb2fff50-2025.02.09.08.30_amd64.buildinfo
+ 97e032baf7c613a543eb86fcf3d8903e647f19ef 176950 ros-one-scaled-joint-trajectory-controller_0.1.1-4-gb2fff50-2025.02.09.08.30_amd64.deb
+Checksums-Sha256:
+ daac478de0dbb40d4bfccaeb681705df73cf761abf6f1e1cc80d6a8303a0e87b 2203040 ros-one-scaled-joint-trajectory-controller-dbgsym_0.1.1-4-gb2fff50-2025.02.09.08.30_amd64.ddeb
+ 5c7b9bb0ce4b683b164224843d748d24b367bf57943b49c128e056e721084e59 22363 ros-one-scaled-joint-trajectory-controller_0.1.1-4-gb2fff50-2025.02.09.08.30_amd64.buildinfo
+ 2c667c28cf728959f3c844a64758914e19284fbe1cddfa3381a6e8b1c88b265a 176950 ros-one-scaled-joint-trajectory-controller_0.1.1-4-gb2fff50-2025.02.09.08.30_amd64.deb
+Files:
+ 1a3773f6b3f9ca5171f817d07cd39311 2203040 debug optional ros-one-scaled-joint-trajectory-controller-dbgsym_0.1.1-4-gb2fff50-2025.02.09.08.30_amd64.ddeb
+ 9fc4cc9d1a9b0636103afd42d2a7fd00 22363 misc optional ros-one-scaled-joint-trajectory-controller_0.1.1-4-gb2fff50-2025.02.09.08.30_amd64.buildinfo
+ 4891f3f3b82c2d0e4211bf809ad66e2e 176950 misc optional ros-one-scaled-joint-trajectory-controller_0.1.1-4-gb2fff50-2025.02.09.08.30_amd64.deb

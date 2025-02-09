@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 21 Jul 2021 00:00:00 -0000
+Source: ros-one-rosclean
+Binary: ros-one-rosclean
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.15.8-3-g136e18e9-2025.02.09.03.06
+Distribution: jammy
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-rosclean - rosclean: cleanup filesystem resources (e.g.
+Changes:
+ ros-one-rosclean (1.15.8-3-g136e18e9-2025.02.09.03.06) jammy; urgency=high
+ .
+   * Update maintainers (#272 <https://github.com/ros/ros/issues/272>)
+   * Contributors: Jacob Perron
+Checksums-Sha1:
+ 4968d52a6a08346b7484a28482ed1866372c0cbf 8172 ros-one-rosclean_1.15.8-3-g136e18e9-2025.02.09.03.06_amd64.buildinfo
+ 1ebc61ef27e02c2a1ea12a0c41b05a2839d905f5 12618 ros-one-rosclean_1.15.8-3-g136e18e9-2025.02.09.03.06_amd64.deb
+Checksums-Sha256:
+ 13bab3fa28e5d51b5d4c9e4e80ad77a6c4997f630e72a478af500884c301d3c2 8172 ros-one-rosclean_1.15.8-3-g136e18e9-2025.02.09.03.06_amd64.buildinfo
+ f760fddfb2864988ec4b155dc0c39504230225f00101c319096c8de3f58fed29 12618 ros-one-rosclean_1.15.8-3-g136e18e9-2025.02.09.03.06_amd64.deb
+Files:
+ 7d48a445214019f0d408f29f8ffa724b 8172 misc optional ros-one-rosclean_1.15.8-3-g136e18e9-2025.02.09.03.06_amd64.buildinfo
+ 516f2daf7de08df21940dac537fec449 12618 misc optional ros-one-rosclean_1.15.8-3-g136e18e9-2025.02.09.03.06_amd64.deb

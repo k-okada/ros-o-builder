@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-pilz-industrial-motion-planner
+Binary: ros-one-pilz-industrial-motion-planner
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-31-g7bc8da05d-2025.02.09.09.51
+Distribution: jammy
+Urgency: high
+Maintainer: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Changed-By: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Description:
+ ros-one-pilz-industrial-motion-planner - MoveIt plugin to generate industrial trajectories PTP, LIN, CIRC
+Changes:
+ ros-one-pilz-industrial-motion-planner (1.1.16-31-g7bc8da05d-2025.02.09.09.51) jammy; urgency=high
+Checksums-Sha1:
+ bca8c95be85ee7f67e038d9ec70b03ea95432fa4 28807126 ros-one-pilz-industrial-motion-planner-dbgsym_1.1.16-31-g7bc8da05d-2025.02.09.09.51_amd64.ddeb
+ 21aafce1a6d5a3b5fd1c6737dd3eb40a2401ebc7 27090 ros-one-pilz-industrial-motion-planner_1.1.16-31-g7bc8da05d-2025.02.09.09.51_amd64.buildinfo
+ b86a02bd744235dd7fe556edab49634351fcb41a 397840 ros-one-pilz-industrial-motion-planner_1.1.16-31-g7bc8da05d-2025.02.09.09.51_amd64.deb
+Checksums-Sha256:
+ ce5c96f44e4dca734ff93b71abe7613a8f346a541d4d5ef7ace0d71b9527ccec 28807126 ros-one-pilz-industrial-motion-planner-dbgsym_1.1.16-31-g7bc8da05d-2025.02.09.09.51_amd64.ddeb
+ 5662e3ba4f315dd7ab7388f3323668f1c7ec4ecf9c5fb6d8dcf12631ae362439 27090 ros-one-pilz-industrial-motion-planner_1.1.16-31-g7bc8da05d-2025.02.09.09.51_amd64.buildinfo
+ 023ed3f242b60f463248fecbcddc9686863bd483f88d56fb66380d2fb777da29 397840 ros-one-pilz-industrial-motion-planner_1.1.16-31-g7bc8da05d-2025.02.09.09.51_amd64.deb
+Files:
+ 15bfe3e7dd6ca6e6179d5a9c8595464b 28807126 debug optional ros-one-pilz-industrial-motion-planner-dbgsym_1.1.16-31-g7bc8da05d-2025.02.09.09.51_amd64.ddeb
+ 45d51d7d1b734644350234840cbb753e 27090 misc optional ros-one-pilz-industrial-motion-planner_1.1.16-31-g7bc8da05d-2025.02.09.09.51_amd64.buildinfo
+ 15d6b4a786b2763926b111da38e451e2 397840 misc optional ros-one-pilz-industrial-motion-planner_1.1.16-31-g7bc8da05d-2025.02.09.09.51_amd64.deb

@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Mon, 17 Oct 2022 00:00:00 -0000
+Source: ros-one-stereo-image-proc
+Binary: ros-one-stereo-image-proc
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.17.0-11-g69488e6-2025.02.09.05.55
+Distribution: jammy
+Urgency: high
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Changed-By: Vincent Rabaud <vincent.rabaud@gmail.com>
+Description:
+ ros-one-stereo-image-proc - Stereo and single image rectification and disparity processing.
+Changes:
+ ros-one-stereo-image-proc (1.17.0-11-g69488e6-2025.02.09.05.55) jammy; urgency=high
+ .
+   * Switch to hpp headers of pluginlib
+   * Drop old C++ standard compiler flag
+   * Switch to new boost/bind/bind.hpp
+   * Contributors: Jochen Sprickerhof
+Checksums-Sha1:
+ 9f45b7189b479d8d7db14be8e545ea6907b4ddcb 3065892 ros-one-stereo-image-proc-dbgsym_1.17.0-11-g69488e6-2025.02.09.05.55_amd64.ddeb
+ 733a82e30434bdb3f939f4542cb283235cacfc0e 31405 ros-one-stereo-image-proc_1.17.0-11-g69488e6-2025.02.09.05.55_amd64.buildinfo
+ b21578341900146b2f255da0e0b5908a914deee6 198386 ros-one-stereo-image-proc_1.17.0-11-g69488e6-2025.02.09.05.55_amd64.deb
+Checksums-Sha256:
+ 4a125b2e22169f1f6dfd4c79431fcea69b904f1e7bdabeb6f63d4ee717d8b3c8 3065892 ros-one-stereo-image-proc-dbgsym_1.17.0-11-g69488e6-2025.02.09.05.55_amd64.ddeb
+ cf8c96443a3a0171f53be6230293e2345b60ef89f560bfa1b5539ab2328a0bbe 31405 ros-one-stereo-image-proc_1.17.0-11-g69488e6-2025.02.09.05.55_amd64.buildinfo
+ d983bc79bec9a3a13a2ae3ab6cae989a663c1f7eedae95999be4ea9b22e389b2 198386 ros-one-stereo-image-proc_1.17.0-11-g69488e6-2025.02.09.05.55_amd64.deb
+Files:
+ 6871a69e06e36ee06c8f60e63a296978 3065892 debug optional ros-one-stereo-image-proc-dbgsym_1.17.0-11-g69488e6-2025.02.09.05.55_amd64.ddeb
+ 0e4c68f399aa9650b2b60aebaff24244 31405 misc optional ros-one-stereo-image-proc_1.17.0-11-g69488e6-2025.02.09.05.55_amd64.buildinfo
+ 3e27a5cdc09e4991f1f9bce7610e3cde 198386 misc optional ros-one-stereo-image-proc_1.17.0-11-g69488e6-2025.02.09.05.55_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 20 May 2021 00:00:00 -0000
+Source: ros-one-pr2-common-action-msgs
+Binary: ros-one-pr2-common-action-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.0.12-5-g7f34d64-2025.02.09.10.13
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-common-action-msgs - The pr2_common_action_msgs package
+Changes:
+ ros-one-pr2-common-action-msgs (0.0.12-5-g7f34d64-2025.02.09.10.13) jammy; urgency=high
+Checksums-Sha1:
+ 4f25b79e937d7ad379237f4227e70a8c4204e214 9996 ros-one-pr2-common-action-msgs_0.0.12-5-g7f34d64-2025.02.09.10.13_amd64.buildinfo
+ fcc3a6dd87f428e1be25d3f985029644a386620c 45586 ros-one-pr2-common-action-msgs_0.0.12-5-g7f34d64-2025.02.09.10.13_amd64.deb
+Checksums-Sha256:
+ ade2520aa3621c0b86f91df76c0fc8ac028a4fc0c71eb416d93891228b2be4a2 9996 ros-one-pr2-common-action-msgs_0.0.12-5-g7f34d64-2025.02.09.10.13_amd64.buildinfo
+ 2833d820436456652b47173d3f64f5aa309d45fb9a4db603ed1f8fe833bb8884 45586 ros-one-pr2-common-action-msgs_0.0.12-5-g7f34d64-2025.02.09.10.13_amd64.deb
+Files:
+ b21481b26787955b2b89299fc946f775 9996 misc optional ros-one-pr2-common-action-msgs_0.0.12-5-g7f34d64-2025.02.09.10.13_amd64.buildinfo
+ e97183ec53dd62ce466e65db8f9621e8 45586 misc optional ros-one-pr2-common-action-msgs_0.0.12-5-g7f34d64-2025.02.09.10.13_amd64.deb

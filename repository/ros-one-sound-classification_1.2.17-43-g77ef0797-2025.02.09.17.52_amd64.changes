@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 14 Nov 2023 00:00:00 -0000
+Source: ros-one-sound-classification
+Binary: ros-one-sound-classification
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.2.17-43-g77ef0797-2025.02.09.17.52
+Distribution: jammy
+Urgency: high
+Maintainer: Naoya Yamaguchi <708yamaguchi@gmail.com>
+Changed-By: Naoya Yamaguchi <708yamaguchi@gmail.com>
+Description:
+ ros-one-sound-classification - The sound_classification package
+Changes:
+ ros-one-sound-classification (1.2.17-43-g77ef0797-2025.02.09.17.52) jammy; urgency=high
+Checksums-Sha1:
+ 121bd9b3b2ef98aafa56fe9873b4057d1cba7368 696 ros-one-sound-classification-dbgsym_1.2.17-43-g77ef0797-2025.02.09.17.52_amd64.ddeb
+ 551e6a11635befd24812e3ba79e27c2f664036ff 12183 ros-one-sound-classification_1.2.17-43-g77ef0797-2025.02.09.17.52_amd64.buildinfo
+ 420450b7b8b38696b1454ba652ccff013e69d840 22622110 ros-one-sound-classification_1.2.17-43-g77ef0797-2025.02.09.17.52_amd64.deb
+Checksums-Sha256:
+ 2b1c9666bd5e500f93d6387a13d861f143c410080e4ed66b559bbf6138c2846a 696 ros-one-sound-classification-dbgsym_1.2.17-43-g77ef0797-2025.02.09.17.52_amd64.ddeb
+ 117d09a982264fb6e357e26792fba857ca8db68377371cc36633e71411fb9620 12183 ros-one-sound-classification_1.2.17-43-g77ef0797-2025.02.09.17.52_amd64.buildinfo
+ 893ee857811b016e5d968fc57a66ed30a2e50d962d3941fd8a67f18916ede050 22622110 ros-one-sound-classification_1.2.17-43-g77ef0797-2025.02.09.17.52_amd64.deb
+Files:
+ e4892c34b902c980b76052fe0bf3fd91 696 debug optional ros-one-sound-classification-dbgsym_1.2.17-43-g77ef0797-2025.02.09.17.52_amd64.ddeb
+ 30f751b8fc2f7a404d94530d4ca60a74 12183 misc optional ros-one-sound-classification_1.2.17-43-g77ef0797-2025.02.09.17.52_amd64.buildinfo
+ dd04c1ea2319bee8c937a4d03ae20945 22622110 misc optional ros-one-sound-classification_1.2.17-43-g77ef0797-2025.02.09.17.52_amd64.deb

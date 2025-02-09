@@ -1,0 +1,39 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-downward
+Binary: ros-one-downward
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.29-6-g5b37f2c7-2025.02.09.12.23
+Distribution: jammy
+Urgency: high
+Maintainer: Yohei Kakiuchi <youhei@jsk.t.u-tokyo.ac.jp>
+Changed-By: Yohei Kakiuchi <youhei@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-downward - fast downward: PDDL Planner (http://www.fast-downward.org)
+Changes:
+ ros-one-downward (2.1.29-6-g5b37f2c7-2025.02.09.12.23) jammy; urgency=high
+ .
+   * Fix for ROS-O (#515 <https://github.com/jsk-ros-pkg/jsk_3rdparty/issues/515>)
+ .
+       * [.github/workflows/config.yml: disable installing recommends in apt-get install
+       * [3rdparty/downward/package.xml: add linbfl-dev for FlexLexer.h
+ .
+   * Support ros-o / Ubuntu 22.04 (#512 <https://github.com/jsk-ros-pkg/jsk_3rdparty/issues/512>)
+ .
+       * [downward] [ros-o] add -Wno-maybe-uninitialized
+       * [downward] patching to fix std::vector namespace
+ .
+   * Contributors: Kei Okada, Yoshiki Obinata
+Checksums-Sha1:
+ bec0a59e432fca1a16807bea2cf0b0a2ef721802 19498238 ros-one-downward-dbgsym_2.1.29-6-g5b37f2c7-2025.02.09.12.23_amd64.ddeb
+ 10c9cc4ae12309a8e90b33018053f59204b8ceee 13525 ros-one-downward_2.1.29-6-g5b37f2c7-2025.02.09.12.23_amd64.buildinfo
+ 48d8c139612d6c1c0cb5112160a5b6da107f358b 1861422 ros-one-downward_2.1.29-6-g5b37f2c7-2025.02.09.12.23_amd64.deb
+Checksums-Sha256:
+ 0b65f7b94f110d22962fd63088f956941848df93ca8b97417af8bb299b4cd9e4 19498238 ros-one-downward-dbgsym_2.1.29-6-g5b37f2c7-2025.02.09.12.23_amd64.ddeb
+ 8d41711e8d8ccf30d021ddcc6096bd0dd3abc860411ef3f8bd1499e773a603a7 13525 ros-one-downward_2.1.29-6-g5b37f2c7-2025.02.09.12.23_amd64.buildinfo
+ b5af0d7aea8c0ef00e225b733d64ab3acaa6348be5b4cf6832c3b394d517e217 1861422 ros-one-downward_2.1.29-6-g5b37f2c7-2025.02.09.12.23_amd64.deb
+Files:
+ 6b304b4678c57f7ecb65dcf94d0265cd 19498238 debug optional ros-one-downward-dbgsym_2.1.29-6-g5b37f2c7-2025.02.09.12.23_amd64.ddeb
+ b1c84728d7ccaabc840e488e2484b89c 13525 misc optional ros-one-downward_2.1.29-6-g5b37f2c7-2025.02.09.12.23_amd64.buildinfo
+ ef0bc15ca7e8144b1170b14fa387bdfc 1861422 misc optional ros-one-downward_2.1.29-6-g5b37f2c7-2025.02.09.12.23_amd64.deb

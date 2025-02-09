@@ -1,0 +1,13 @@
+drwxr-xr-x root/root         0 2025-02-09 05:25 ./
+drwxr-xr-x root/root         0 2025-02-09 05:25 ./opt/
+drwxr-xr-x root/root         0 2025-02-09 05:25 ./opt/ros/
+drwxr-xr-x root/root         0 2025-02-09 05:25 ./opt/ros/one/
+drwxr-xr-x root/root         0 2025-02-09 05:25 ./opt/ros/one/share/
+drwxr-xr-x root/root         0 2025-02-09 05:25 ./opt/ros/one/share/geographic_info/
+-rw-r--r-- root/root       757 2025-02-09 05:25 ./opt/ros/one/share/geographic_info/package.xml
+drwxr-xr-x root/root         0 2025-02-09 05:25 ./usr/
+drwxr-xr-x root/root         0 2025-02-09 05:25 ./usr/share/
+drwxr-xr-x root/root         0 2025-02-09 05:25 ./usr/share/doc/
+drwxr-xr-x root/root         0 2025-02-09 05:25 ./usr/share/doc/ros-one-geographic-info/
+-rw-r--r-- root/root       364 2025-02-09 05:25 ./usr/share/doc/ros-one-geographic-info/changelog.Debian.gz
+-rw-r--r-- root/root       427 2025-02-09 05:25 ./usr/share/doc/ros-one-geographic-info/copyright

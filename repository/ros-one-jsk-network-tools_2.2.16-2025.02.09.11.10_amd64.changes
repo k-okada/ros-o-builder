@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 06 Jan 2025 00:00:00 -0000
+Source: ros-one-jsk-network-tools
+Binary: ros-one-jsk-network-tools
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.2.16-2025.02.09.11.10
+Distribution: jammy
+Urgency: high
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Changed-By: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-network-tools - jsk_network_tools
+Changes:
+ ros-one-jsk-network-tools (2.2.16-2025.02.09.11.10) jammy; urgency=high
+Checksums-Sha1:
+ f1552fffa431e6afda059bbac8f580c3861747dc 725020 ros-one-jsk-network-tools-dbgsym_2.2.16-2025.02.09.11.10_amd64.ddeb
+ c121bfd1dd1fa068b764759852075b7818d6f549 16291 ros-one-jsk-network-tools_2.2.16-2025.02.09.11.10_amd64.buildinfo
+ 1f8dbdc940d0be089e8606c5f3ef1a052ead2280 137418 ros-one-jsk-network-tools_2.2.16-2025.02.09.11.10_amd64.deb
+Checksums-Sha256:
+ accafd221ab4e7ff7df8d9f950b4f9521062b3f7def94d6628a49a7498947587 725020 ros-one-jsk-network-tools-dbgsym_2.2.16-2025.02.09.11.10_amd64.ddeb
+ ebf374707f5c1f29f5574a0ca6c374a3c438fe9502f9782cedb834ebeba6d60e 16291 ros-one-jsk-network-tools_2.2.16-2025.02.09.11.10_amd64.buildinfo
+ bae309a2b737f3abc9d59a024e139bc069465353400ba6cdde5ed77b76ecf102 137418 ros-one-jsk-network-tools_2.2.16-2025.02.09.11.10_amd64.deb
+Files:
+ 83403fc56c7e1df9926b0671a9db73c0 725020 debug optional ros-one-jsk-network-tools-dbgsym_2.2.16-2025.02.09.11.10_amd64.ddeb
+ 0d447cae2df7dc3943fc5570a08897fc 16291 misc optional ros-one-jsk-network-tools_2.2.16-2025.02.09.11.10_amd64.buildinfo
+ f89e3770c447d79799dd56d32a8b7e68 137418 misc optional ros-one-jsk-network-tools_2.2.16-2025.02.09.11.10_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 11 Jan 2021 00:00:00 -0000
+Source: ros-one-stereo-msgs
+Binary: ros-one-stereo-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.13.1-2025.02.09.04.12
+Distribution: jammy
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-stereo-msgs - stereo_msgs contains messages specific to stereo processing, such
+Changes:
+ ros-one-stereo-msgs (1.13.1-2025.02.09.04.12) jammy; urgency=high
+ .
+   * Update package maintainers (#168 <https://github.com/ros/common_msgs/issues/168>)
+   * Contributors: Michel Hidalgo
+Checksums-Sha1:
+ 1bb8098bdca69b5e04f42c9bbe051a73c786aae0 9844 ros-one-stereo-msgs_1.13.1-2025.02.09.04.12_amd64.buildinfo
+ 9db4c5abcba7ac162fea76aeb34fbad41068f380 19766 ros-one-stereo-msgs_1.13.1-2025.02.09.04.12_amd64.deb
+Checksums-Sha256:
+ 60c9da1e044139661dbb83e557c6f3afc40ffb4770541d33536a6e93f8e2d498 9844 ros-one-stereo-msgs_1.13.1-2025.02.09.04.12_amd64.buildinfo
+ 5a52b8133c74d831cf546d76a5da2756cee94e7cb09546878996c3461316713d 19766 ros-one-stereo-msgs_1.13.1-2025.02.09.04.12_amd64.deb
+Files:
+ 91ec92fce6bc8934f239059cc9b68174 9844 misc optional ros-one-stereo-msgs_1.13.1-2025.02.09.04.12_amd64.buildinfo
+ 4517d98784fd528c7461dcc615a20d4f 19766 misc optional ros-one-stereo-msgs_1.13.1-2025.02.09.04.12_amd64.deb

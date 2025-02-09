@@ -1,0 +1,13 @@
+drwxr-xr-x root/root         0 2025-02-09 09:23 ./
+drwxr-xr-x root/root         0 2025-02-09 09:23 ./opt/
+drwxr-xr-x root/root         0 2025-02-09 09:23 ./opt/ros/
+drwxr-xr-x root/root         0 2025-02-09 09:23 ./opt/ros/one/
+drwxr-xr-x root/root         0 2025-02-09 09:23 ./opt/ros/one/share/
+drwxr-xr-x root/root         0 2025-02-09 09:23 ./opt/ros/one/share/wu_ros_tools/
+-rw-r--r-- root/root       640 2025-02-09 07:06 ./opt/ros/one/share/wu_ros_tools/package.xml
+drwxr-xr-x root/root         0 2025-02-09 09:23 ./usr/
+drwxr-xr-x root/root         0 2025-02-09 09:23 ./usr/share/
+drwxr-xr-x root/root         0 2025-02-09 09:23 ./usr/share/doc/
+drwxr-xr-x root/root         0 2025-02-09 09:23 ./usr/share/doc/ros-one-wu-ros-tools/
+-rw-r--r-- root/root       200 2025-02-09 09:23 ./usr/share/doc/ros-one-wu-ros-tools/changelog.Debian.gz
+-rw-r--r-- root/root       281 2025-02-09 09:23 ./usr/share/doc/ros-one-wu-ros-tools/copyright

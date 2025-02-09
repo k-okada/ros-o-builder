@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Fri, 07 Aug 2020 00:00:00 -0000
+Source: ros-one-robot-self-filter
+Binary: ros-one-robot-self-filter
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.1.32-2-ga8d2e49-2025.02.09.06.23
+Distribution: jammy
+Urgency: high
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Changed-By: Devon Ash <dash@clearpathrobotics.com>
+Description:
+ ros-one-robot-self-filter - Filters the robot's body out of point clouds.
+Changes:
+ ros-one-robot-self-filter (0.1.32-2-ga8d2e49-2025.02.09.06.23) jammy; urgency=high
+ .
+   * PCL > 1.10 uses c++ 14
+   * find_package(Boost signals) no longer required for noetic, use find_package(Boost)
+   * remove indigo/lunar from .travis.yml
+   * add noetic and fix .travs.yml
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 2d8fc164a3bcb7432139c0b59dcae79dc2769e0b 3659474 ros-one-robot-self-filter-dbgsym_0.1.32-2-ga8d2e49-2025.02.09.06.23_amd64.ddeb
+ 963c6b0de07d30cf20fc20f86836268a5846a666 38955 ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2025.02.09.06.23_amd64.buildinfo
+ 2fd1a079c488f813cb0f7748e2a46d01eb6ee040 188558 ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2025.02.09.06.23_amd64.deb
+Checksums-Sha256:
+ ab935356afd1b2d893bb8d6fdbdc6449855ab0448045e5147af8a2e7cf58bf2c 3659474 ros-one-robot-self-filter-dbgsym_0.1.32-2-ga8d2e49-2025.02.09.06.23_amd64.ddeb
+ 1f0d2bd418b21e9a35726d911c5d8236eb96dc6059f2f768669418a260ea183e 38955 ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2025.02.09.06.23_amd64.buildinfo
+ a45d87d287c807f9d1048e6ffe1b19af64adca3e8f3761d7d794ff7a938ee960 188558 ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2025.02.09.06.23_amd64.deb
+Files:
+ 4ce8beb16af44aeba275b601062045f8 3659474 debug optional ros-one-robot-self-filter-dbgsym_0.1.32-2-ga8d2e49-2025.02.09.06.23_amd64.ddeb
+ 9ba5c09182a95efaf68f6c4a1b53957b 38955 misc optional ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2025.02.09.06.23_amd64.buildinfo
+ e335a9c7fafd3b74b5a1fdbcfcc2c27e 188558 misc optional ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2025.02.09.06.23_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 11 Dec 2024 00:00:00 -0000
+Source: ros-one-jsk-rviz-plugins
+Binary: ros-one-jsk-rviz-plugins
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.10-2025.02.09.15.46
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-rviz-plugins - The jsk_rviz_plugins package
+Changes:
+ ros-one-jsk-rviz-plugins (2.1.10-2025.02.09.15.46) jammy; urgency=high
+Checksums-Sha1:
+ a35729d8415f1b753885616fd0c3a6329b5f9eaa 43045894 ros-one-jsk-rviz-plugins-dbgsym_2.1.10-2025.02.09.15.46_amd64.ddeb
+ 1047ca3eb31ed96b78f642e117130f36cbd2c9b0 49169 ros-one-jsk-rviz-plugins_2.1.10-2025.02.09.15.46_amd64.buildinfo
+ de9ffcffaf02487bbb50d19126b9f3bc6ae81e26 2095482 ros-one-jsk-rviz-plugins_2.1.10-2025.02.09.15.46_amd64.deb
+Checksums-Sha256:
+ 0a7972adaa4dce9c407d0d9ed7afbf9d5e315a1ce629491d762786f3de54cab6 43045894 ros-one-jsk-rviz-plugins-dbgsym_2.1.10-2025.02.09.15.46_amd64.ddeb
+ 3376362650a917f0da8f1fd7871484b200dbaa4c8a37cc45a5145eef5ad1349c 49169 ros-one-jsk-rviz-plugins_2.1.10-2025.02.09.15.46_amd64.buildinfo
+ 2a59706917de60d72aab243e53e863ffc6d0e8b0f96ab0ffd7f223e0b4fdeac1 2095482 ros-one-jsk-rviz-plugins_2.1.10-2025.02.09.15.46_amd64.deb
+Files:
+ 910582d69006a906ebb2a37029a891e5 43045894 debug optional ros-one-jsk-rviz-plugins-dbgsym_2.1.10-2025.02.09.15.46_amd64.ddeb
+ 3700bd48f324ca3936f3cb2364b2089a 49169 misc optional ros-one-jsk-rviz-plugins_2.1.10-2025.02.09.15.46_amd64.buildinfo
+ 2987eb635a1580a6f922a56fbb65d0c5 2095482 misc optional ros-one-jsk-rviz-plugins_2.1.10-2025.02.09.15.46_amd64.deb

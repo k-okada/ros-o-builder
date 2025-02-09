@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Tue, 21 May 2024 00:00:00 -0000
+Source: ros-one-rviz
+Binary: ros-one-rviz
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.14.25-3-g250c0c28-2025.02.09.06.27
+Distribution: jammy
+Urgency: high
+Maintainer: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Changed-By: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Description:
+ ros-one-rviz - 3D visualization tool for ROS.
+Changes:
+ ros-one-rviz (1.14.25-3-g250c0c28-2025.02.09.06.27) jammy; urgency=high
+ .
+   * Fix #1825 <https://github.com/ros-visualization/rviz/issues/1825>/#1830 <https://github.com/ros-visualization/rviz/issues/1830>: segfault when hiding deleted properties (#1831 <https://github.com/ros-visualization/rviz/issues/1831>)
+   * Contributors: Robert Haschke
+Checksums-Sha1:
+ 96a736737ee516599bdc2c869f32b35cf958e9a5 63922980 ros-one-rviz-dbgsym_1.14.25-3-g250c0c28-2025.02.09.06.27_amd64.ddeb
+ 15e0a552f65e450796e74703533e582d895ea5a3 29481 ros-one-rviz_1.14.25-3-g250c0c28-2025.02.09.06.27_amd64.buildinfo
+ 57f500714cfc023dc83594e4465b9e2267714fde 2349080 ros-one-rviz_1.14.25-3-g250c0c28-2025.02.09.06.27_amd64.deb
+Checksums-Sha256:
+ b69bd9af12e361c899d0783ef91659c64ac38b6c1c3a6774d3c6f09568372e79 63922980 ros-one-rviz-dbgsym_1.14.25-3-g250c0c28-2025.02.09.06.27_amd64.ddeb
+ 948aee7e443ed63a8faf552706f1b3f2b6fdbf0ce0c97afb223e480d461bd159 29481 ros-one-rviz_1.14.25-3-g250c0c28-2025.02.09.06.27_amd64.buildinfo
+ f6c28953580b847da9e38125955fe2d4d989dc51a8ebbf1cf9575d8d2f7ca035 2349080 ros-one-rviz_1.14.25-3-g250c0c28-2025.02.09.06.27_amd64.deb
+Files:
+ bdfbbf158801e5c87007b46159e44b1f 63922980 debug optional ros-one-rviz-dbgsym_1.14.25-3-g250c0c28-2025.02.09.06.27_amd64.ddeb
+ e04bf07a2149a447789a55deab92dc9e 29481 misc optional ros-one-rviz_1.14.25-3-g250c0c28-2025.02.09.06.27_amd64.buildinfo
+ 39e65a658db802e041f390135dd62eb5 2349080 misc optional ros-one-rviz_1.14.25-3-g250c0c28-2025.02.09.06.27_amd64.deb

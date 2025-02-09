@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 07 Jun 2024 00:00:00 -0000
+Source: ros-one-qb-device-hardware-interface
+Binary: ros-one-qb-device-hardware-interface
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2025.02.09.08.32
+Distribution: jammy
+Urgency: high
+Maintainer: qb Support Team <support@qbrobotics.com>
+Changed-By: qb Support Team <support@qbrobotics.com>
+Description:
+ ros-one-qb-device-hardware-interface - This package contains a device-independent hardware interface for
+Changes:
+ ros-one-qb-device-hardware-interface (0-2025.02.09.08.32) jammy; urgency=high
+Checksums-Sha1:
+ 767d9b6ad8d0ec9b5a0bd4ee02eb12140c0a879b 1759240 ros-one-qb-device-hardware-interface-dbgsym_0-2025.02.09.08.32_amd64.ddeb
+ 24f4d4bbdf8d8f56e3941d5f8aa4ea1d311000b1 14805 ros-one-qb-device-hardware-interface_0-2025.02.09.08.32_amd64.buildinfo
+ cffd9ce0db4b4bac5d853cf4f6945fd2e94bfb67 136692 ros-one-qb-device-hardware-interface_0-2025.02.09.08.32_amd64.deb
+Checksums-Sha256:
+ b97100354c0c221965cf28daa09e818778e2ff1edb3a0711bbd365fed986d034 1759240 ros-one-qb-device-hardware-interface-dbgsym_0-2025.02.09.08.32_amd64.ddeb
+ 8f824e236e6e700af001bd81e1eb4de9f5fe344678e420699787e54e53030aa4 14805 ros-one-qb-device-hardware-interface_0-2025.02.09.08.32_amd64.buildinfo
+ de2f076f9bb5f716d20945bc36ababa4a441ecea78ac1f6260a670d2f3f8557e 136692 ros-one-qb-device-hardware-interface_0-2025.02.09.08.32_amd64.deb
+Files:
+ d28ca716a4e5ac4e39b17de8e3719783 1759240 debug optional ros-one-qb-device-hardware-interface-dbgsym_0-2025.02.09.08.32_amd64.ddeb
+ 69d20e655d438e4fe95db46d1c341d64 14805 misc optional ros-one-qb-device-hardware-interface_0-2025.02.09.08.32_amd64.buildinfo
+ 3b029f0d9e0135e3ff357d6176de77ff 136692 misc optional ros-one-qb-device-hardware-interface_0-2025.02.09.08.32_amd64.deb

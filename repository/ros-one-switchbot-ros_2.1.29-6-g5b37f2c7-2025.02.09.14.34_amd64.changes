@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-switchbot-ros
+Binary: ros-one-switchbot-ros
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.29-6-g5b37f2c7-2025.02.09.14.34
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-switchbot-ros - use switchbot with ros
+Changes:
+ ros-one-switchbot-ros (2.1.29-6-g5b37f2c7-2025.02.09.14.34) jammy; urgency=high
+ .
+   * add codes for publishing switchbot CO2 meter status. (#513 <https://github.com/jsk-ros-pkg/jsk_3rdparty/issues/513>)
+   * switchbot_ros: use --cert for catkin_virtualenv for indigo (#507 <https://github.com/jsk-ros-pkg/jsk_3rdparty/issues/507>)
+   * Add switchbot status publisher. (#505 <https://github.com/jsk-ros-pkg/jsk_3rdparty/issues/505>)
+   * Mod for switchbot api 1.1 (#491 <https://github.com/jsk-ros-pkg/jsk_3rdparty/issues/491>)
+   * [switchbot_ros] force to use python3 for lambda string sort (#495 <https://github.com/jsk-ros-pkg/jsk_3rdparty/issues/495>)
+   * Contributors: Yoshiki Obinata, Yosuke Yamamoto
+Checksums-Sha1:
+ cae67ce1cd6a60656af57e3a76930fcb83287a3e 506112 ros-one-switchbot-ros-dbgsym_2.1.29-6-g5b37f2c7-2025.02.09.14.34_amd64.ddeb
+ ec278075bd3f21f6f08795498febd035512c17ff 14155 ros-one-switchbot-ros_2.1.29-6-g5b37f2c7-2025.02.09.14.34_amd64.buildinfo
+ a92dfa69994bb01c284b1b4b7fe99236322455bd 2766764 ros-one-switchbot-ros_2.1.29-6-g5b37f2c7-2025.02.09.14.34_amd64.deb
+Checksums-Sha256:
+ 70845dda046a78d44b322a3ff63f0a408ba274f32dc8812fbf807bf4a61f5700 506112 ros-one-switchbot-ros-dbgsym_2.1.29-6-g5b37f2c7-2025.02.09.14.34_amd64.ddeb
+ 82687fab931917acc5ba750521ccaecf96da0b68c93632f468c57bdab483a87e 14155 ros-one-switchbot-ros_2.1.29-6-g5b37f2c7-2025.02.09.14.34_amd64.buildinfo
+ 8cd222eae625e2a82fd40b172908a57fb97892089d905f66388fc82c8438226a 2766764 ros-one-switchbot-ros_2.1.29-6-g5b37f2c7-2025.02.09.14.34_amd64.deb
+Files:
+ 87cbc5504611ade1fd738517a7c2c3ab 506112 debug optional ros-one-switchbot-ros-dbgsym_2.1.29-6-g5b37f2c7-2025.02.09.14.34_amd64.ddeb
+ bf16875e3255cc5141e364bce316f62a 14155 misc optional ros-one-switchbot-ros_2.1.29-6-g5b37f2c7-2025.02.09.14.34_amd64.buildinfo
+ 72a834dfbdb8e8a083df87e91fc0a147 2766764 misc optional ros-one-switchbot-ros_2.1.29-6-g5b37f2c7-2025.02.09.14.34_amd64.deb

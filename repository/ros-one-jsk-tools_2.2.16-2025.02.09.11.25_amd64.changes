@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 06 Jan 2025 00:00:00 -0000
+Source: ros-one-jsk-tools
+Binary: ros-one-jsk-tools
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.2.16-2025.02.09.11.25
+Distribution: jammy
+Urgency: high
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Changed-By: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-tools - Includes emacs scripts, ros tool alias generator, and launch doc
+Changes:
+ ros-one-jsk-tools (2.2.16-2025.02.09.11.25) jammy; urgency=high
+Checksums-Sha1:
+ 0ab9cc344fe40123b10cc25702da7f4ef10e5bda 9689 ros-one-jsk-tools_2.2.16-2025.02.09.11.25_amd64.buildinfo
+ 774f7cfa912d8fa21e2ae66109477669a14cb6d3 78718 ros-one-jsk-tools_2.2.16-2025.02.09.11.25_amd64.deb
+Checksums-Sha256:
+ 0c2a34aab174063a736c372f4bf1c7d9412a85b420962a73b643fd7a68667caf 9689 ros-one-jsk-tools_2.2.16-2025.02.09.11.25_amd64.buildinfo
+ c2700a668cdff21fa6c0251fea4b75cb67d62291a703727b46017bf4f3405ec9 78718 ros-one-jsk-tools_2.2.16-2025.02.09.11.25_amd64.deb
+Files:
+ 26e5ba2fd1618eec4eb4b1fdf5dbcd4a 9689 misc optional ros-one-jsk-tools_2.2.16-2025.02.09.11.25_amd64.buildinfo
+ cbeb0adc03541fa889cddc0a6804db39 78718 misc optional ros-one-jsk-tools_2.2.16-2025.02.09.11.25_amd64.deb

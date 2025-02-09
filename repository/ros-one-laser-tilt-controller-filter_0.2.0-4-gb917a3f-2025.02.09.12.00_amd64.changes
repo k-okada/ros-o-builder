@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Wed, 18 May 2022 00:00:00 -0000
+Source: ros-one-laser-tilt-controller-filter
+Binary: ros-one-laser-tilt-controller-filter
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.2.0-4-gb917a3f-2025.02.09.12.00
+Distribution: jammy
+Urgency: high
+Maintainer: David Feil-Seifer <dave@cse.unr.edu>
+Changed-By: David Feil-Seifer <dave@cse.unr.edu>
+Description:
+ ros-one-laser-tilt-controller-filter - laser_tilt_controller_filter
+Changes:
+ ros-one-laser-tilt-controller-filter (0.2.0-4-gb917a3f-2025.02.09.12.00) jammy; urgency=high
+ .
+   * updated maintainer
+   * fixed CMake files for compile in kinetic
+   * Contributors: Dave Feil-Seifer
+Checksums-Sha1:
+ 6ca643397453762b5bc1a91e3773155bf1e024c2 392390 ros-one-laser-tilt-controller-filter-dbgsym_0.2.0-4-gb917a3f-2025.02.09.12.00_amd64.ddeb
+ 9a9a1dad7cc6c97f9f61d32cc614fbe3b3d82184 14043 ros-one-laser-tilt-controller-filter_0.2.0-4-gb917a3f-2025.02.09.12.00_amd64.buildinfo
+ ebcc4eadf1e03c74a18914c865b357cde19bb51d 37792 ros-one-laser-tilt-controller-filter_0.2.0-4-gb917a3f-2025.02.09.12.00_amd64.deb
+Checksums-Sha256:
+ 2b76ee6009874576df79de5cbbe91130af3b10df02e07a613f07ded1c00ffb48 392390 ros-one-laser-tilt-controller-filter-dbgsym_0.2.0-4-gb917a3f-2025.02.09.12.00_amd64.ddeb
+ 01f4843a11dbb86fb15fffb945a9c4e5c26f5147ca61c21ce2015edc3192c38f 14043 ros-one-laser-tilt-controller-filter_0.2.0-4-gb917a3f-2025.02.09.12.00_amd64.buildinfo
+ e907d7ee8f879c875b4e055b44b9071aef1dba35322fde50c03116aaddee8503 37792 ros-one-laser-tilt-controller-filter_0.2.0-4-gb917a3f-2025.02.09.12.00_amd64.deb
+Files:
+ 37440e07c48eddfe6e8011187740911f 392390 debug optional ros-one-laser-tilt-controller-filter-dbgsym_0.2.0-4-gb917a3f-2025.02.09.12.00_amd64.ddeb
+ 6253067fd6ba86c9ef4dd77539e8d6a7 14043 misc optional ros-one-laser-tilt-controller-filter_0.2.0-4-gb917a3f-2025.02.09.12.00_amd64.buildinfo
+ 34e04574e43ffdccc3a1282ed691b663 37792 misc optional ros-one-laser-tilt-controller-filter_0.2.0-4-gb917a3f-2025.02.09.12.00_amd64.deb

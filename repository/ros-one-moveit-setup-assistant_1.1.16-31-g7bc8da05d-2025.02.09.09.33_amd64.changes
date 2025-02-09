@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-setup-assistant
+Binary: ros-one-moveit-setup-assistant
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-31-g7bc8da05d-2025.02.09.09.33
+Distribution: jammy
+Urgency: high
+Maintainer: Dave Coleman <dave@picknik.ai>
+Changed-By: Dave Coleman <dave@picknik.ai>
+Description:
+ ros-one-moveit-setup-assistant - Generates a configuration package that makes it easy to use MoveI
+Changes:
+ ros-one-moveit-setup-assistant (1.1.16-31-g7bc8da05d-2025.02.09.09.33) jammy; urgency=high
+Checksums-Sha1:
+ 060d239090d57ce07e10492f76942a8b4bffd9ae 26580520 ros-one-moveit-setup-assistant-dbgsym_1.1.16-31-g7bc8da05d-2025.02.09.09.33_amd64.ddeb
+ 6865d32e468e42949b79bfd31efd490565b4280b 41249 ros-one-moveit-setup-assistant_1.1.16-31-g7bc8da05d-2025.02.09.09.33_amd64.buildinfo
+ 6a55461a91faed93ed2f12d313fd8bd5dd71f0a2 928522 ros-one-moveit-setup-assistant_1.1.16-31-g7bc8da05d-2025.02.09.09.33_amd64.deb
+Checksums-Sha256:
+ 19fbf54d81d7332de38d2999d8508e80a093ba0f8f34dca76c6928b28c5728bc 26580520 ros-one-moveit-setup-assistant-dbgsym_1.1.16-31-g7bc8da05d-2025.02.09.09.33_amd64.ddeb
+ ee816b783dbf5462968e53e62d2e2f3414c0245b8e6b67162121bf78f28b760e 41249 ros-one-moveit-setup-assistant_1.1.16-31-g7bc8da05d-2025.02.09.09.33_amd64.buildinfo
+ 2fb45ce0a9e8363dd4998dbdbfc1d4a75423ac72fbae54084d5e22311600790b 928522 ros-one-moveit-setup-assistant_1.1.16-31-g7bc8da05d-2025.02.09.09.33_amd64.deb
+Files:
+ 9123b6da84aa3329d127f810fd2d7872 26580520 debug optional ros-one-moveit-setup-assistant-dbgsym_1.1.16-31-g7bc8da05d-2025.02.09.09.33_amd64.ddeb
+ 40645fb1af1a21d5360e7405df476e52 41249 misc optional ros-one-moveit-setup-assistant_1.1.16-31-g7bc8da05d-2025.02.09.09.33_amd64.buildinfo
+ 535ae20444120825d23c71e1fc462244 928522 misc optional ros-one-moveit-setup-assistant_1.1.16-31-g7bc8da05d-2025.02.09.09.33_amd64.deb

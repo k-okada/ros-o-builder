@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 30 Aug 2018 00:00:00 -0000
+Source: ros-one-jpeg-streamer
+Binary: ros-one-jpeg-streamer
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.2.7-2025.02.09.05.12
+Distribution: jammy
+Urgency: high
+Maintainer: Ken Tossell <ken@tossell.net>
+Changed-By: Ken Tossell <ken@tossell.net>
+Description:
+ ros-one-jpeg-streamer - tools for streaming JPEG-formatted CompressedImage topics over HT
+Changes:
+ ros-one-jpeg-streamer (0.2.7-2025.02.09.05.12) jammy; urgency=high
+Checksums-Sha1:
+ 115afd21000096b243cab37b76771ceb4959fd78 593612 ros-one-jpeg-streamer-dbgsym_0.2.7-2025.02.09.05.12_amd64.ddeb
+ 54290f582edbda724ff59b19336ba5aab9a64bb6 13850 ros-one-jpeg-streamer_0.2.7-2025.02.09.05.12_amd64.buildinfo
+ bbffd9d165f3c51934db5bd7eed6a507a84cd7e3 68534 ros-one-jpeg-streamer_0.2.7-2025.02.09.05.12_amd64.deb
+Checksums-Sha256:
+ 4b6f57345ebf909fb90f3f8f60b0a93e3add0dc92870a0b23b6930e1fa05c5c9 593612 ros-one-jpeg-streamer-dbgsym_0.2.7-2025.02.09.05.12_amd64.ddeb
+ b31bc5e63c171042c3ea3d305ba6a048fcc72a731f995245b0a64db305784240 13850 ros-one-jpeg-streamer_0.2.7-2025.02.09.05.12_amd64.buildinfo
+ a251e7f8c7884abfa8458c4050ec1ec866e12cc72ec834228b2470c22baed846 68534 ros-one-jpeg-streamer_0.2.7-2025.02.09.05.12_amd64.deb
+Files:
+ 0be9d6267d86d2ef877e547c8b86cdeb 593612 debug optional ros-one-jpeg-streamer-dbgsym_0.2.7-2025.02.09.05.12_amd64.ddeb
+ 61d07c1a605ba01856c823feb06ad744 13850 misc optional ros-one-jpeg-streamer_0.2.7-2025.02.09.05.12_amd64.buildinfo
+ 9f6c63dace2a18f1bbd8201bd56cf314 68534 misc optional ros-one-jpeg-streamer_0.2.7-2025.02.09.05.12_amd64.deb

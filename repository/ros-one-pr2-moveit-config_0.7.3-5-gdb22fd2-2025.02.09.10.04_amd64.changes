@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sun, 06 Oct 2019 00:00:00 -0000
+Source: ros-one-pr2-moveit-config
+Binary: ros-one-pr2-moveit-config
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.7.3-5-gdb22fd2-2025.02.09.10.04
+Distribution: jammy
+Urgency: high
+Maintainer: MoveIt Setup Assistant <assistant@moveit.ros.org>
+Changed-By: MoveIt Setup Assistant <assistant@moveit.ros.org>
+Description:
+ ros-one-pr2-moveit-config - An automatically generated package with all the configuration and
+Changes:
+ ros-one-pr2-moveit-config (0.7.3-5-gdb22fd2-2025.02.09.10.04) jammy; urgency=high
+Checksums-Sha1:
+ 5b474d2010d109de902fef3d5d438887b5447f59 8209 ros-one-pr2-moveit-config_0.7.3-5-gdb22fd2-2025.02.09.10.04_amd64.buildinfo
+ 0b45d4176e032e907c5a109dde83b8e1ff7b9401 20472 ros-one-pr2-moveit-config_0.7.3-5-gdb22fd2-2025.02.09.10.04_amd64.deb
+Checksums-Sha256:
+ bef6c1e30e8d3ebf8eae1fd700fb34d8257b7e01905f1561c55ac945b786e2ca 8209 ros-one-pr2-moveit-config_0.7.3-5-gdb22fd2-2025.02.09.10.04_amd64.buildinfo
+ 70f1659be9c62205c827cacac11b0a11c6c715f01135c25cb42db50be95de45a 20472 ros-one-pr2-moveit-config_0.7.3-5-gdb22fd2-2025.02.09.10.04_amd64.deb
+Files:
+ e8f48a9a8a05e17ec1a7349244e130b2 8209 misc optional ros-one-pr2-moveit-config_0.7.3-5-gdb22fd2-2025.02.09.10.04_amd64.buildinfo
+ 83d941f5c568fde9375bfcdefa73a103 20472 misc optional ros-one-pr2-moveit-config_0.7.3-5-gdb22fd2-2025.02.09.10.04_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 07 Jun 2021 00:00:00 -0000
+Source: ros-one-joystick-drivers
+Binary: ros-one-joystick-drivers
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2025.02.09.06.31
+Distribution: jammy
+Urgency: high
+Maintainer: Jonathan Bohren <jbo@jhu.edu>
+Changed-By: Jonathan Bohren <jbo@jhu.edu>
+Description:
+ ros-one-joystick-drivers - This metapackage depends on packages for interfacing common joyst
+Changes:
+ ros-one-joystick-drivers (0-2025.02.09.06.31) jammy; urgency=high
+Checksums-Sha1:
+ 80f4b9bfca884bd2977420de579ae189b5fa2b13 8141 ros-one-joystick-drivers_0-2025.02.09.06.31_amd64.buildinfo
+ 4d3562977f683a741b0303958b9f4b1ebac55665 2064 ros-one-joystick-drivers_0-2025.02.09.06.31_amd64.deb
+Checksums-Sha256:
+ 39a2b9534f9e54b445442402a18090449e150d3ab132ed7fb654da66fa240d5d 8141 ros-one-joystick-drivers_0-2025.02.09.06.31_amd64.buildinfo
+ b08ed6e224c1682c50b9dca230b9df6d33e189380d3cccef88bd1515747245fc 2064 ros-one-joystick-drivers_0-2025.02.09.06.31_amd64.deb
+Files:
+ 7d9a71c0e45c5b9c5f842c799e40ab31 8141 misc optional ros-one-joystick-drivers_0-2025.02.09.06.31_amd64.buildinfo
+ de5885c8f1250f78cab9e3d72ab9f780 2064 misc optional ros-one-joystick-drivers_0-2025.02.09.06.31_amd64.deb

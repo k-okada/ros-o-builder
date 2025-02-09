@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 14 Nov 2023 00:00:00 -0000
+Source: ros-one-jsk-perception
+Binary: ros-one-jsk-perception
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.2.17-43-g77ef0797-2025.02.09.16.36
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-perception - ROS nodes and nodelets for 2-D image perception.
+Changes:
+ ros-one-jsk-perception (1.2.17-43-g77ef0797-2025.02.09.16.36) jammy; urgency=high
+Checksums-Sha1:
+ fc870fd9b129fa29c1f26ba867b189198508c8f0 51666026 ros-one-jsk-perception-dbgsym_1.2.17-43-g77ef0797-2025.02.09.16.36_amd64.ddeb
+ 2067e69a02ebcbec61ab0618fd3b1573a10a85ec 50987 ros-one-jsk-perception_1.2.17-43-g77ef0797-2025.02.09.16.36_amd64.buildinfo
+ da751c25d57ea442c6705023592a7ff3062b59ad 63759232 ros-one-jsk-perception_1.2.17-43-g77ef0797-2025.02.09.16.36_amd64.deb
+Checksums-Sha256:
+ 2b005decb428d8aff686f3b1c1fbb30620179316a95f2ebfa6da2adc8cdaa076 51666026 ros-one-jsk-perception-dbgsym_1.2.17-43-g77ef0797-2025.02.09.16.36_amd64.ddeb
+ 5da173c20995a03e4f9cead537dc881303d07e727330b4eae576b3dec135181e 50987 ros-one-jsk-perception_1.2.17-43-g77ef0797-2025.02.09.16.36_amd64.buildinfo
+ c36e518e75ee38596608961c36646405f0b7b48c9010cd22e988d1603052b645 63759232 ros-one-jsk-perception_1.2.17-43-g77ef0797-2025.02.09.16.36_amd64.deb
+Files:
+ 21ee005140c3a48b877bef988a965e52 51666026 debug optional ros-one-jsk-perception-dbgsym_1.2.17-43-g77ef0797-2025.02.09.16.36_amd64.ddeb
+ 07ad165ed68c0025d5d112b77534edf8 50987 misc optional ros-one-jsk-perception_1.2.17-43-g77ef0797-2025.02.09.16.36_amd64.buildinfo
+ 6aa6a73c750078e7a16b6bb2b5295ca1 63759232 misc optional ros-one-jsk-perception_1.2.17-43-g77ef0797-2025.02.09.16.36_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 12 Apr 2022 00:00:00 -0000
+Source: ros-one-pr2-controller-configuration-gazebo
+Binary: ros-one-pr2-controller-configuration-gazebo
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.0-2025.02.09.12.08
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-controller-configuration-gazebo - A copy of the pr2_controller_configuration package, for use in th
+Changes:
+ ros-one-pr2-controller-configuration-gazebo (2.1.0-2025.02.09.12.08) jammy; urgency=high
+Checksums-Sha1:
+ f11f4b2a926f329798935bef763fa70f0acc458f 8252 ros-one-pr2-controller-configuration-gazebo_2.1.0-2025.02.09.12.08_amd64.buildinfo
+ 0c331a1ec012cd4714f1dc423e55b8ee68864021 9312 ros-one-pr2-controller-configuration-gazebo_2.1.0-2025.02.09.12.08_amd64.deb
+Checksums-Sha256:
+ fee82ee8faa4d33583ae9fc1d7a4009c36b7914919a66b9d985c5af2a2131dec 8252 ros-one-pr2-controller-configuration-gazebo_2.1.0-2025.02.09.12.08_amd64.buildinfo
+ 728fd6248686f97c3c6058480108f760b7c3d8e55237632ed5f64035f0e71d8d 9312 ros-one-pr2-controller-configuration-gazebo_2.1.0-2025.02.09.12.08_amd64.deb
+Files:
+ 905f026f74995403044388f47dc67e8b 8252 misc optional ros-one-pr2-controller-configuration-gazebo_2.1.0-2025.02.09.12.08_amd64.buildinfo
+ b09da728e3a5c3535fb387da1e0d3a7a 9312 misc optional ros-one-pr2-controller-configuration-gazebo_2.1.0-2025.02.09.12.08_amd64.deb

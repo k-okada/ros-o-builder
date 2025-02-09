@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 20 May 2021 00:00:00 -0000
+Source: ros-one-joint-trajectory-action-tools
+Binary: ros-one-joint-trajectory-action-tools
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.0.12-5-g7f34d64-2025.02.09.10.01
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-joint-trajectory-action-tools - joint_trajectory_action_tools
+Changes:
+ ros-one-joint-trajectory-action-tools (0.0.12-5-g7f34d64-2025.02.09.10.01) jammy; urgency=high
+ .
+   * Merge pull request #41 <https://github.com/PR2/pr2_common_actions//issues/41> from k-okada/fix_travis
+   * 2to3 -w -f print .
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ abdc6dfe2613f3890d0d3af7751ca083b0e5f548 13509 ros-one-joint-trajectory-action-tools_0.0.12-5-g7f34d64-2025.02.09.10.01_amd64.buildinfo
+ fc9439a35061190d91b8308f114c5f8f4afb612e 7906 ros-one-joint-trajectory-action-tools_0.0.12-5-g7f34d64-2025.02.09.10.01_amd64.deb
+Checksums-Sha256:
+ e05cd99e11a0a39127bdfb92fa72cff1079960afd3970c15402f2c63af07d272 13509 ros-one-joint-trajectory-action-tools_0.0.12-5-g7f34d64-2025.02.09.10.01_amd64.buildinfo
+ 76595f72aa0262a91da8c2d704a1b3a92aabb7c7a85f4369300dc989ee5cb1ea 7906 ros-one-joint-trajectory-action-tools_0.0.12-5-g7f34d64-2025.02.09.10.01_amd64.deb
+Files:
+ bbbfebce4f296e4bcc775689cf6cdd0f 13509 misc optional ros-one-joint-trajectory-action-tools_0.0.12-5-g7f34d64-2025.02.09.10.01_amd64.buildinfo
+ 56c32cf54c12f9aa892e8cca09ccd6d0 7906 misc optional ros-one-joint-trajectory-action-tools_0.0.12-5-g7f34d64-2025.02.09.10.01_amd64.deb

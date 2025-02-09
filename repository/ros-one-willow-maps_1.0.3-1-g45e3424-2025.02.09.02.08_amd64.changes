@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Wed, 14 Feb 2018 00:00:00 -0000
+Source: ros-one-willow-maps
+Binary: ros-one-willow-maps
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.0.3-1-g45e3424-2025.02.09.02.08
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-willow-maps - Holds maps of Willow Garage that can be used for a number of diff
+Changes:
+ ros-one-willow-maps (1.0.3-1-g45e3424-2025.02.09.02.08) jammy; urgency=high
+ .
+   * Merge pull request #2 <https://github.com/pr2/willow_maps/issues/2> from k-okada/fix_cmake
+     Fix cmake
+   * Merge pull request #1 <https://github.com/pr2/willow_maps/issues/1> from k-okada/orph
+     change maintainer to ROS orphaned package maintainer
+   * update CMake files
+     use download.ros.org instead of code.ros.org/svn
+     remove willow-2010-02-18-0.025.pgm and willow-sans-whitelab-2010-02-18-0.025.pgm, whcih are not found in download.ros.org
+     add code to install .xml and .pgm files
+   * change maintainer to ROS orphaned package maintainer
+   * Changed willow maps names
+   * Contributors: Kei Okada, TheDash
+Checksums-Sha1:
+ b8aa4f8cd79390c866287e40e9032d52b54896af 8185 ros-one-willow-maps_1.0.3-1-g45e3424-2025.02.09.02.08_amd64.buildinfo
+ 93d74389877f591792d638b36e7671743e97cfaa 1612738 ros-one-willow-maps_1.0.3-1-g45e3424-2025.02.09.02.08_amd64.deb
+Checksums-Sha256:
+ a2b634c5e133cc681fca04a6aba02700429f838aa88d714ae5f3be2b1a652c8c 8185 ros-one-willow-maps_1.0.3-1-g45e3424-2025.02.09.02.08_amd64.buildinfo
+ fe5724f1b16f12f45e4b7392003c1a1b7247cde4b3cce2170036ae76b50246e9 1612738 ros-one-willow-maps_1.0.3-1-g45e3424-2025.02.09.02.08_amd64.deb
+Files:
+ 3891280b2d465953a38e696b744b23ba 8185 misc optional ros-one-willow-maps_1.0.3-1-g45e3424-2025.02.09.02.08_amd64.buildinfo
+ 81f27a20692f31d8ec3a12ae2bd028d9 1612738 misc optional ros-one-willow-maps_1.0.3-1-g45e3424-2025.02.09.02.08_amd64.deb

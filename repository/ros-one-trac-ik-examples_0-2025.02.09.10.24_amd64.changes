@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Wed, 05 May 2021 00:00:00 -0000
+Source: ros-one-trac-ik-examples
+Binary: ros-one-trac-ik-examples
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2025.02.09.10.24
+Distribution: jammy
+Urgency: high
+Maintainer: TRACLabs Robotics <robotics@traclabs.com>
+Changed-By: TRACLabs Robotics <robotics@traclabs.com>
+Description:
+ ros-one-trac-ik-examples - This package contains the source code for testing and comparing t
+Changes:
+ ros-one-trac-ik-examples (0-2025.02.09.10.24) jammy; urgency=high
+ .
+   * propagated nlopt deps to sat packages
+   * Contributors: Stephen Hart
+Checksums-Sha1:
+ 77e231b9a20649e58e8f54952eaa79b99610c28e 315508 ros-one-trac-ik-examples-dbgsym_0-2025.02.09.10.24_amd64.ddeb
+ f7431da63eba85cb818d2ac52494aa6a04f03cf1 19491 ros-one-trac-ik-examples_0-2025.02.09.10.24_amd64.buildinfo
+ 11bdc07c26e83d953531541cb6c4eb26c8efc44c 25710 ros-one-trac-ik-examples_0-2025.02.09.10.24_amd64.deb
+Checksums-Sha256:
+ 57f84c1157eb9c4a7b50ec7b53ba7541498078dce96ff3f60e090799e2d4d1b5 315508 ros-one-trac-ik-examples-dbgsym_0-2025.02.09.10.24_amd64.ddeb
+ 7dd91d3be10d6a89325343597a144000ffe559b45ea432807c584df12446e806 19491 ros-one-trac-ik-examples_0-2025.02.09.10.24_amd64.buildinfo
+ 519bae46aa0d46e04326f59370ed0e1861fde3ace292dad43558fc24bbe2a3cd 25710 ros-one-trac-ik-examples_0-2025.02.09.10.24_amd64.deb
+Files:
+ 0d50fef5318cf1c6c8ebf90489c182b7 315508 debug optional ros-one-trac-ik-examples-dbgsym_0-2025.02.09.10.24_amd64.ddeb
+ 30345b82a87397768d0faa9031e33356 19491 misc optional ros-one-trac-ik-examples_0-2025.02.09.10.24_amd64.buildinfo
+ 694f021dfd6eae8c9d0e56b3860c00fc 25710 misc optional ros-one-trac-ik-examples_0-2025.02.09.10.24_amd64.deb
