@@ -62,7 +62,9 @@ cython:
     - cython3
 bfl:
   ubuntu:
-    - liborocos-bfl-dev
+    jammy: liborocos-bfl-dev
+# bfl is (may be wrongly) removed from ubuntu from 24.04, see https://bugs.launchpad.net/bugs/2063103
+    noble: ros-one-bfl
 # this package does not exist (and shouldn't, because it was moved to moveit-resources)
 # but it's still referenced as conflicting with moveit_resources
 prbt_ikfast_manipulator_plugin:
