@@ -101,8 +101,8 @@ repositories:
     version: obese-devel
   catkin_virtualenv:
     type: git
-    url: https://github.com/locusrobotics/catkin_virtualenv.git
-    version: master
+    url: https://github.com/ros-o/catkin_virtualenv.git
+    version: obase-devel
   class_loader:
     type: git
     url: https://github.com/ros/class_loader.git
