@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 13 May 2020 00:00:00 -0000
+Source: ros-one-four-wheel-steering-msgs
+Binary: ros-one-four-wheel-steering-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.1-2025.02.14.03.48
+Distribution: noble
+Urgency: high
+Maintainer: Vincent Rousseau <vincentrou@gmail.com>
+Changed-By: Vincent Rousseau <vincentrou@gmail.com>
+Description:
+ ros-one-four-wheel-steering-msgs - ROS messages for robots using FourWheelSteering.
+Changes:
+ ros-one-four-wheel-steering-msgs (1.1.1-2025.02.14.03.48) noble; urgency=high
+ .
+   * Update maintainer email
+   * Contributors: Vincent Rousseau
+Checksums-Sha1:
+ 1800e7aaf5cd0f27bc5b18333e1ab0c0aa27ed03 10109 ros-one-four-wheel-steering-msgs_1.1.1-2025.02.14.03.48_amd64.buildinfo
+ 61c36b4c6ba94ca26abcac255a5d9c38d765e0a4 21014 ros-one-four-wheel-steering-msgs_1.1.1-2025.02.14.03.48_amd64.deb
+Checksums-Sha256:
+ 72982e929024ade01bd70168df75c8a2ae3821575e01fda2f2d4ba54ddc7c48a 10109 ros-one-four-wheel-steering-msgs_1.1.1-2025.02.14.03.48_amd64.buildinfo
+ 07613d0487bc1d39ea801778bf59b025776bdad588e858ba9f5b0a2fae1ee52a 21014 ros-one-four-wheel-steering-msgs_1.1.1-2025.02.14.03.48_amd64.deb
+Files:
+ 90b25f5a92ea5d5bef6e9421ff8b1ca2 10109 misc optional ros-one-four-wheel-steering-msgs_1.1.1-2025.02.14.03.48_amd64.buildinfo
+ 50a69690aca61c0e90fe57c991eaf10e 21014 misc optional ros-one-four-wheel-steering-msgs_1.1.1-2025.02.14.03.48_amd64.deb

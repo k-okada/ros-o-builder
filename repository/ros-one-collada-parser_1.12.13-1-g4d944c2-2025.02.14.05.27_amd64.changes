@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Tue, 14 Jul 2020 00:00:00 -0000
+Source: ros-one-collada-parser
+Binary: ros-one-collada-parser
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.12.13-1-g4d944c2-2025.02.14.05.27
+Distribution: noble
+Urgency: high
+Maintainer: Chris Lalancette <clalancette@osrfoundation.org>
+Changed-By: Chris Lalancette <clalancette@osrfoundation.org>
+Description:
+ ros-one-collada-parser - This package contains a C++ parser for the Collada robot descript
+Changes:
+ ros-one-collada-parser (1.12.13-1-g4d944c2-2025.02.14.05.27) noble; urgency=high
+ .
+   * Update to newer CMake to get rid of CMP0048 warning (#38 <https://github.com/ros/collada_urdf/issues/38>)
+   * Contributors: Chris Lalancette
+Checksums-Sha1:
+ 13f262fc089ed826b9a4ff44a4c323db69b9a760 2056552 ros-one-collada-parser-dbgsym_1.12.13-1-g4d944c2-2025.02.14.05.27_amd64.ddeb
+ 04be5a1198f93f70f7f0662bce865ab0eaf71310 15027 ros-one-collada-parser_1.12.13-1-g4d944c2-2025.02.14.05.27_amd64.buildinfo
+ 6de25df1cc55d664d6fd5b6b902cbf681c4e800b 130274 ros-one-collada-parser_1.12.13-1-g4d944c2-2025.02.14.05.27_amd64.deb
+Checksums-Sha256:
+ 3565f583f8f16b33e246c858985b99d73e73047849aeb977428bec12e533233b 2056552 ros-one-collada-parser-dbgsym_1.12.13-1-g4d944c2-2025.02.14.05.27_amd64.ddeb
+ 68b283e7ff2baa9714e3053b474a06e8c1530aa483be6ff62dddba7c756beac1 15027 ros-one-collada-parser_1.12.13-1-g4d944c2-2025.02.14.05.27_amd64.buildinfo
+ 12df40f823f9dedb5d0bc731fee7a2d2cc347050d742149b0e915429e988097a 130274 ros-one-collada-parser_1.12.13-1-g4d944c2-2025.02.14.05.27_amd64.deb
+Files:
+ 0e58d0c3b4d22f7089262c950bb17ae6 2056552 debug optional ros-one-collada-parser-dbgsym_1.12.13-1-g4d944c2-2025.02.14.05.27_amd64.ddeb
+ 6370848ff87d9ed93670ff5c34ac8735 15027 misc optional ros-one-collada-parser_1.12.13-1-g4d944c2-2025.02.14.05.27_amd64.buildinfo
+ 17671ddc753834411209590716c96426 130274 misc optional ros-one-collada-parser_1.12.13-1-g4d944c2-2025.02.14.05.27_amd64.deb

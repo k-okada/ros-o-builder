@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Sun, 05 Apr 2020 00:00:00 -0000
+Source: ros-one-urdf-geometry-parser
+Binary: ros-one-urdf-geometry-parser
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.1.0-6-g1d7317a-2025.02.14.05.39
+Distribution: noble
+Urgency: high
+Maintainer: Vincent Rousseau <vincent.rousseau@irstea.fr>
+Changed-By: Vincent Rousseau <vincent.rousseau@irstea.fr>
+Description:
+ ros-one-urdf-geometry-parser - Extract geometry value of a vehicle from urdf.
+Changes:
+ ros-one-urdf-geometry-parser (0.1.0-6-g1d7317a-2025.02.14.05.39) noble; urgency=high
+ .
+   * Remove tf2 dependency
+   * Add license
+   * Bump CMake version to avoid CMP0048 warning
+   * Cleanup CMakeLists.txt and package.xml
+   * Contributors: Bence Magyar, Matt Reynolds, Vincent Rousseau
+Checksums-Sha1:
+ d0199e9d1623c7e9ce05cf755038f23fccd49ada 259962 ros-one-urdf-geometry-parser-dbgsym_0.1.0-6-g1d7317a-2025.02.14.05.39_amd64.ddeb
+ 8da664ac825ef6c0d613fa2bf6fa24ba1ea9aa0d 14771 ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2025.02.14.05.39_amd64.buildinfo
+ ccdfedda4765b56f75dfad321f4de836563024b9 19644 ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2025.02.14.05.39_amd64.deb
+Checksums-Sha256:
+ 635afffc4c1c2d721e0c20edaac2e416259dee8adf18333ef08e31b4355a74dd 259962 ros-one-urdf-geometry-parser-dbgsym_0.1.0-6-g1d7317a-2025.02.14.05.39_amd64.ddeb
+ 0c72b57c6acfdb70f5d7790421b838712fe190c495deb81adcfe78bb4a128b34 14771 ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2025.02.14.05.39_amd64.buildinfo
+ fa684f1e2b9bbf7da44eab0cd4c31de005ef7e201e2835c5d47a9c4d57e38a16 19644 ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2025.02.14.05.39_amd64.deb
+Files:
+ 313d6ff9bd6561e5a439c2cba55c6061 259962 debug optional ros-one-urdf-geometry-parser-dbgsym_0.1.0-6-g1d7317a-2025.02.14.05.39_amd64.ddeb
+ 5f68e376b385844d06af69d4e9740c76 14771 misc optional ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2025.02.14.05.39_amd64.buildinfo
+ 699305f10a8f6beab65568b63a25397a 19644 misc optional ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2025.02.14.05.39_amd64.deb

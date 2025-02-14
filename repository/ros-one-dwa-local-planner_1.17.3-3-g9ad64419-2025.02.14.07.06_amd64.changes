@@ -1,0 +1,38 @@
+Format: 1.8
+Date: Tue, 10 Jan 2023 00:00:00 -0000
+Source: ros-one-dwa-local-planner
+Binary: ros-one-dwa-local-planner
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.17.3-3-g9ad64419-2025.02.14.07.06
+Distribution: noble
+Urgency: high
+Maintainer: David V. Lu!! <davidvlu@gmail.com>
+Changed-By: David V. Lu!! <davidvlu@gmail.com>
+Description:
+ ros-one-dwa-local-planner - This package provides an implementation of the Dynamic Window App
+Changes:
+ ros-one-dwa-local-planner (1.17.3-3-g9ad64419-2025.02.14.07.06) noble; urgency=high
+ .
+   * [ROS-O] various patches (#1225 <https://github.com/ros-planning/navigation/issues/1225>)
+     * do not specify obsolete c++11 standard
+     this breaks with current versions of log4cxx.
+     * update pluginlib include paths
+     the non-hpp headers have been deprecated since kinetic
+     * use lambdas in favor of boost::bind
+     Using boost's _1 as a global system is deprecated since C++11.
+     The ROS packages in Debian removed the implicit support for the global symbols,
+     so this code fails to compile there without the patch.
+   * Contributors: Michael Görner
+Checksums-Sha1:
+ 0d01d6d581836d8697736aafae36de1457fe0bf2 1473960 ros-one-dwa-local-planner-dbgsym_1.17.3-3-g9ad64419-2025.02.14.07.06_amd64.ddeb
+ 8142d7fb96b4cbb32540cc47013c3a5f0d8b8cfa 20225 ros-one-dwa-local-planner_1.17.3-3-g9ad64419-2025.02.14.07.06_amd64.buildinfo
+ 0a8fd49f6868d8b1a5903fd89e8ed945fd8a2ef0 114482 ros-one-dwa-local-planner_1.17.3-3-g9ad64419-2025.02.14.07.06_amd64.deb
+Checksums-Sha256:
+ 5b06bde4d37bba774b4041bc05a66e40afc3f8bf8db5d19232a1e1dc7971d299 1473960 ros-one-dwa-local-planner-dbgsym_1.17.3-3-g9ad64419-2025.02.14.07.06_amd64.ddeb
+ 8954ab1e133b7bf76490307206f7e862b84b531f7040a18fc09639df5bd24161 20225 ros-one-dwa-local-planner_1.17.3-3-g9ad64419-2025.02.14.07.06_amd64.buildinfo
+ c00dd816e29968c7073fd3730059a55b58b9d9190235cafdece182c02dac7693 114482 ros-one-dwa-local-planner_1.17.3-3-g9ad64419-2025.02.14.07.06_amd64.deb
+Files:
+ e241a426040cd50c969640322fbfd20c 1473960 debug optional ros-one-dwa-local-planner-dbgsym_1.17.3-3-g9ad64419-2025.02.14.07.06_amd64.ddeb
+ 37e43858755a2a04310e944625aec36a 20225 misc optional ros-one-dwa-local-planner_1.17.3-3-g9ad64419-2025.02.14.07.06_amd64.buildinfo
+ 208beec13ffb4658b91e9e078eecbd04 114482 misc optional ros-one-dwa-local-planner_1.17.3-3-g9ad64419-2025.02.14.07.06_amd64.deb

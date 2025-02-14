@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Tue, 23 Feb 2021 00:00:00 -0000
+Source: ros-one-rqt-plot
+Binary: ros-one-rqt-plot
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.4.13-2025.02.14.06.15
+Distribution: noble
+Urgency: high
+Maintainer: Mabel Zhang <mabel@openrobotics.org>
+Changed-By: Mabel Zhang <mabel@openrobotics.org>
+Description:
+ ros-one-rqt-plot - rqt_plot provides a GUI plugin visualizing numeric values in a 2D
+Changes:
+ ros-one-rqt-plot (0.4.13-2025.02.14.06.15) noble; urgency=high
+ .
+   * Fix resize bug. Set minimum size of MatDataPlot's Canvas (#69 <https://github.com/ros-visualization/rqt_plot/issues/69>)
+   * Update maintainers
+   * Replace string.atoi with int() (#57 <https://github.com/ros-visualization/rqt_plot/issues/57>)
+   * Contributors: Felix Exner, Mabel Zhang, Robert Haschke
+Checksums-Sha1:
+ 9c4591a5b95bbed25b7aca69d374eb353205c245 8377 ros-one-rqt-plot_0.4.13-2025.02.14.06.15_amd64.buildinfo
+ f80b87fcde664e969792203e11e85d99b48501be 51484 ros-one-rqt-plot_0.4.13-2025.02.14.06.15_amd64.deb
+Checksums-Sha256:
+ bbe5569dfbe10662bad48fe4e27fb9b64cd20c7317cb8da662112d7a79c2d197 8377 ros-one-rqt-plot_0.4.13-2025.02.14.06.15_amd64.buildinfo
+ db3fcd847b8011a9d4949e9e8f5b96b1b5e07682675a9d6621f4439181fef600 51484 ros-one-rqt-plot_0.4.13-2025.02.14.06.15_amd64.deb
+Files:
+ c70b2dcbf775cd28203edaa806524284 8377 misc optional ros-one-rqt-plot_0.4.13-2025.02.14.06.15_amd64.buildinfo
+ 1361739f46f4f0814cf190a5e0cd1dbb 51484 misc optional ros-one-rqt-plot_0.4.13-2025.02.14.06.15_amd64.deb

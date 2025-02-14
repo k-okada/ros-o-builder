@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 16 May 2024 00:00:00 -0000
+Source: ros-one-pal-carbon-collector
+Binary: ros-one-pal-carbon-collector
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.5.2-2-ga5b028b-2025.02.14.04.58
+Distribution: noble
+Urgency: high
+Maintainer: Jordan Palacios <jordan.palacios@pal-robotics.com>
+Changed-By: Jordan Palacios <jordan.palacios@pal-robotics.com>
+Description:
+ ros-one-pal-carbon-collector - Node that collects statistics from topics and sends them to carbo
+Changes:
+ ros-one-pal-carbon-collector (1.5.2-2-ga5b028b-2025.02.14.04.58) noble; urgency=high
+Checksums-Sha1:
+ c130715c157e441af3bafdc51562cf83cfa42b55 8474 ros-one-pal-carbon-collector_1.5.2-2-ga5b028b-2025.02.14.04.58_amd64.buildinfo
+ e32dbf0140769a3196bd49fa493d98468a97b522 6462 ros-one-pal-carbon-collector_1.5.2-2-ga5b028b-2025.02.14.04.58_amd64.deb
+Checksums-Sha256:
+ dc8b74011894b2fbb13ff44cb3c9b1389cbc7e8d9496c61bd1a2dfb38559b30d 8474 ros-one-pal-carbon-collector_1.5.2-2-ga5b028b-2025.02.14.04.58_amd64.buildinfo
+ 1e3bceba93a5469e544a4bf7acf189f9eac063a9cf039f79ca2813593a4e43a8 6462 ros-one-pal-carbon-collector_1.5.2-2-ga5b028b-2025.02.14.04.58_amd64.deb
+Files:
+ d747afbc0402413fd8a299da4b039581 8474 misc optional ros-one-pal-carbon-collector_1.5.2-2-ga5b028b-2025.02.14.04.58_amd64.buildinfo
+ 931a52de4baf94d2eeba387d74b4b252 6462 misc optional ros-one-pal-carbon-collector_1.5.2-2-ga5b028b-2025.02.14.04.58_amd64.deb

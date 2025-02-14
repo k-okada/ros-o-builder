@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 27 Oct 2023 00:00:00 -0000
+Source: ros-one-combined-robot-hw-tests
+Binary: ros-one-combined-robot-hw-tests
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.20.0-1-g633c374-2025.02.14.06.15
+Distribution: noble
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-combined-robot-hw-tests - Tests for the combined Robot HW class.
+Changes:
+ ros-one-combined-robot-hw-tests (0.20.0-1-g633c374-2025.02.14.06.15) noble; urgency=high
+Checksums-Sha1:
+ c91c37cfc0bf6d91472e172fbee2174eb11acd73 15971 ros-one-combined-robot-hw-tests_0.20.0-1-g633c374-2025.02.14.06.15_amd64.buildinfo
+ da45ced6e7918eb9b7b979aced5540dae1e2e597 7014 ros-one-combined-robot-hw-tests_0.20.0-1-g633c374-2025.02.14.06.15_amd64.deb
+Checksums-Sha256:
+ c2311edbf4f73cada0e2f7ad5fd0767b3fb660f74b3ee0555365bdb431b3ad89 15971 ros-one-combined-robot-hw-tests_0.20.0-1-g633c374-2025.02.14.06.15_amd64.buildinfo
+ 2e140293c3454511b028b57b6208b2bf8a4bb46093d90cbb2e2fa39f1d2a3516 7014 ros-one-combined-robot-hw-tests_0.20.0-1-g633c374-2025.02.14.06.15_amd64.deb
+Files:
+ 0b2a8199e94382e9f74f5a807e964318 15971 misc optional ros-one-combined-robot-hw-tests_0.20.0-1-g633c374-2025.02.14.06.15_amd64.buildinfo
+ 2a92780946159cb1b42d6b0e7b83c76f 7014 misc optional ros-one-combined-robot-hw-tests_0.20.0-1-g633c374-2025.02.14.06.15_amd64.deb

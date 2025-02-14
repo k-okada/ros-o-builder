@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 31 Dec 2021 00:00:00 -0000
+Source: ros-one-diagnostic-updater
+Binary: ros-one-diagnostic-updater
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.11.0-7-gda86650-2025.02.14.06.06
+Distribution: noble
+Urgency: high
+Maintainer: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Changed-By: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Description:
+ ros-one-diagnostic-updater - diagnostic_updater contains tools for easily updating diagnostics
+Changes:
+ ros-one-diagnostic-updater (1.11.0-7-gda86650-2025.02.14.06.06) noble; urgency=high
+ .
+   * Use DiagnosticLevel enum instead of hardcoded integers (#208 <https://github.com/ros/diagnostics/issues/208>)
+     Spellcheck fixes
+   * Contributors: Amilcar Lucas
+Checksums-Sha1:
+ 5de8d08912c4524ff41ad96ef989e127cec97bf4 302684 ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2025.02.14.06.06_amd64.ddeb
+ a89b66342ce6e684191429cb6a080f2284bf3d96 13853 ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.02.14.06.06_amd64.buildinfo
+ fc167a1644b3b44b05f49e89e402a11445070a5e 52540 ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.02.14.06.06_amd64.deb
+Checksums-Sha256:
+ 39e15fa077d71e5bfb80b574a43ced0e7713c34f770527cf74996dcf13199080 302684 ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2025.02.14.06.06_amd64.ddeb
+ 6d012bac72c8ce83d809f53ea166dc8e7bad52b0bf6e7bc2aedf4b1e0be1963e 13853 ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.02.14.06.06_amd64.buildinfo
+ 0067e3da046e118950d451889717b1a8a48c90fc5f17f03990f561197fce2e47 52540 ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.02.14.06.06_amd64.deb
+Files:
+ 571380cf0565bd0b39644041eff57c3f 302684 debug optional ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2025.02.14.06.06_amd64.ddeb
+ d75fc19aafa3288a3944b883047e845e 13853 misc optional ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.02.14.06.06_amd64.buildinfo
+ 65e9220d139681286c16eb529120f937 52540 misc optional ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.02.14.06.06_amd64.deb

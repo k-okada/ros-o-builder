@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 11 Feb 2025 00:00:00 -0000
+Source: ros-one-ros-industrial-cmake-boilerplate
+Binary: ros-one-ros-industrial-cmake-boilerplate
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.7.3-1-g8a7dec9-2025.02.14.02.40
+Distribution: noble
+Urgency: high
+Maintainer: Levi Armstrong <levi.armstrong@gmail.com>
+Changed-By: Levi Armstrong <levi.armstrong@gmail.com>
+Description:
+ ros-one-ros-industrial-cmake-boilerplate - Contains boilerplate cmake script, macros and utils
+Changes:
+ ros-one-ros-industrial-cmake-boilerplate (0.7.3-1-g8a7dec9-2025.02.14.02.40) noble; urgency=high
+ .
+   * Expose ability to set clang-tidy versions
+   * Contributors: Levi Armstrong
+Checksums-Sha1:
+ 3a4d39701e4e0e9739c25ef1dd80d4b21b9d65ba 7380 ros-one-ros-industrial-cmake-boilerplate_0.7.3-1-g8a7dec9-2025.02.14.02.40_amd64.buildinfo
+ c2c8157cc96cd993b67ed962c4ba58e3db86ddd5 24824 ros-one-ros-industrial-cmake-boilerplate_0.7.3-1-g8a7dec9-2025.02.14.02.40_amd64.deb
+Checksums-Sha256:
+ 746063e9fee9e9fffccea6cab1722009772cef59f639b5a9f47c01e47cb082fc 7380 ros-one-ros-industrial-cmake-boilerplate_0.7.3-1-g8a7dec9-2025.02.14.02.40_amd64.buildinfo
+ 164ae7a2dc731bc7c678bf640542afe3cb7e30a8455d76e30634cdb33b70b34e 24824 ros-one-ros-industrial-cmake-boilerplate_0.7.3-1-g8a7dec9-2025.02.14.02.40_amd64.deb
+Files:
+ d5f7ad0c65c55c182140ceaaef6f57f2 7380 misc optional ros-one-ros-industrial-cmake-boilerplate_0.7.3-1-g8a7dec9-2025.02.14.02.40_amd64.buildinfo
+ b75f70aec213b443a018d3279b15011c 24824 misc optional ros-one-ros-industrial-cmake-boilerplate_0.7.3-1-g8a7dec9-2025.02.14.02.40_amd64.deb

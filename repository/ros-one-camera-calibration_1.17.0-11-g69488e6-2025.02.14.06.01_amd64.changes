@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 17 Oct 2022 00:00:00 -0000
+Source: ros-one-camera-calibration
+Binary: ros-one-camera-calibration
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.17.0-11-g69488e6-2025.02.14.06.01
+Distribution: noble
+Urgency: high
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Changed-By: Vincent Rabaud <vincent.rabaud@gmail.com>
+Description:
+ ros-one-camera-calibration - camera_calibration allows easy calibration of monocular or stereo
+Changes:
+ ros-one-camera-calibration (1.17.0-11-g69488e6-2025.02.14.06.01) noble; urgency=high
+Checksums-Sha1:
+ b23a4fb79195cfc17565bde16a000000967ed0c7 8475 ros-one-camera-calibration_1.17.0-11-g69488e6-2025.02.14.06.01_amd64.buildinfo
+ b8ce10e055da3c7f8fb25f47cdb4dbc61280afd4 68302 ros-one-camera-calibration_1.17.0-11-g69488e6-2025.02.14.06.01_amd64.deb
+Checksums-Sha256:
+ 9207c7ce2e67fd884d9d2edac1e226b354c15f866703d36815dde0c256a2260f 8475 ros-one-camera-calibration_1.17.0-11-g69488e6-2025.02.14.06.01_amd64.buildinfo
+ b986e68ed2bcf2f2eeae1238051fa8ff81c6ff65f3ad3319fa791dd8f7693f32 68302 ros-one-camera-calibration_1.17.0-11-g69488e6-2025.02.14.06.01_amd64.deb
+Files:
+ cb533cc8aa3069e77bedc8875a792668 8475 misc optional ros-one-camera-calibration_1.17.0-11-g69488e6-2025.02.14.06.01_amd64.buildinfo
+ 8f50547c522c2b776b34e121d1244f69 68302 misc optional ros-one-camera-calibration_1.17.0-11-g69488e6-2025.02.14.06.01_amd64.deb

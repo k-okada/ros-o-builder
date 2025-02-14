@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 22 May 2024 00:00:00 -0000
+Source: ros-one-joint-trajectory-controller
+Binary: ros-one-joint-trajectory-controller
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.22.0-2025.02.14.07.02
+Distribution: noble
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-joint-trajectory-controller - Controller for executing joint-space trajectories on a group of j
+Changes:
+ ros-one-joint-trajectory-controller (0.22.0-2025.02.14.07.02) noble; urgency=high
+Checksums-Sha1:
+ 8a693e37be3a1f7654503a92dd0303398c3424a0 2681158 ros-one-joint-trajectory-controller-dbgsym_0.22.0-2025.02.14.07.02_amd64.ddeb
+ 8c0d7b418f5cd292f7b0085ca01e15e2adffab42 23565 ros-one-joint-trajectory-controller_0.22.0-2025.02.14.07.02_amd64.buildinfo
+ ab2e4e8a5c0d6f03fecae062be8f4faca617e9ac 221368 ros-one-joint-trajectory-controller_0.22.0-2025.02.14.07.02_amd64.deb
+Checksums-Sha256:
+ 9a20e77dfb0c1dc905427b03226af700ce8a1c7d8c1477c754ccc86fc4df1e44 2681158 ros-one-joint-trajectory-controller-dbgsym_0.22.0-2025.02.14.07.02_amd64.ddeb
+ e9aefa7d9321606d60a060d87b6caf261f4e44b4e2490c9cd86377096a0ca794 23565 ros-one-joint-trajectory-controller_0.22.0-2025.02.14.07.02_amd64.buildinfo
+ 30629fe36861e7a1ddd8e5931226f0de31933b68929eab037ef9bcd8d55ab179 221368 ros-one-joint-trajectory-controller_0.22.0-2025.02.14.07.02_amd64.deb
+Files:
+ fda5441232b390813e482f56101f0261 2681158 debug optional ros-one-joint-trajectory-controller-dbgsym_0.22.0-2025.02.14.07.02_amd64.ddeb
+ dd72f558ce8eb09062da6c8cb272e08b 23565 misc optional ros-one-joint-trajectory-controller_0.22.0-2025.02.14.07.02_amd64.buildinfo
+ 9c5f10090f9965db0f89979a10acf4ea 221368 misc optional ros-one-joint-trajectory-controller_0.22.0-2025.02.14.07.02_amd64.deb

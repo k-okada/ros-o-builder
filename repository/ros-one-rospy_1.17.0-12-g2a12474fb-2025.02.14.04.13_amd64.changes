@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Fri, 13 Sep 2024 00:00:00 -0000
+Source: ros-one-rospy
+Binary: ros-one-rospy
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.17.0-12-g2a12474fb-2025.02.14.04.13
+Distribution: noble
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-rospy - rospy is a pure Python client library for ROS.
+Changes:
+ ros-one-rospy (1.17.0-12-g2a12474fb-2025.02.14.04.13) noble; urgency=high
+ .
+   * Stop using deprecated logger.warn (#2191 <https://github.com/ros/ros_comm/issues/2191>)
+   * Expose is_shutdown_requested in rospy module. (#2267 <https://github.com/ros/ros_comm/issues/2267>)
+   * Fix error "s is not defined" (#2328 <https://github.com/ros/ros_comm/issues/2328>)
+   * Contributors: Guglielmo Gemignani, Michael Grupp, vineet131
+Checksums-Sha1:
+ 5497fc3e5c18d6ad67663e3a836381044e850a5b 8421 ros-one-rospy_1.17.0-12-g2a12474fb-2025.02.14.04.13_amd64.buildinfo
+ 2104d576791524d25bee1a7df8a48ee7088f81ca 180226 ros-one-rospy_1.17.0-12-g2a12474fb-2025.02.14.04.13_amd64.deb
+Checksums-Sha256:
+ 8d58658958084cb33dde1e9b867bb830828497c7e79b740115075cf383dbabf2 8421 ros-one-rospy_1.17.0-12-g2a12474fb-2025.02.14.04.13_amd64.buildinfo
+ 81a9f5f8c50cd0a97fb5b7a8cc0b89d0b8e6d8f4fa8a241c73523e979c5bd992 180226 ros-one-rospy_1.17.0-12-g2a12474fb-2025.02.14.04.13_amd64.deb
+Files:
+ 5b5039215baad8045fe0ce7af6d1226c 8421 misc optional ros-one-rospy_1.17.0-12-g2a12474fb-2025.02.14.04.13_amd64.buildinfo
+ 35ef4d148dbbc5bc837825a011f11c2d 180226 misc optional ros-one-rospy_1.17.0-12-g2a12474fb-2025.02.14.04.13_amd64.deb

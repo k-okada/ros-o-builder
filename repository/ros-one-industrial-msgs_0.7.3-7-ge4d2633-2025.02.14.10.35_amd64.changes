@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Thu, 15 Jul 2021 00:00:00 -0000
+Source: ros-one-industrial-msgs
+Binary: ros-one-industrial-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.7.3-7-ge4d2633-2025.02.14.10.35
+Distribution: noble
+Urgency: high
+Maintainer: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-industrial-msgs - The industrial message package containes industrial specific mess
+Changes:
+ ros-one-industrial-msgs (0.7.3-7-ge4d2633-2025.02.14.10.35) noble; urgency=high
+ .
+   * No changes
+Checksums-Sha1:
+ 03c4cf28cd8034e92dcee532c25ac9ca5dc0545d 10284 ros-one-industrial-msgs_0.7.3-7-ge4d2633-2025.02.14.10.35_amd64.buildinfo
+ 59f7b52aa96ff0ceffcf582329962eeb0c8ba39c 55832 ros-one-industrial-msgs_0.7.3-7-ge4d2633-2025.02.14.10.35_amd64.deb
+Checksums-Sha256:
+ 4bdfcc5ec0948e2a5945ab62daeee42e9304c0b123171410346273241566daaa 10284 ros-one-industrial-msgs_0.7.3-7-ge4d2633-2025.02.14.10.35_amd64.buildinfo
+ bd8275b094a2acb34a8be4b19c576f0eaa30cc0e02c0618836746c21c328f2e5 55832 ros-one-industrial-msgs_0.7.3-7-ge4d2633-2025.02.14.10.35_amd64.deb
+Files:
+ e9671a551b773c105780fd7f482b770e 10284 misc optional ros-one-industrial-msgs_0.7.3-7-ge4d2633-2025.02.14.10.35_amd64.buildinfo
+ 5cdb234137566c6dae79f24af63bf154 55832 misc optional ros-one-industrial-msgs_0.7.3-7-ge4d2633-2025.02.14.10.35_amd64.deb

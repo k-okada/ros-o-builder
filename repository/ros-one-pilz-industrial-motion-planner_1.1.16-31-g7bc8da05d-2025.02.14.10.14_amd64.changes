@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-pilz-industrial-motion-planner
+Binary: ros-one-pilz-industrial-motion-planner
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-31-g7bc8da05d-2025.02.14.10.14
+Distribution: noble
+Urgency: high
+Maintainer: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Changed-By: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Description:
+ ros-one-pilz-industrial-motion-planner - MoveIt plugin to generate industrial trajectories PTP, LIN, CIRC
+Changes:
+ ros-one-pilz-industrial-motion-planner (1.1.16-31-g7bc8da05d-2025.02.14.10.14) noble; urgency=high
+Checksums-Sha1:
+ 265c40c0a5d7ee373aaaa7d686b2d674790d212e 29863892 ros-one-pilz-industrial-motion-planner-dbgsym_1.1.16-31-g7bc8da05d-2025.02.14.10.14_amd64.ddeb
+ e66e796cd5e975d4cc144b4112dbfb6c58f6163e 28574 ros-one-pilz-industrial-motion-planner_1.1.16-31-g7bc8da05d-2025.02.14.10.14_amd64.buildinfo
+ 32f0a04828fd147fd6cce0fa691dcee98f28cd40 385224 ros-one-pilz-industrial-motion-planner_1.1.16-31-g7bc8da05d-2025.02.14.10.14_amd64.deb
+Checksums-Sha256:
+ 3e6fdf24fcdc1d643337b5ee23aa2b13112dfdb7d7eb9364814af187437a5c9f 29863892 ros-one-pilz-industrial-motion-planner-dbgsym_1.1.16-31-g7bc8da05d-2025.02.14.10.14_amd64.ddeb
+ 116687ddccdcc5af4d5c4a24abc08b2ca5b552edda24582e3fbd42ceacc23e65 28574 ros-one-pilz-industrial-motion-planner_1.1.16-31-g7bc8da05d-2025.02.14.10.14_amd64.buildinfo
+ bc9fe69b76d6960d71e4f1d4a8e41a55e8f9de55c23edb075e8c69df73af47f2 385224 ros-one-pilz-industrial-motion-planner_1.1.16-31-g7bc8da05d-2025.02.14.10.14_amd64.deb
+Files:
+ 59a28d75b0243402ae8c5d0af01730c0 29863892 debug optional ros-one-pilz-industrial-motion-planner-dbgsym_1.1.16-31-g7bc8da05d-2025.02.14.10.14_amd64.ddeb
+ 87ae50ed9902d26886e3126d50a75a5b 28574 misc optional ros-one-pilz-industrial-motion-planner_1.1.16-31-g7bc8da05d-2025.02.14.10.14_amd64.buildinfo
+ 0b418c4be22d15e6e8750945fe15ad54 385224 misc optional ros-one-pilz-industrial-motion-planner_1.1.16-31-g7bc8da05d-2025.02.14.10.14_amd64.deb

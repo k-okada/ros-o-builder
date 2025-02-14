@@ -1,0 +1,45 @@
+Format: 1.8
+Date: Thu, 23 Jan 2025 00:00:00 -0000
+Source: ros-one-ur-client-library
+Binary: ros-one-ur-client-library
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.6.0-26-g97ad825-2025.02.14.02.42
+Distribution: noble
+Urgency: high
+Maintainer: Felix Exner <feex@universal-robots.com>
+Changed-By: Felix Exner <feex@universal-robots.com>
+Description:
+ ros-one-ur-client-library - Standalone C++ library for accessing Universal Robots interfaces.
+Changes:
+ ros-one-ur-client-library (1.6.0-26-g97ad825-2025.02.14.02.42) noble; urgency=high
+ .
+   * Do not throw exception in DashboardClient::sendRequest (#249 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/249>)
+   * Add instruction executor for high-level robot control (#242 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/242>)
+   * Modernize cmake (#244 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/244>)
+   * Update links to dashboard server documentation (#243 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/243>)
+   * Trajectory point velocities and example (#241 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/241>)
+   * Updated documentation (#228 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/228>)
+   * Update ci (#239 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/239>)
+   * Enable force mode compatibility with various move types (#230 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/230>)
+   * Update package maintainers (#238 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/238>)
+   * Bump codecov/codecov-action from 3 to 5 (#234 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/234>)
+   * Remove the not regarding MIT license (#237 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/237>)
+   * Bump pre-commit/action from 3.0.0 to 3.0.1 (#236 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/236>)
+   * Bump actions/checkout from 1 to 4 (#232 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/232>)
+   * Bump actions/setup-python from 4 to 5 (#235 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/235>)
+   * Bump actions/upload-artifact from 3 to 4 (#233 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/233>)
+   * Add dependabot configuration to update actions (#231 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/231>)
+   * Contributors: Felix Exner, Rune Søe-Knudsen, dependabot[bot]
+Checksums-Sha1:
+ d6185eb4c7e430b9b2a817dec1106023ab96c063 2974416 ros-one-ur-client-library-dbgsym_1.6.0-26-g97ad825-2025.02.14.02.42_amd64.ddeb
+ 65321e1cedb80857fd95137cfdb59fc9752068e3 7748 ros-one-ur-client-library_1.6.0-26-g97ad825-2025.02.14.02.42_amd64.buildinfo
+ 863409be04eb369717a682c9816d47aad0fed28a 245180 ros-one-ur-client-library_1.6.0-26-g97ad825-2025.02.14.02.42_amd64.deb
+Checksums-Sha256:
+ 0a191e2d11b2b4598e62d48410008f23d092ee2ca32f9af587c1245ba69420ad 2974416 ros-one-ur-client-library-dbgsym_1.6.0-26-g97ad825-2025.02.14.02.42_amd64.ddeb
+ 7ee1bf056efbd1a5d5a27766f2b0a43e4c33377db75fd10b2af8668cd48ef422 7748 ros-one-ur-client-library_1.6.0-26-g97ad825-2025.02.14.02.42_amd64.buildinfo
+ fbe8b24dcc9d055539d12195a87f45bd26ebc14eba79ccaebf1b2989e72ee071 245180 ros-one-ur-client-library_1.6.0-26-g97ad825-2025.02.14.02.42_amd64.deb
+Files:
+ a19fd1f9f977a04d0dd3e2211eca97cf 2974416 debug optional ros-one-ur-client-library-dbgsym_1.6.0-26-g97ad825-2025.02.14.02.42_amd64.ddeb
+ e4b9f2cba420becf258a81f8ffd2ff8f 7748 misc optional ros-one-ur-client-library_1.6.0-26-g97ad825-2025.02.14.02.42_amd64.buildinfo
+ 727311a718f56d05b998ff075dc4f672 245180 misc optional ros-one-ur-client-library_1.6.0-26-g97ad825-2025.02.14.02.42_amd64.deb

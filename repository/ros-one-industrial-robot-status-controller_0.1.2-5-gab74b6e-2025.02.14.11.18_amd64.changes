@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Sun, 12 May 2019 00:00:00 -0000
+Source: ros-one-industrial-robot-status-controller
+Binary: ros-one-industrial-robot-status-controller
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.1.2-5-gab74b6e-2025.02.14.11.18
+Distribution: noble
+Urgency: high
+Maintainer: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-industrial-robot-status-controller - A ros_control controller that reports robot status using the ROS-
+Changes:
+ ros-one-industrial-robot-status-controller (0.1.2-5-gab74b6e-2025.02.14.11.18) noble; urgency=high
+ .
+   * Fix potential build ordering problem with industrial_msgs pkg. (#4 <https://github.com/gavanderhoorn/industrial_robot_status_controller/issues/4>)
+   * Contributors: Bianca Homberg
+Checksums-Sha1:
+ 5760bbdf2a4b29ccbe4e05cff99c94e254301cde 475220 ros-one-industrial-robot-status-controller-dbgsym_0.1.2-5-gab74b6e-2025.02.14.11.18_amd64.ddeb
+ 19f91ed0f620f9cb0a0415f5fa91859007657f18 16093 ros-one-industrial-robot-status-controller_0.1.2-5-gab74b6e-2025.02.14.11.18_amd64.buildinfo
+ a58c2078f5da09eb8447f928b91d1ecf5aa61604 38230 ros-one-industrial-robot-status-controller_0.1.2-5-gab74b6e-2025.02.14.11.18_amd64.deb
+Checksums-Sha256:
+ fe25fe262a532d37e3130beaa95658ce9d0efde5afc62e8286ce16f02d039eb0 475220 ros-one-industrial-robot-status-controller-dbgsym_0.1.2-5-gab74b6e-2025.02.14.11.18_amd64.ddeb
+ 1fec548c590bf4ab02803613243ca5789c647cb05a19a43e8a35326c2b39257c 16093 ros-one-industrial-robot-status-controller_0.1.2-5-gab74b6e-2025.02.14.11.18_amd64.buildinfo
+ 508d5af4937f4e8ddc8f4766696334cd9fdb36d0323df749c7fce8e118049792 38230 ros-one-industrial-robot-status-controller_0.1.2-5-gab74b6e-2025.02.14.11.18_amd64.deb
+Files:
+ a8dcf78836c6ae3ac4f6cd76bc7607ab 475220 debug optional ros-one-industrial-robot-status-controller-dbgsym_0.1.2-5-gab74b6e-2025.02.14.11.18_amd64.ddeb
+ 7b2de7c133d4629924cd5567b27dc25c 16093 misc optional ros-one-industrial-robot-status-controller_0.1.2-5-gab74b6e-2025.02.14.11.18_amd64.buildinfo
+ f2c412ffe20f4cbe3d2681db84c33084 38230 misc optional ros-one-industrial-robot-status-controller_0.1.2-5-gab74b6e-2025.02.14.11.18_amd64.deb

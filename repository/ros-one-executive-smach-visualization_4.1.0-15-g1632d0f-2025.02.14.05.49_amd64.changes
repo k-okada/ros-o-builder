@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 24 Feb 2023 00:00:00 -0000
+Source: ros-one-executive-smach-visualization
+Binary: ros-one-executive-smach-visualization
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 4.1.0-15-g1632d0f-2025.02.14.05.49
+Distribution: noble
+Urgency: high
+Maintainer: Jonathan Bohren <jbo@jhu.edu>
+Changed-By: Jonathan Bohren <jbo@jhu.edu>
+Description:
+ ros-one-executive-smach-visualization - This metapackage depends on the SMACH visualization tools.
+Changes:
+ ros-one-executive-smach-visualization (4.1.0-15-g1632d0f-2025.02.14.05.49) noble; urgency=high
+Checksums-Sha1:
+ ea9d889c270dfa318d33ba3fe537e27a0fc2bc0c 8523 ros-one-executive-smach-visualization_4.1.0-15-g1632d0f-2025.02.14.05.49_amd64.buildinfo
+ 777f0ec2783333d808b0b9256000199ca80cbc97 1936 ros-one-executive-smach-visualization_4.1.0-15-g1632d0f-2025.02.14.05.49_amd64.deb
+Checksums-Sha256:
+ 9bdb1d35771c45ab5f1c03325430078d03f13dd352dba829727c6fb791b86412 8523 ros-one-executive-smach-visualization_4.1.0-15-g1632d0f-2025.02.14.05.49_amd64.buildinfo
+ 5e1713d45b16fca009f4a748ea57e4a2ac64f4383b061e7625b0932ac6ba93c3 1936 ros-one-executive-smach-visualization_4.1.0-15-g1632d0f-2025.02.14.05.49_amd64.deb
+Files:
+ 000846cd9f9cbf1bbc54e8e887193986 8523 misc optional ros-one-executive-smach-visualization_4.1.0-15-g1632d0f-2025.02.14.05.49_amd64.buildinfo
+ feb5f6d62229dcee463103bef961e8a7 1936 misc optional ros-one-executive-smach-visualization_4.1.0-15-g1632d0f-2025.02.14.05.49_amd64.deb

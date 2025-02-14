@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-chomp-optimizer-adapter
+Binary: ros-one-moveit-chomp-optimizer-adapter
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-31-g7bc8da05d-2025.02.14.08.21
+Distribution: noble
+Urgency: high
+Maintainer: Raghavender Sahdev <raghavendersahdev@gmail.com>
+Changed-By: Raghavender Sahdev <raghavendersahdev@gmail.com>
+Description:
+ ros-one-moveit-chomp-optimizer-adapter - MoveIt planning request adapter utilizing chomp for solution opti
+Changes:
+ ros-one-moveit-chomp-optimizer-adapter (1.1.16-31-g7bc8da05d-2025.02.14.08.21) noble; urgency=high
+Checksums-Sha1:
+ d4f5320291bbfcf40039888274dd592dc8d8a09e 1951150 ros-one-moveit-chomp-optimizer-adapter-dbgsym_1.1.16-31-g7bc8da05d-2025.02.14.08.21_amd64.ddeb
+ ff115b3b3e669e3af6d83ff38e0f2f3ef9209ac6 24377 ros-one-moveit-chomp-optimizer-adapter_1.1.16-31-g7bc8da05d-2025.02.14.08.21_amd64.buildinfo
+ b9ad8cd148a17699194d17ccb394afea1a82d7a8 26324 ros-one-moveit-chomp-optimizer-adapter_1.1.16-31-g7bc8da05d-2025.02.14.08.21_amd64.deb
+Checksums-Sha256:
+ 845e1f2f6cd7aaa3c7a34f4f1d9916fca0e836f4bbe6fcf309fffd0d92a92b30 1951150 ros-one-moveit-chomp-optimizer-adapter-dbgsym_1.1.16-31-g7bc8da05d-2025.02.14.08.21_amd64.ddeb
+ b561c4c51f40d65dffdb32167de3e5c8c32c921c180b29d0d4b37192f6aa7d63 24377 ros-one-moveit-chomp-optimizer-adapter_1.1.16-31-g7bc8da05d-2025.02.14.08.21_amd64.buildinfo
+ 9fa80f97ce17789ec79c27522acd71574b78dedb938e29d532d1f3249b37b802 26324 ros-one-moveit-chomp-optimizer-adapter_1.1.16-31-g7bc8da05d-2025.02.14.08.21_amd64.deb
+Files:
+ 111a0f2bc66b154187281f6b84acb197 1951150 debug optional ros-one-moveit-chomp-optimizer-adapter-dbgsym_1.1.16-31-g7bc8da05d-2025.02.14.08.21_amd64.ddeb
+ 08df10c395ed4c23a05921b13912bfe9 24377 misc optional ros-one-moveit-chomp-optimizer-adapter_1.1.16-31-g7bc8da05d-2025.02.14.08.21_amd64.buildinfo
+ 150b246e6710d2e55b5c7f7380646b3d 26324 misc optional ros-one-moveit-chomp-optimizer-adapter_1.1.16-31-g7bc8da05d-2025.02.14.08.21_amd64.deb

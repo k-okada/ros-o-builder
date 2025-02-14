@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 28 Aug 2020 00:00:00 -0000
+Source: ros-one-bondpy
+Binary: ros-one-bondpy
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.8.6-1-g398e8ed-2025.02.14.05.05
+Distribution: noble
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-bondpy - Python implementation of bond, a mechanism for checking when anot
+Changes:
+ ros-one-bondpy (1.8.6-1-g398e8ed-2025.02.14.05.05) noble; urgency=high
+ .
+   * bondpy: Prevent exception in Bond.shutdown() (#62 <https://github.com/ros/bond_core/issues/62>)
+   * Contributors: Martin Pecka
+Checksums-Sha1:
+ a66b3e3dd94e4f00d18c6b54198917b459a876b3 12723 ros-one-bondpy_1.8.6-1-g398e8ed-2025.02.14.05.05_amd64.buildinfo
+ 603d5b8e07efb2e581f1b8b001fed01d919246c7 18218 ros-one-bondpy_1.8.6-1-g398e8ed-2025.02.14.05.05_amd64.deb
+Checksums-Sha256:
+ e8db9400bc3b462c0d2865a7dbe7313b09c6ec5556bf1603df36983a65bd80cb 12723 ros-one-bondpy_1.8.6-1-g398e8ed-2025.02.14.05.05_amd64.buildinfo
+ 1dc3b55d1c5398732d34c83bebe230d59dc01f69b4cfd446469873b409251546 18218 ros-one-bondpy_1.8.6-1-g398e8ed-2025.02.14.05.05_amd64.deb
+Files:
+ d6ce2d840875c0875fb42e37ed6bf408 12723 misc optional ros-one-bondpy_1.8.6-1-g398e8ed-2025.02.14.05.05_amd64.buildinfo
+ cabd49aad4e161861364aaf5bfa5af01 18218 misc optional ros-one-bondpy_1.8.6-1-g398e8ed-2025.02.14.05.05_amd64.deb

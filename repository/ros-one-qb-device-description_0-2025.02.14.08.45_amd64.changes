@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 07 Jun 2024 00:00:00 -0000
+Source: ros-one-qb-device-description
+Binary: ros-one-qb-device-description
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2025.02.14.08.45
+Distribution: noble
+Urgency: high
+Maintainer: qb Support Team <support@qbrobotics.com>
+Changed-By: qb Support Team <support@qbrobotics.com>
+Description:
+ ros-one-qb-device-description - This package contains a device-independent description utilities
+Changes:
+ ros-one-qb-device-description (0-2025.02.14.08.45) noble; urgency=high
+Checksums-Sha1:
+ 853ce1d9aac0d4ab846528ba4757bac1720c1e77 8419 ros-one-qb-device-description_0-2025.02.14.08.45_amd64.buildinfo
+ 060c6324dbc73ffee9cbb314c0e85223e0c95a82 5796 ros-one-qb-device-description_0-2025.02.14.08.45_amd64.deb
+Checksums-Sha256:
+ cdb1673480ed91838a4870e6335a0f874f81730c7045db042fdeaf4a06263068 8419 ros-one-qb-device-description_0-2025.02.14.08.45_amd64.buildinfo
+ e7c6cf14ed029bd0ba100cb88e3a85b0a6c28853cd8ab70f2fb6ac60b85df759 5796 ros-one-qb-device-description_0-2025.02.14.08.45_amd64.deb
+Files:
+ 4db8e4b2e378c7ebf4e145d605506503 8419 misc optional ros-one-qb-device-description_0-2025.02.14.08.45_amd64.buildinfo
+ 80d8e0c853ed9ac92dd88e2e478bf8fa 5796 misc optional ros-one-qb-device-description_0-2025.02.14.08.45_amd64.deb

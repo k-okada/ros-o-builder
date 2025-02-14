@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Mon, 17 Oct 2022 00:00:00 -0000
+Source: ros-one-image-publisher
+Binary: ros-one-image-publisher
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.17.0-11-g69488e6-2025.02.14.06.12
+Distribution: noble
+Urgency: high
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Changed-By: Vincent Rabaud <vincent.rabaud@gmail.com>
+Description:
+ ros-one-image-publisher - Contains a node publish an image stream from single image file or
+Changes:
+ ros-one-image-publisher (1.17.0-11-g69488e6-2025.02.14.06.12) noble; urgency=high
+ .
+   * Switch to hpp headers of pluginlib
+   * Switch to new boost/bind/bind.hpp
+   * Contributors: Jochen Sprickerhof
+Checksums-Sha1:
+ f3b893149127c3e1da90cd3509c6003108638031 1012448 ros-one-image-publisher-dbgsym_1.17.0-11-g69488e6-2025.02.14.06.12_amd64.ddeb
+ 8da6ec8cb2d6a70d1c9a20caf3022aa30e367c8d 33746 ros-one-image-publisher_1.17.0-11-g69488e6-2025.02.14.06.12_amd64.buildinfo
+ 2e4f1cd6f3315964c89f1b840cd3d7d81832802e 75894 ros-one-image-publisher_1.17.0-11-g69488e6-2025.02.14.06.12_amd64.deb
+Checksums-Sha256:
+ 170051d8192f74ee3c5d46214b486679b4ade88a378acf4864578703136ff59d 1012448 ros-one-image-publisher-dbgsym_1.17.0-11-g69488e6-2025.02.14.06.12_amd64.ddeb
+ 6e1d228340381c3ad156558b8f68dcde7036afc19059e9aae3f118d0a3788ecb 33746 ros-one-image-publisher_1.17.0-11-g69488e6-2025.02.14.06.12_amd64.buildinfo
+ a28dd54927283266e1fc0aeb953c028006c07dba45b8963686568b2cd8248fed 75894 ros-one-image-publisher_1.17.0-11-g69488e6-2025.02.14.06.12_amd64.deb
+Files:
+ dbf8cfae6bcb1bef05eb5217c4b758da 1012448 debug optional ros-one-image-publisher-dbgsym_1.17.0-11-g69488e6-2025.02.14.06.12_amd64.ddeb
+ ae5a34f38269a347853abc6e306507ab 33746 misc optional ros-one-image-publisher_1.17.0-11-g69488e6-2025.02.14.06.12_amd64.buildinfo
+ 6af319fceee99228af2e43651aac5e8d 75894 misc optional ros-one-image-publisher_1.17.0-11-g69488e6-2025.02.14.06.12_amd64.deb

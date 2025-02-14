@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Mon, 08 Apr 2024 00:00:00 -0000
+Source: ros-one-ur-kinematics
+Binary: ros-one-ur-kinematics
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.3.3-3-gcce1f0e-2025.02.14.11.58
+Distribution: noble
+Urgency: high
+Maintainer: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-ur-kinematics - Provides forward and inverse kinematics for Universal Robots desi
+Changes:
+ ros-one-ur-kinematics (1.3.3-3-gcce1f0e-2025.02.14.11.58) noble; urgency=high
+ .
+   * Changed include for Boost in ur_kinematics (#675 <https://github.com/ros-industrial/universal_robot/issues/675>)
+   * UR30 description and meshes (#674 <https://github.com/ros-industrial/universal_robot/issues/674>)
+   * Contributors: Vincenzo Di Pentima
+Checksums-Sha1:
+ 348e9238a46cbac8d7a9c1f10327baf312504e28 1769440 ros-one-ur-kinematics-dbgsym_1.3.3-3-gcce1f0e-2025.02.14.11.58_amd64.ddeb
+ 1704861f8380b0bc7cbc2485f92f4405c01caf4e 27862 ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2025.02.14.11.58_amd64.buildinfo
+ b0f6c04303971905c980bed7d2e929acb7a03977 72734 ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2025.02.14.11.58_amd64.deb
+Checksums-Sha256:
+ e80d630c4191a82e1dec89a44b29d7bbe8d8dca62bc368f751bddd5446c0c56b 1769440 ros-one-ur-kinematics-dbgsym_1.3.3-3-gcce1f0e-2025.02.14.11.58_amd64.ddeb
+ 571d00611c79c4ba43013083718dfda5be5fa1b695d88b44a1daccb02991ff04 27862 ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2025.02.14.11.58_amd64.buildinfo
+ 63ce60aec89a8e416e8ce46114339253560e5dd9a47bb87d99da8ecd92aa7b1b 72734 ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2025.02.14.11.58_amd64.deb
+Files:
+ d042afa35bb9d726cd31e34b4a958337 1769440 debug optional ros-one-ur-kinematics-dbgsym_1.3.3-3-gcce1f0e-2025.02.14.11.58_amd64.ddeb
+ d6d7a51384ba4d8587076638bbb80bc6 27862 misc optional ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2025.02.14.11.58_amd64.buildinfo
+ b7b3f9330aaf36cae52f5ff954e77e68 72734 misc optional ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2025.02.14.11.58_amd64.deb

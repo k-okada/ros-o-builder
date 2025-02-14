@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Wed, 12 Feb 2020 00:00:00 -0000
+Source: ros-one-rosconsole-bridge
+Binary: ros-one-rosconsole-bridge
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.5.4-1-g38b0830-2025.02.14.03.57
+Distribution: noble
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-rosconsole-bridge - rosconsole_bridge is a package used in conjunction with console_b
+Changes:
+ ros-one-rosconsole-bridge (0.5.4-1-g38b0830-2025.02.14.03.57) noble; urgency=high
+ .
+   * Bump CMake version to avoid CMP0048 warning (#18 <https://github.com/ros/rosconsole_bridge/issues/18>)
+Checksums-Sha1:
+ 63b948e3ada9ab0e2a6129b6840e752ecb271dde 49098 ros-one-rosconsole-bridge-dbgsym_0.5.4-1-g38b0830-2025.02.14.03.57_amd64.ddeb
+ ea1ef20fafccf44cff6ac88960350769fedc1e13 11311 ros-one-rosconsole-bridge_0.5.4-1-g38b0830-2025.02.14.03.57_amd64.buildinfo
+ 982e3b145c4184d72d0660b1b65d07e271b1527a 12242 ros-one-rosconsole-bridge_0.5.4-1-g38b0830-2025.02.14.03.57_amd64.deb
+Checksums-Sha256:
+ af9ea20e66d6ba223d8ec4012b5998da9c9d7692fcc24328307e6d6d0edb1929 49098 ros-one-rosconsole-bridge-dbgsym_0.5.4-1-g38b0830-2025.02.14.03.57_amd64.ddeb
+ d134ca376dc1702f96394fa3bf4713ca9648f01c0d548ede2543061939c8e0df 11311 ros-one-rosconsole-bridge_0.5.4-1-g38b0830-2025.02.14.03.57_amd64.buildinfo
+ b1c841d290a0fdece8f3bbac93a4050468eb780b9135602b78f3d5921434be6b 12242 ros-one-rosconsole-bridge_0.5.4-1-g38b0830-2025.02.14.03.57_amd64.deb
+Files:
+ 4a0862d683cf96dd6cca1a20e396b00d 49098 debug optional ros-one-rosconsole-bridge-dbgsym_0.5.4-1-g38b0830-2025.02.14.03.57_amd64.ddeb
+ 8bcd0124d09da3ef56f74ccac44fe7ff 11311 misc optional ros-one-rosconsole-bridge_0.5.4-1-g38b0830-2025.02.14.03.57_amd64.buildinfo
+ d680847cc23ff46b8fe47d59dfcf8a41 12242 misc optional ros-one-rosconsole-bridge_0.5.4-1-g38b0830-2025.02.14.03.57_amd64.deb

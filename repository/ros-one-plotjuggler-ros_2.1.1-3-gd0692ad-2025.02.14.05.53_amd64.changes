@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Mon, 19 Feb 2024 00:00:00 -0000
+Source: ros-one-plotjuggler-ros
+Binary: ros-one-plotjuggler-ros
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.1-3-gd0692ad-2025.02.14.05.53
+Distribution: noble
+Urgency: high
+Maintainer: Davide Faconti <davide.faconti@gmail.com>
+Changed-By: Davide Faconti <davide.faconti@gmail.com>
+Description:
+ ros-one-plotjuggler-ros - PlotJuggler plugin for ROS
+Changes:
+ ros-one-plotjuggler-ros (2.1.1-3-gd0692ad-2025.02.14.05.53) noble; urgency=high
+ .
+   * critical bug fix in ROS1 plugins
+   * Contributors: Davide Faconti
+Checksums-Sha1:
+ e8b940dbb3e5a64f96d9a2b3595305f0081d694b 9711220 ros-one-plotjuggler-ros-dbgsym_2.1.1-3-gd0692ad-2025.02.14.05.53_amd64.ddeb
+ 31010cea1c3a896b350cc81ad74a6727678df749 27690 ros-one-plotjuggler-ros_2.1.1-3-gd0692ad-2025.02.14.05.53_amd64.buildinfo
+ 3ab6aaf92762f697f64bf9d112c212902e55bd93 283536 ros-one-plotjuggler-ros_2.1.1-3-gd0692ad-2025.02.14.05.53_amd64.deb
+Checksums-Sha256:
+ b34ebd88100e3fb72d7f68690e6acab4f1fcaea14aad5169f5ac8b258925ebdd 9711220 ros-one-plotjuggler-ros-dbgsym_2.1.1-3-gd0692ad-2025.02.14.05.53_amd64.ddeb
+ b86b3134da58bc0d69e4f01aba4b969bd4fcca28083f00f07ee0554b92df510f 27690 ros-one-plotjuggler-ros_2.1.1-3-gd0692ad-2025.02.14.05.53_amd64.buildinfo
+ 7203825dc5edf2307977b032248ab9e60840404ebeb0f5dc7e1473e9022eb59c 283536 ros-one-plotjuggler-ros_2.1.1-3-gd0692ad-2025.02.14.05.53_amd64.deb
+Files:
+ ca416b34a11e8e99986b7a192d2748a5 9711220 debug optional ros-one-plotjuggler-ros-dbgsym_2.1.1-3-gd0692ad-2025.02.14.05.53_amd64.ddeb
+ d15b1a18d1c735d0756706f3ccee2a6a 27690 misc optional ros-one-plotjuggler-ros_2.1.1-3-gd0692ad-2025.02.14.05.53_amd64.buildinfo
+ 6259323d76d9dfe94c6197b6ff1a5e71 283536 misc optional ros-one-plotjuggler-ros_2.1.1-3-gd0692ad-2025.02.14.05.53_amd64.deb

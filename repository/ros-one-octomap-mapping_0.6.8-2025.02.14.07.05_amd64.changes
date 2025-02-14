@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sun, 24 Mar 2024 00:00:00 -0000
+Source: ros-one-octomap-mapping
+Binary: ros-one-octomap-mapping
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.6.8-2025.02.14.07.05
+Distribution: noble
+Urgency: high
+Maintainer: Wolfgang Merkt <opensource@wolfgangmerkt.com>
+Changed-By: Wolfgang Merkt <opensource@wolfgangmerkt.com>
+Description:
+ ros-one-octomap-mapping - Mapping tools to be used with the OctoMap library, implementing a
+Changes:
+ ros-one-octomap-mapping (0.6.8-2025.02.14.07.05) noble; urgency=high
+Checksums-Sha1:
+ bb89efdbfe1cf0c63875b6a669a3833286b57262 8405 ros-one-octomap-mapping_0.6.8-2025.02.14.07.05_amd64.buildinfo
+ e13ddab0044e15b9b25b700ce7190dd9563b1e3f 2014 ros-one-octomap-mapping_0.6.8-2025.02.14.07.05_amd64.deb
+Checksums-Sha256:
+ aa71f65badbd8456617f0915ed61976d63e2b5ea539d4f02dcc7eb6fa9d43015 8405 ros-one-octomap-mapping_0.6.8-2025.02.14.07.05_amd64.buildinfo
+ f9c3a2bde6065cfa67bc510e572a355f48b0a457433d6bba04f5784aac85a67c 2014 ros-one-octomap-mapping_0.6.8-2025.02.14.07.05_amd64.deb
+Files:
+ e133219f854aabbd91159f9d91f374cd 8405 misc optional ros-one-octomap-mapping_0.6.8-2025.02.14.07.05_amd64.buildinfo
+ 23409886e0791e758b7d45b07c1d5304 2014 misc optional ros-one-octomap-mapping_0.6.8-2025.02.14.07.05_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 02 Oct 2023 00:00:00 -0000
+Source: ros-one-rqt-runtime-monitor
+Binary: ros-one-rqt-runtime-monitor
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.5.10-1-g8cc5884-2025.02.14.06.21
+Distribution: noble
+Urgency: high
+Maintainer: Aaron Blasdel <ablasdel@gmail.com>
+Changed-By: Aaron Blasdel <ablasdel@gmail.com>
+Description:
+ ros-one-rqt-runtime-monitor - rqt_runtime_monitor provides a GUI plugin viewing DiagnosticsArra
+Changes:
+ ros-one-rqt-runtime-monitor (0.5.10-1-g8cc5884-2025.02.14.06.21) noble; urgency=high
+ .
+   * Import setup from setuptools instead of distutils.core
+   * added LICENSE file
+Checksums-Sha1:
+ bab63f9cb9bee2e7f1af9d9ddb882aa4f91de693 8476 ros-one-rqt-runtime-monitor_0.5.10-1-g8cc5884-2025.02.14.06.21_amd64.buildinfo
+ 3073c486ac959ea5d596e4d83964cadb218c6773 18196 ros-one-rqt-runtime-monitor_0.5.10-1-g8cc5884-2025.02.14.06.21_amd64.deb
+Checksums-Sha256:
+ a2b5e5457d56e4b6b26bee74abc38753d7d809b6d4424118d837e86dcecdbb1d 8476 ros-one-rqt-runtime-monitor_0.5.10-1-g8cc5884-2025.02.14.06.21_amd64.buildinfo
+ 54112f0408e8132ce40374c7c9dd7850fc1489aaccd1be000a09959489bbf853 18196 ros-one-rqt-runtime-monitor_0.5.10-1-g8cc5884-2025.02.14.06.21_amd64.deb
+Files:
+ e86b83a1baf460cc1bae58d2ac046cb4 8476 misc optional ros-one-rqt-runtime-monitor_0.5.10-1-g8cc5884-2025.02.14.06.21_amd64.buildinfo
+ 99804d99b23bfa6488d92e76d6f608a6 18196 misc optional ros-one-rqt-runtime-monitor_0.5.10-1-g8cc5884-2025.02.14.06.21_amd64.deb

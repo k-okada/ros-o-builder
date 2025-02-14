@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 24 Jul 2020 00:00:00 -0000
+Source: ros-one-qt-dotgraph
+Binary: ros-one-qt-dotgraph
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.4.2-9-gdc7190f-2025.02.14.04.01
+Distribution: noble
+Urgency: high
+Maintainer: Scott Logan <cottsay@openrobotics.org>
+Changed-By: Scott Logan <cottsay@openrobotics.org>
+Description:
+ ros-one-qt-dotgraph - qt_dotgraph provides helpers to work with dot graphs.
+Changes:
+ ros-one-qt-dotgraph (0.4.2-9-gdc7190f-2025.02.14.04.01) noble; urgency=high
+Checksums-Sha1:
+ 97ada93081eb696e237e538100f910fd6798fed6 8432 ros-one-qt-dotgraph_0.4.2-9-gdc7190f-2025.02.14.04.01_amd64.buildinfo
+ 3a780960ec95eb9d1b9a0348c2e676eac6041aed 30416 ros-one-qt-dotgraph_0.4.2-9-gdc7190f-2025.02.14.04.01_amd64.deb
+Checksums-Sha256:
+ 673e94765aa7bd0cbcff72eef4c42c014b55b638edcb027d2203d92650006b70 8432 ros-one-qt-dotgraph_0.4.2-9-gdc7190f-2025.02.14.04.01_amd64.buildinfo
+ 8c86b6f5f9368fd39c30f5ebc63a2fe2bbdd8be0adb7ba06e78b1f11d3ee437e 30416 ros-one-qt-dotgraph_0.4.2-9-gdc7190f-2025.02.14.04.01_amd64.deb
+Files:
+ 351eb5f3634ce347330453e7ae10ec0b 8432 misc optional ros-one-qt-dotgraph_0.4.2-9-gdc7190f-2025.02.14.04.01_amd64.buildinfo
+ 6df38108d90f4382add741001267cd7b 30416 misc optional ros-one-qt-dotgraph_0.4.2-9-gdc7190f-2025.02.14.04.01_amd64.deb

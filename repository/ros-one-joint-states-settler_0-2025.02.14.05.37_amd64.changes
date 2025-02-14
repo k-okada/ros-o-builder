@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Tue, 11 May 2021 00:00:00 -0000
+Source: ros-one-joint-states-settler
+Binary: ros-one-joint-states-settler
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2025.02.14.05.37
+Distribution: noble
+Urgency: high
+Maintainer: David Feil-Seifer <david.feilseifer@gmail.com>
+Changed-By: David Feil-Seifer <david.feilseifer@gmail.com>
+Description:
+ ros-one-joint-states-settler - Provides a node that reports how long a subset of joints has been
+Changes:
+ ros-one-joint-states-settler (0-2025.02.14.05.37) noble; urgency=high
+ .
+   * Merge pull request #47 <https://github.com/ros-perception/calibration/issues/47> from PR2-prime/noetic-devel
+     Noetic devel
+   * fixes for compiler warnings CMP0048 and CMP0046
+   * update maintainer for most packages; first try at setup for travis testing (#46 <https://github.com/ros-perception/calibration/issues/46>)
+   * Contributors: Dave Feil-Seifer
+Checksums-Sha1:
+ 451207c1927590ba40207ba3186aa2e5694f4529 1362110 ros-one-joint-states-settler-dbgsym_0-2025.02.14.05.37_amd64.ddeb
+ 49b18ddc3ad502c0b07274f7769fbcf549b4e9d3 20041 ros-one-joint-states-settler_0-2025.02.14.05.37_amd64.buildinfo
+ 6cf4e97ae9a64e77ac1b6840476ec28cde4fd8ac 142354 ros-one-joint-states-settler_0-2025.02.14.05.37_amd64.deb
+Checksums-Sha256:
+ 357b0b5d69a352e9ea2ed5dfb0cb97285a077612033fc2f48448421ec45fb50f 1362110 ros-one-joint-states-settler-dbgsym_0-2025.02.14.05.37_amd64.ddeb
+ f87c4d072e24c6bef1da8515302d00cb14eb3b9aebaae7e5e5227563faf4d406 20041 ros-one-joint-states-settler_0-2025.02.14.05.37_amd64.buildinfo
+ 3dec2771cacf7e0ec35d5a0bad2122cf2174ac26c25f1e71a3ba0b034df2819b 142354 ros-one-joint-states-settler_0-2025.02.14.05.37_amd64.deb
+Files:
+ 3b08cc57e623e6a82ae890baa2dcecd2 1362110 debug optional ros-one-joint-states-settler-dbgsym_0-2025.02.14.05.37_amd64.ddeb
+ 92404353bfcfe5c1e54558f42827077d 20041 misc optional ros-one-joint-states-settler_0-2025.02.14.05.37_amd64.buildinfo
+ 01ad78e19660b8659d3fc89b5bad4718 142354 misc optional ros-one-joint-states-settler_0-2025.02.14.05.37_amd64.deb

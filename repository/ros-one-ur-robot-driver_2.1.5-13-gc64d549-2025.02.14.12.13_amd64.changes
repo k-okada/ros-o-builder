@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 17 Jun 2024 00:00:00 -0000
+Source: ros-one-ur-robot-driver
+Binary: ros-one-ur-robot-driver
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.5-13-gc64d549-2025.02.14.12.13
+Distribution: noble
+Urgency: high
+Maintainer: Felix Exner <feex@universal-robots.com>
+Changed-By: Felix Exner <feex@universal-robots.com>
+Description:
+ ros-one-ur-robot-driver - The new driver for Universal Robots UR3, UR5 and UR10 robots with
+Changes:
+ ros-one-ur-robot-driver (2.1.5-13-gc64d549-2025.02.14.12.13) noble; urgency=high
+Checksums-Sha1:
+ d771bc8a7703b9c2ed55f50856380743d3339bd7 9129814 ros-one-ur-robot-driver-dbgsym_2.1.5-13-gc64d549-2025.02.14.12.13_amd64.ddeb
+ c753c8407dd5b75e1e78cab834ba5fa107833666 27332 ros-one-ur-robot-driver_2.1.5-13-gc64d549-2025.02.14.12.13_amd64.buildinfo
+ 8a86237228aeb47006ebb314f29ae97f3c0cc17e 462586 ros-one-ur-robot-driver_2.1.5-13-gc64d549-2025.02.14.12.13_amd64.deb
+Checksums-Sha256:
+ d516d98749bf7d5cd7ff47b6640bf2f30c6e06798519f8a396b6b95a77c6a723 9129814 ros-one-ur-robot-driver-dbgsym_2.1.5-13-gc64d549-2025.02.14.12.13_amd64.ddeb
+ 17525fa380ac11b307a567e8c9c6609ef7f955d58c1277d489403e8297650f1f 27332 ros-one-ur-robot-driver_2.1.5-13-gc64d549-2025.02.14.12.13_amd64.buildinfo
+ 1e583f0f090a2458454dc81f26779d4239d6ae4ccb4df36b25f6298f5ba15987 462586 ros-one-ur-robot-driver_2.1.5-13-gc64d549-2025.02.14.12.13_amd64.deb
+Files:
+ 69c733e263c06eba012fbb3b27622d8b 9129814 debug optional ros-one-ur-robot-driver-dbgsym_2.1.5-13-gc64d549-2025.02.14.12.13_amd64.ddeb
+ 3beada71ba1a621497c479ea9937d1d6 27332 misc optional ros-one-ur-robot-driver_2.1.5-13-gc64d549-2025.02.14.12.13_amd64.buildinfo
+ 5905f5136e40bee1142e77c507911b21 462586 misc optional ros-one-ur-robot-driver_2.1.5-13-gc64d549-2025.02.14.12.13_amd64.deb

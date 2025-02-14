@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 11 Jan 2021 00:00:00 -0000
+Source: ros-one-diagnostic-msgs
+Binary: ros-one-diagnostic-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.13.1-2025.02.14.04.04
+Distribution: noble
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-diagnostic-msgs - This package holds the diagnostic messages which provide the stan
+Changes:
+ ros-one-diagnostic-msgs (1.13.1-2025.02.14.04.04) noble; urgency=high
+ .
+   * Update package maintainers (#168 <https://github.com/ros/common_msgs/issues/168>)
+   * Contributors: Michel Hidalgo
+Checksums-Sha1:
+ 8ed7cceb75c9964ad1dda03e8428158cdf7d7e23 10068 ros-one-diagnostic-msgs_1.13.1-2025.02.14.04.04_amd64.buildinfo
+ 20973095f70b32ff74ae05bfb0e0d8dc2ef57294 35384 ros-one-diagnostic-msgs_1.13.1-2025.02.14.04.04_amd64.deb
+Checksums-Sha256:
+ a502c22337c7cbced019c7b283907e4898423ee68a34c37c2513c6e840dda42e 10068 ros-one-diagnostic-msgs_1.13.1-2025.02.14.04.04_amd64.buildinfo
+ 2e49e796430229072a4f0a371cd62e75a8b02f4c4cbfd58f480fbf348ad48e99 35384 ros-one-diagnostic-msgs_1.13.1-2025.02.14.04.04_amd64.deb
+Files:
+ ca10cb3fc68c41c9b92c6abf5f7a1ec3 10068 misc optional ros-one-diagnostic-msgs_1.13.1-2025.02.14.04.04_amd64.buildinfo
+ 291bec1ed44b7e0f263f4d03e1183310 35384 misc optional ros-one-diagnostic-msgs_1.13.1-2025.02.14.04.04_amd64.deb

@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Wed, 03 Mar 2021 00:00:00 -0000
+Source: ros-one-fingertip-pressure
+Binary: ros-one-fingertip-pressure
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.9.0-5-g80a45bf-2025.02.14.07.54
+Distribution: noble
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-fingertip-pressure - This package provides access to the PR2 fingertip pressure sensor
+Changes:
+ ros-one-fingertip-pressure (1.9.0-5-g80a45bf-2025.02.14.07.54) noble; urgency=high
+ .
+   * Merge pull request #79 <https://github.com/pr2/pr2_ethercat_drivers/issues/79> from k-okada/add_noetic_travis
+   * add queue_size=1000 and use int for list, https://github.com/PR2/pr2_ethercat_drivers/pull/78/commits/aa6f87a6191ee816c181b1548464b9e8b7a060a1 except explicit python3 shban, which catkin_instal_python deal with
+   * use catkin_install_python for python script install
+   * fix for python3/python2 using '2to3 -w -f print .; 2to3 -w -f except .
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 2a550914c1821afaa389fe59a618304ba16c55ce 13410 ros-one-fingertip-pressure_1.9.0-5-g80a45bf-2025.02.14.07.54_amd64.buildinfo
+ 3016b1b460251623289528bb4667af7cad8f4ecc 37218 ros-one-fingertip-pressure_1.9.0-5-g80a45bf-2025.02.14.07.54_amd64.deb
+Checksums-Sha256:
+ 477e093e5329f51d33903c43e23676b8afa74a810fc1d82a662a571d13196c5d 13410 ros-one-fingertip-pressure_1.9.0-5-g80a45bf-2025.02.14.07.54_amd64.buildinfo
+ 6e15ce45d0eec115e615f5c5e58953433b5414bbf61dbd1d913ac735461682b1 37218 ros-one-fingertip-pressure_1.9.0-5-g80a45bf-2025.02.14.07.54_amd64.deb
+Files:
+ 14f5db86c4a471722760aa16a017e8ee 13410 misc optional ros-one-fingertip-pressure_1.9.0-5-g80a45bf-2025.02.14.07.54_amd64.buildinfo
+ 0257e78a3c5b487d7f68258405e5cb5b 37218 misc optional ros-one-fingertip-pressure_1.9.0-5-g80a45bf-2025.02.14.07.54_amd64.deb

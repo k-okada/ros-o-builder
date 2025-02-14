@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 17 Jun 2024 00:00:00 -0000
+Source: ros-one-ur-dashboard-msgs
+Binary: ros-one-ur-dashboard-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.5-13-gc64d549-2025.02.14.12.09
+Distribution: noble
+Urgency: high
+Maintainer: Felix Exner <feex@universal-robots.com>
+Changed-By: Felix Exner <feex@universal-robots.com>
+Description:
+ ros-one-ur-dashboard-msgs - Messages around the UR Dashboard server.
+Changes:
+ ros-one-ur-dashboard-msgs (2.1.5-13-gc64d549-2025.02.14.12.09) noble; urgency=high
+Checksums-Sha1:
+ 890ccd8810f24e79173f5f24e92590e5efc4c0f6 10175 ros-one-ur-dashboard-msgs_2.1.5-13-gc64d549-2025.02.14.12.09_amd64.buildinfo
+ 38f63c6df8368e512ce5a47564d5e421ff04f9d6 76508 ros-one-ur-dashboard-msgs_2.1.5-13-gc64d549-2025.02.14.12.09_amd64.deb
+Checksums-Sha256:
+ 233e87fa83ac5346c06bedab1fc04d6739863f04b41cfbe260124654cd8227d2 10175 ros-one-ur-dashboard-msgs_2.1.5-13-gc64d549-2025.02.14.12.09_amd64.buildinfo
+ 5e05efa61098334639622bc4b4ea008e4c39d5f581e4f65c5fc02f6fdf2d3471 76508 ros-one-ur-dashboard-msgs_2.1.5-13-gc64d549-2025.02.14.12.09_amd64.deb
+Files:
+ 50293b1410456c79e7b894ea7a5f8325 10175 misc optional ros-one-ur-dashboard-msgs_2.1.5-13-gc64d549-2025.02.14.12.09_amd64.buildinfo
+ 85782e5333b552479e7f934ce4c69598 76508 misc optional ros-one-ur-dashboard-msgs_2.1.5-13-gc64d549-2025.02.14.12.09_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros-warehouse
+Binary: ros-one-moveit-ros-warehouse
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-31-g7bc8da05d-2025.02.14.09.21
+Distribution: noble
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-ros-warehouse - Components of MoveIt connecting to MongoDB
+Changes:
+ ros-one-moveit-ros-warehouse (1.1.16-31-g7bc8da05d-2025.02.14.09.21) noble; urgency=high
+Checksums-Sha1:
+ 98242a1d724582cf030bc9d75a0b17f281f9a57e 14848026 ros-one-moveit-ros-warehouse-dbgsym_1.1.16-31-g7bc8da05d-2025.02.14.09.21_amd64.ddeb
+ e407653b6aa63181f86fef6664e8252406f9bfd9 27662 ros-one-moveit-ros-warehouse_1.1.16-31-g7bc8da05d-2025.02.14.09.21_amd64.buildinfo
+ 00223ab045395ab85fa52abab60f36ba3d30c49c 384574 ros-one-moveit-ros-warehouse_1.1.16-31-g7bc8da05d-2025.02.14.09.21_amd64.deb
+Checksums-Sha256:
+ 5de382dd6371708aa2edcd4bec66b649310a541d18f937cc09f1572d86d101ac 14848026 ros-one-moveit-ros-warehouse-dbgsym_1.1.16-31-g7bc8da05d-2025.02.14.09.21_amd64.ddeb
+ 7a8741441d909c4e7a68b525409e16218ef5c1d2f3ebddffe84677d0a74e9fa8 27662 ros-one-moveit-ros-warehouse_1.1.16-31-g7bc8da05d-2025.02.14.09.21_amd64.buildinfo
+ 6f93c0f297910935004ccdba867c5b0ed503f7d23627c3930ce453f6886d6d4d 384574 ros-one-moveit-ros-warehouse_1.1.16-31-g7bc8da05d-2025.02.14.09.21_amd64.deb
+Files:
+ 027d07f77b848a0cb307f6773728cdc9 14848026 debug optional ros-one-moveit-ros-warehouse-dbgsym_1.1.16-31-g7bc8da05d-2025.02.14.09.21_amd64.ddeb
+ 0187fadfbd8e68ad263a2a4eeabbc7a9 27662 misc optional ros-one-moveit-ros-warehouse_1.1.16-31-g7bc8da05d-2025.02.14.09.21_amd64.buildinfo
+ 5d57eef22b504c8f41857d2457fe6fa0 384574 misc optional ros-one-moveit-ros-warehouse_1.1.16-31-g7bc8da05d-2025.02.14.09.21_amd64.deb

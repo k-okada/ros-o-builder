@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Tue, 05 Mar 2024 00:00:00 -0000
+Source: ros-one-py-binding-tools
+Binary: ros-one-py-binding-tools
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.0.0-7-g1ff1cbb-2025.02.14.05.34
+Distribution: noble
+Urgency: high
+Maintainer: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Changed-By: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Description:
+ ros-one-py-binding-tools - Python binding tools for C++
+Changes:
+ ros-one-py-binding-tools (1.0.0-7-g1ff1cbb-2025.02.14.05.34) noble; urgency=high
+ .
+   * Initial release factored out from https://github.com/ros-planning/moveit/pull/2910
+Checksums-Sha1:
+ 136b5cbfbe1f1e29f9118028a0e720e032291071 643566 ros-one-py-binding-tools-dbgsym_1.0.0-7-g1ff1cbb-2025.02.14.05.34_amd64.ddeb
+ 969c4310dfbe87885a7719591ea7911cf1f0d77a 12422 ros-one-py-binding-tools_1.0.0-7-g1ff1cbb-2025.02.14.05.34_amd64.buildinfo
+ f1e7ebbe9bd2c31f87d237b7c4fa0b544ab597e2 114772 ros-one-py-binding-tools_1.0.0-7-g1ff1cbb-2025.02.14.05.34_amd64.deb
+Checksums-Sha256:
+ 92a3ef9d8988761f4d2b5e2d42cb5bba31e93852fc2d3457d7dd015480ba81f0 643566 ros-one-py-binding-tools-dbgsym_1.0.0-7-g1ff1cbb-2025.02.14.05.34_amd64.ddeb
+ afc2c900fc8898857a049881497f9daf60f16462f06df2fab586244d91a86afd 12422 ros-one-py-binding-tools_1.0.0-7-g1ff1cbb-2025.02.14.05.34_amd64.buildinfo
+ 5939545740af469ba028ff31382ed93c2e177ab46b1bb57aeb655203dc98969f 114772 ros-one-py-binding-tools_1.0.0-7-g1ff1cbb-2025.02.14.05.34_amd64.deb
+Files:
+ 974015c0dceff598c30f10fb8754d8ad 643566 debug optional ros-one-py-binding-tools-dbgsym_1.0.0-7-g1ff1cbb-2025.02.14.05.34_amd64.ddeb
+ 7f556b3ab181015cd94db54b1c451218 12422 misc optional ros-one-py-binding-tools_1.0.0-7-g1ff1cbb-2025.02.14.05.34_amd64.buildinfo
+ 3a503a72e3ad0420aeac5c362a707f58 114772 misc optional ros-one-py-binding-tools_1.0.0-7-g1ff1cbb-2025.02.14.05.34_amd64.deb

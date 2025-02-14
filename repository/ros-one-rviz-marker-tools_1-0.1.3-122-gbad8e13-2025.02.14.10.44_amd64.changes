@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 06 Mar 2023 00:00:00 -0000
+Source: ros-one-rviz-marker-tools
+Binary: ros-one-rviz-marker-tools
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1-0.1.3-122-gbad8e13-2025.02.14.10.44
+Distribution: noble
+Urgency: high
+Maintainer: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Changed-By: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Description:
+ ros-one-rviz-marker-tools - Tools for marker creation / handling
+Changes:
+ ros-one-rviz-marker-tools (1-0.1.3-122-gbad8e13-2025.02.14.10.44) noble; urgency=high
+Checksums-Sha1:
+ 0806b713943387a29a63c925b062bb1db9e8f938 491304 ros-one-rviz-marker-tools-dbgsym_1-0.1.3-122-gbad8e13-2025.02.14.10.44_amd64.ddeb
+ d59cc9f3d5baefad4c1a9edffffa85f1143807d7 12183 ros-one-rviz-marker-tools_1-0.1.3-122-gbad8e13-2025.02.14.10.44_amd64.buildinfo
+ 05590d79afe9c5e47471e1ca788e82512c5247ab 14996 ros-one-rviz-marker-tools_1-0.1.3-122-gbad8e13-2025.02.14.10.44_amd64.deb
+Checksums-Sha256:
+ 0ce15ca0627d33dfd069b54323604819a073bfe2d236024a1abb8c0e5bf3d7a8 491304 ros-one-rviz-marker-tools-dbgsym_1-0.1.3-122-gbad8e13-2025.02.14.10.44_amd64.ddeb
+ 1a454cd928fd02dbc9de66583e482c5877c2917c5f4e2344254154b187c7a173 12183 ros-one-rviz-marker-tools_1-0.1.3-122-gbad8e13-2025.02.14.10.44_amd64.buildinfo
+ e620dcc21efc27f7a0f6e9bd050694394730ca45ce49c7a33b7f606a223b6156 14996 ros-one-rviz-marker-tools_1-0.1.3-122-gbad8e13-2025.02.14.10.44_amd64.deb
+Files:
+ a54de0705f0d55fde6c19937b9c6f004 491304 debug optional ros-one-rviz-marker-tools-dbgsym_1-0.1.3-122-gbad8e13-2025.02.14.10.44_amd64.ddeb
+ 9c577ef0c26e43f61d448cb79643bd35 12183 misc optional ros-one-rviz-marker-tools_1-0.1.3-122-gbad8e13-2025.02.14.10.44_amd64.buildinfo
+ 7eac3a58c52e2049c650e6c978abc0c9 14996 misc optional ros-one-rviz-marker-tools_1-0.1.3-122-gbad8e13-2025.02.14.10.44_amd64.deb

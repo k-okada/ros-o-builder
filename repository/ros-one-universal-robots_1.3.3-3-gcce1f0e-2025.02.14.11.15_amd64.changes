@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 08 Apr 2024 00:00:00 -0000
+Source: ros-one-universal-robots
+Binary: ros-one-universal-robots
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.3.3-3-gcce1f0e-2025.02.14.11.15
+Distribution: noble
+Urgency: high
+Maintainer: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-universal-robots - ROS-Industrial support for Universal Robots manipulators (metapac
+Changes:
+ ros-one-universal-robots (1.3.3-3-gcce1f0e-2025.02.14.11.15) noble; urgency=high
+ .
+   * UR30 description and meshes (#674 <https://github.com/ros-industrial/universal_robot/issues/674>)
+   * Contributors: Vincenzo Di Pentima
+Checksums-Sha1:
+ ee508d0d2e8cc8ad39a881c329f1a4ce6336b01e 8454 ros-one-universal-robots_1.3.3-3-gcce1f0e-2025.02.14.11.15_amd64.buildinfo
+ 45f982ff3f17ce5b8601e29c4881bd9923599952 2944 ros-one-universal-robots_1.3.3-3-gcce1f0e-2025.02.14.11.15_amd64.deb
+Checksums-Sha256:
+ c05de1706f3e0d34049b64809669aacf5cb26b43af227ca52652a789903b6b4b 8454 ros-one-universal-robots_1.3.3-3-gcce1f0e-2025.02.14.11.15_amd64.buildinfo
+ 3f58311ad32678069ba6177ca50c32ba758f3745ced4100936270ae3b5ff1950 2944 ros-one-universal-robots_1.3.3-3-gcce1f0e-2025.02.14.11.15_amd64.deb
+Files:
+ 516bcf6e8767a18de64076121608b9a6 8454 misc optional ros-one-universal-robots_1.3.3-3-gcce1f0e-2025.02.14.11.15_amd64.buildinfo
+ d2c44427193d293af521c1c0f9583316 2944 misc optional ros-one-universal-robots_1.3.3-3-gcce1f0e-2025.02.14.11.15_amd64.deb

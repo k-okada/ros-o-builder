@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 22 Jun 2022 00:00:00 -0000
+Source: ros-one-pr2-hardware-interface
+Binary: ros-one-pr2-hardware-interface
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.8.21-7-g3b10e3e-2025.02.14.06.53
+Distribution: noble
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-hardware-interface - This package contains the C++ interfaces to the PR2 hardware comp
+Changes:
+ ros-one-pr2-hardware-interface (1.8.21-7-g3b10e3e-2025.02.14.06.53) noble; urgency=high
+Checksums-Sha1:
+ 78600d44b9081c0542b78a2ad31a3846c020e48c 11401 ros-one-pr2-hardware-interface_1.8.21-7-g3b10e3e-2025.02.14.06.53_amd64.buildinfo
+ 0de77908ea400ba54c21b56fc8ea28cc8bccd3bc 10928 ros-one-pr2-hardware-interface_1.8.21-7-g3b10e3e-2025.02.14.06.53_amd64.deb
+Checksums-Sha256:
+ f79232115098346c9e0b7f5337037b9c3098c0aa93f7f8ad62654d16c54df014 11401 ros-one-pr2-hardware-interface_1.8.21-7-g3b10e3e-2025.02.14.06.53_amd64.buildinfo
+ c002761ff8c19261a442983f5eb8e12abb3acc907ab264361102a6819f95d0cb 10928 ros-one-pr2-hardware-interface_1.8.21-7-g3b10e3e-2025.02.14.06.53_amd64.deb
+Files:
+ c80cc080d413d1d8ff069df4b644c149 11401 misc optional ros-one-pr2-hardware-interface_1.8.21-7-g3b10e3e-2025.02.14.06.53_amd64.buildinfo
+ 874ab5b55af3e230d7a28410943be35f 10928 misc optional ros-one-pr2-hardware-interface_1.8.21-7-g3b10e3e-2025.02.14.06.53_amd64.deb

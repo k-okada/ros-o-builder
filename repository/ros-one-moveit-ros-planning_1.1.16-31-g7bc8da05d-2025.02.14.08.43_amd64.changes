@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros-planning
+Binary: ros-one-moveit-ros-planning
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-31-g7bc8da05d-2025.02.14.08.43
+Distribution: noble
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-ros-planning - Planning components of MoveIt that use ROS
+Changes:
+ ros-one-moveit-ros-planning (1.1.16-31-g7bc8da05d-2025.02.14.08.43) noble; urgency=high
+ .
+   * Allow links to be ignored in PSM updates (#3645 <https://github.com/ros-planning/moveit/issues/3645>)
+   * Contributors: Davide Torielli
+Checksums-Sha1:
+ 1582086c51f90912cc953aff19d6f098355a417c 51931644 ros-one-moveit-ros-planning-dbgsym_1.1.16-31-g7bc8da05d-2025.02.14.08.43_amd64.ddeb
+ 7d120d1d90b55add17440a61743f9ce23b58a974 25472 ros-one-moveit-ros-planning_1.1.16-31-g7bc8da05d-2025.02.14.08.43_amd64.buildinfo
+ 050838793fc59208ced240efaaf55c58cfe7d63c 864018 ros-one-moveit-ros-planning_1.1.16-31-g7bc8da05d-2025.02.14.08.43_amd64.deb
+Checksums-Sha256:
+ c1dd3e03eca589a34d4b2384dfd8a31c8dca279a3e72914a4c8141cd01f00035 51931644 ros-one-moveit-ros-planning-dbgsym_1.1.16-31-g7bc8da05d-2025.02.14.08.43_amd64.ddeb
+ f6ff1b8e15eb77d24cc0002ce09e4d796d46b7670523585b3b1b7a2c8ca5915d 25472 ros-one-moveit-ros-planning_1.1.16-31-g7bc8da05d-2025.02.14.08.43_amd64.buildinfo
+ 345f3dee5c823518015ebd50a19f548e65b19f25ec70c4b05c721119e45fa060 864018 ros-one-moveit-ros-planning_1.1.16-31-g7bc8da05d-2025.02.14.08.43_amd64.deb
+Files:
+ 7ffa9046c8ef3b2c0bfe46f8eb25aa90 51931644 debug optional ros-one-moveit-ros-planning-dbgsym_1.1.16-31-g7bc8da05d-2025.02.14.08.43_amd64.ddeb
+ 30e7523b39dd02532bf2db209e89ad0c 25472 misc optional ros-one-moveit-ros-planning_1.1.16-31-g7bc8da05d-2025.02.14.08.43_amd64.buildinfo
+ 0156e403284ee679ded1a106d96dfa23 864018 misc optional ros-one-moveit-ros-planning_1.1.16-31-g7bc8da05d-2025.02.14.08.43_amd64.deb

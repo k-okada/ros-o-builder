@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 22 May 2024 00:00:00 -0000
+Source: ros-one-position-controllers
+Binary: ros-one-position-controllers
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.22.0-2025.02.14.07.13
+Distribution: noble
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-position-controllers - position_controllers
+Changes:
+ ros-one-position-controllers (0.22.0-2025.02.14.07.13) noble; urgency=high
+Checksums-Sha1:
+ f9dcb3e27c94685f48b18244afeff7333f11a50d 768690 ros-one-position-controllers-dbgsym_0.22.0-2025.02.14.07.13_amd64.ddeb
+ e7d93dd89a286537dbdc34676158e9c0541cc715 15640 ros-one-position-controllers_0.22.0-2025.02.14.07.13_amd64.buildinfo
+ 6dae06c7977cc6ecbcd5b05e8fbd4ca96c40e69e 49752 ros-one-position-controllers_0.22.0-2025.02.14.07.13_amd64.deb
+Checksums-Sha256:
+ ddc1509c9a6044305cea04cbeda5bf24fb1de432a3cae0b6fd56297e7187b273 768690 ros-one-position-controllers-dbgsym_0.22.0-2025.02.14.07.13_amd64.ddeb
+ a3d32e6429f7ba8eafefa9cc3a508c526e8a7ad347f296338219e53c0eb1c970 15640 ros-one-position-controllers_0.22.0-2025.02.14.07.13_amd64.buildinfo
+ ca544df8132e45010a1d5e4fa90ec55f1f3296990e064294b48b0efdab33aa4c 49752 ros-one-position-controllers_0.22.0-2025.02.14.07.13_amd64.deb
+Files:
+ e1c902e906dea6a4992721d082e652ff 768690 debug optional ros-one-position-controllers-dbgsym_0.22.0-2025.02.14.07.13_amd64.ddeb
+ a7f3d89ac42bb144a7fc536ed3e1314c 15640 misc optional ros-one-position-controllers_0.22.0-2025.02.14.07.13_amd64.buildinfo
+ 76909823c39897072202e947565a30df 49752 misc optional ros-one-position-controllers_0.22.0-2025.02.14.07.13_amd64.deb

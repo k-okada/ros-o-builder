@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-planners-chomp
+Binary: ros-one-moveit-planners-chomp
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-31-g7bc8da05d-2025.02.14.09.36
+Distribution: noble
+Urgency: high
+Maintainer: Chittaranjan Srinivas Swaminathan <chitt@live.in>
+Changed-By: Chittaranjan Srinivas Swaminathan <chitt@live.in>
+Description:
+ ros-one-moveit-planners-chomp - The interface for using CHOMP within MoveIt
+Changes:
+ ros-one-moveit-planners-chomp (1.1.16-31-g7bc8da05d-2025.02.14.09.36) noble; urgency=high
+Checksums-Sha1:
+ 7a079412ed544298da8b567be0f31a05cd5a246a 3900610 ros-one-moveit-planners-chomp-dbgsym_1.1.16-31-g7bc8da05d-2025.02.14.09.36_amd64.ddeb
+ 84ef965a81ccf18884fd56eca4c4e6ad91a3c98a 24296 ros-one-moveit-planners-chomp_1.1.16-31-g7bc8da05d-2025.02.14.09.36_amd64.buildinfo
+ 7fa972a932a7109e979431f7bdf53e570a38918d 30724 ros-one-moveit-planners-chomp_1.1.16-31-g7bc8da05d-2025.02.14.09.36_amd64.deb
+Checksums-Sha256:
+ f0950b3e39c43caeb6ff6b9fdea60f93333307107a9d150cb0f18c851711f6a5 3900610 ros-one-moveit-planners-chomp-dbgsym_1.1.16-31-g7bc8da05d-2025.02.14.09.36_amd64.ddeb
+ 1eeea3ba508d79f9419cbaeab0e8de5d7ee935eefed0b015c02fd919fbf5cb86 24296 ros-one-moveit-planners-chomp_1.1.16-31-g7bc8da05d-2025.02.14.09.36_amd64.buildinfo
+ 543d82e131152a20bab2fbb0b5ef4e5fae8002e9072a48156e73962790ed26ed 30724 ros-one-moveit-planners-chomp_1.1.16-31-g7bc8da05d-2025.02.14.09.36_amd64.deb
+Files:
+ 79fb97bd4af311db6550cf8e8bc2ca7f 3900610 debug optional ros-one-moveit-planners-chomp-dbgsym_1.1.16-31-g7bc8da05d-2025.02.14.09.36_amd64.ddeb
+ 7c16ce78ecd70d10caf21005bb150aa5 24296 misc optional ros-one-moveit-planners-chomp_1.1.16-31-g7bc8da05d-2025.02.14.09.36_amd64.buildinfo
+ a065ff24fd5efd43ef5074e1bb82cf26 30724 misc optional ros-one-moveit-planners-chomp_1.1.16-31-g7bc8da05d-2025.02.14.09.36_amd64.deb

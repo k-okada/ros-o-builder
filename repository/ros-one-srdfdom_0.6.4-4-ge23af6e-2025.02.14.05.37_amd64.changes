@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Sat, 13 May 2023 00:00:00 -0000
+Source: ros-one-srdfdom
+Binary: ros-one-srdfdom
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.6.4-4-ge23af6e-2025.02.14.05.37
+Distribution: noble
+Urgency: high
+Maintainer: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Changed-By: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Description:
+ ros-one-srdfdom - Parser for Semantic Robot Description Format (SRDF).
+Changes:
+ ros-one-srdfdom (0.6.4-4-ge23af6e-2025.02.14.05.37) noble; urgency=high
+ .
+   * Allow generic joint properties (#109 <https://github.com/ros-planning/srdfdom/issues/109>, #111 <https://github.com/ros-planning/srdfdom/issues/111>)
+   * Contributors: Scott Chow, Robert Haschke
+Checksums-Sha1:
+ bd3d013aa78b7f88b8d9147ac8517a2241885dbd 709730 ros-one-srdfdom-dbgsym_0.6.4-4-ge23af6e-2025.02.14.05.37_amd64.ddeb
+ 1026a07b52afefba03ac95217c839aa81600e522 20715 ros-one-srdfdom_0.6.4-4-ge23af6e-2025.02.14.05.37_amd64.buildinfo
+ f25383ff4f1fd04c18151efde1c39e8a5564528d 60858 ros-one-srdfdom_0.6.4-4-ge23af6e-2025.02.14.05.37_amd64.deb
+Checksums-Sha256:
+ daf1c58b8e763707ec0f1d6790d20a8baae1c059bd288340c7e348801763338f 709730 ros-one-srdfdom-dbgsym_0.6.4-4-ge23af6e-2025.02.14.05.37_amd64.ddeb
+ 816049c9cdbecc86d47cbf0be21e029390fdab9b3dba45e5bfb4d359931ea41f 20715 ros-one-srdfdom_0.6.4-4-ge23af6e-2025.02.14.05.37_amd64.buildinfo
+ a49f6ea04c4675d6d91f7ea8a74c4a6f08aa48f730dff9b918c8c61ad8c09bf6 60858 ros-one-srdfdom_0.6.4-4-ge23af6e-2025.02.14.05.37_amd64.deb
+Files:
+ bb114f1d215f746f2308dfac97791200 709730 debug optional ros-one-srdfdom-dbgsym_0.6.4-4-ge23af6e-2025.02.14.05.37_amd64.ddeb
+ 93252baafc42f2fe15d75e72f5aad104 20715 misc optional ros-one-srdfdom_0.6.4-4-ge23af6e-2025.02.14.05.37_amd64.buildinfo
+ 7549a2a99fd6faf91d40bf2ed03bfd2c 60858 misc optional ros-one-srdfdom_0.6.4-4-ge23af6e-2025.02.14.05.37_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 07 Jun 2024 00:00:00 -0000
+Source: ros-one-qb-device-srvs
+Binary: ros-one-qb-device-srvs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2025.02.14.08.54
+Distribution: noble
+Urgency: high
+Maintainer: qb Support Team <support@qbrobotics.com>
+Changed-By: qb Support Team <support@qbrobotics.com>
+Description:
+ ros-one-qb-device-srvs - This package contains the device-independent custom ROS services
+Changes:
+ ros-one-qb-device-srvs (0-2025.02.14.08.54) noble; urgency=high
+Checksums-Sha1:
+ 5a5fb0c919785b83f523a3e657be31430218a768 10150 ros-one-qb-device-srvs_0-2025.02.14.08.54_amd64.buildinfo
+ efff47780ab14a6b51ab3830cbdeb73c9a4d37f0 43484 ros-one-qb-device-srvs_0-2025.02.14.08.54_amd64.deb
+Checksums-Sha256:
+ 97732840fb31c579e10252e37761950522187a12ff45dede7d5a78c3d70ed48e 10150 ros-one-qb-device-srvs_0-2025.02.14.08.54_amd64.buildinfo
+ 13683ff8d2f062972111b4c3e1c2671623e9e8393693477884731546fae153b5 43484 ros-one-qb-device-srvs_0-2025.02.14.08.54_amd64.deb
+Files:
+ 51bb51e912f7c211dcc7b36d02d24763 10150 misc optional ros-one-qb-device-srvs_0-2025.02.14.08.54_amd64.buildinfo
+ 18f6670f7abcfaa8079fd487f31104e8 43484 misc optional ros-one-qb-device-srvs_0-2025.02.14.08.54_amd64.deb

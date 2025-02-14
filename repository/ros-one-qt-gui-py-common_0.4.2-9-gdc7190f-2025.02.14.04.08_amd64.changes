@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 24 Jul 2020 00:00:00 -0000
+Source: ros-one-qt-gui-py-common
+Binary: ros-one-qt-gui-py-common
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.4.2-9-gdc7190f-2025.02.14.04.08
+Distribution: noble
+Urgency: high
+Maintainer: Scott Logan <cottsay@openrobotics.org>
+Changed-By: Scott Logan <cottsay@openrobotics.org>
+Description:
+ ros-one-qt-gui-py-common - qt_gui_py_common provides common functionality for GUI plugins wr
+Changes:
+ ros-one-qt-gui-py-common (0.4.2-9-gdc7190f-2025.02.14.04.08) noble; urgency=high
+Checksums-Sha1:
+ bf6a96aa48eafbd95ee39ac38480da6b0240e468 8457 ros-one-qt-gui-py-common_0.4.2-9-gdc7190f-2025.02.14.04.08_amd64.buildinfo
+ d5b5a00d060b5de105b5c29c499bdec3916d517d 17806 ros-one-qt-gui-py-common_0.4.2-9-gdc7190f-2025.02.14.04.08_amd64.deb
+Checksums-Sha256:
+ 4a97383ccfc6ce27af75c5ec96af0a24b2d72bba2e49bdafe60fb58a6193b08b 8457 ros-one-qt-gui-py-common_0.4.2-9-gdc7190f-2025.02.14.04.08_amd64.buildinfo
+ 9e881ade89e644108fd5e1cd1a1242910ef66e8c077468f2b0749aaa60b594ba 17806 ros-one-qt-gui-py-common_0.4.2-9-gdc7190f-2025.02.14.04.08_amd64.deb
+Files:
+ ed2bf155f4f037db8dc7ba34de3dd95f 8457 misc optional ros-one-qt-gui-py-common_0.4.2-9-gdc7190f-2025.02.14.04.08_amd64.buildinfo
+ ea7b2991a90a3697c8fbb33988d06317 17806 misc optional ros-one-qt-gui-py-common_0.4.2-9-gdc7190f-2025.02.14.04.08_amd64.deb

@@ -1,0 +1,24 @@
+[31m[1mCould not resolve rosdep key 'gazebo11' for distro 'noble':[0m
+[31m[1mTry to resolve the problem with rosdep and then continue.[0m
+ROS Distro index file associate with commit '2fd2b2b72edf64c165feb9fd05b051e21b2a10eb'[0m
+New ROS Distro index url: 'https://raw.githubusercontent.com/ros/rosdistro/2fd2b2b72edf64c165feb9fd05b051e21b2a10eb/index-v4.yaml'[0m
+[1m[32m==> [0m[0mGenerating debs for [36mubuntu:noble[0m for package(s) ['gazebo_dev'][0m[0m
+No definition of [gazebo11] for OS version [noble]
+	rosdep key : gazebo11
+	OS name    : ubuntu
+	OS version : noble
+	Data:
+debian:
+		  buster:
+		  - gazebo11
+		gentoo:
+		- =sci-electronics/gazebo-11*
+		nixos:
+		- gazebo_11
+		ubuntu:
+		  focal:
+		  - gazebo11
+		  jammy:
+		  - gazebo
+		
+[31m[1merror: (25, 'Inappropriate ioctl for device')[0m

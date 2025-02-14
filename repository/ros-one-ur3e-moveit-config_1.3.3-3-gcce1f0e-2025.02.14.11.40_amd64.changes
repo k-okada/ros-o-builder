@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 08 Apr 2024 00:00:00 -0000
+Source: ros-one-ur3e-moveit-config
+Binary: ros-one-ur3e-moveit-config
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.3.3-3-gcce1f0e-2025.02.14.11.40
+Distribution: noble
+Urgency: high
+Maintainer: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-ur3e-moveit-config - An automatically generated package with all the configuration and
+Changes:
+ ros-one-ur3e-moveit-config (1.3.3-3-gcce1f0e-2025.02.14.11.40) noble; urgency=high
+Checksums-Sha1:
+ 2262b2e178652113791caab27f925883019cbfb7 8467 ros-one-ur3e-moveit-config_1.3.3-3-gcce1f0e-2025.02.14.11.40_amd64.buildinfo
+ 64b645487d74ec14c1766c2749c1c73cc558e599 16016 ros-one-ur3e-moveit-config_1.3.3-3-gcce1f0e-2025.02.14.11.40_amd64.deb
+Checksums-Sha256:
+ 93742f2d94294d800a3bdc65e281fc60e7ac2a7944c133ad66db6d57149d899b 8467 ros-one-ur3e-moveit-config_1.3.3-3-gcce1f0e-2025.02.14.11.40_amd64.buildinfo
+ e10bc5741ffd1f9ef68858969d25cc4840cfc0f9fab00a5e5508120f0c653d4d 16016 ros-one-ur3e-moveit-config_1.3.3-3-gcce1f0e-2025.02.14.11.40_amd64.deb
+Files:
+ 2c7bbeec12e84b60ba30ab9ba9d81ce4 8467 misc optional ros-one-ur3e-moveit-config_1.3.3-3-gcce1f0e-2025.02.14.11.40_amd64.buildinfo
+ 255cbfa941729a60b9b79c52e396fa7d 16016 misc optional ros-one-ur3e-moveit-config_1.3.3-3-gcce1f0e-2025.02.14.11.40_amd64.deb

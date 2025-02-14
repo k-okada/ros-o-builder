@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Thu, 09 Feb 2023 00:00:00 -0000
+Source: ros-one-pybind11-catkin
+Binary: ros-one-pybind11-catkin
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.10.3-4-gd21b4ff-2025.02.14.02.42
+Distribution: noble
+Urgency: high
+Maintainer: Wolfgang Merkt <wolfgang@robots.ox.ac.uk>
+Changed-By: Wolfgang Merkt <wolfgang@robots.ox.ac.uk>
+Description:
+ ros-one-pybind11-catkin - A package vendoring recent versions of pybind11 and providing ext
+Changes:
+ ros-one-pybind11-catkin (2.10.3-4-gd21b4ff-2025.02.14.02.42) noble; urgency=high
+ .
+   * Ignore DESTDIR for the internal ExternalProject_Add() command (#19 <https://github.com/ipab-slmc/pybind11_catkin/issues/19>)
+   * Update CI from Travis to GitHub Actions
+   * Update pybind11 to version 2.10.3 to support python3.11 (#21 <https://github.com/ipab-slmc/pybind11_catkin/issues/21>)
+   * Update pybind to version 2.6.1 (#13 <https://github.com/ipab-slmc/pybind11_catkin/issues/13>)
+   * Contributors: Henry Schreiner, Hongzhuo Liang, Johannes Meyer, Wolfgang Merkt
+Checksums-Sha1:
+ 6335ce116993c470f1c739c5658265dd6d055aab 8679 ros-one-pybind11-catkin_2.10.3-4-gd21b4ff-2025.02.14.02.42_amd64.buildinfo
+ d1b498afa9174a8d5c30295cccf0d0b3bc01a345 6110 ros-one-pybind11-catkin_2.10.3-4-gd21b4ff-2025.02.14.02.42_amd64.deb
+Checksums-Sha256:
+ cbfebac714a2d76489c5fe35c66d7f7905d3e6c3df47b25cca705e1b98998ec7 8679 ros-one-pybind11-catkin_2.10.3-4-gd21b4ff-2025.02.14.02.42_amd64.buildinfo
+ 2b99a898e1f0ea7b4fbe6fe5a15fd8a086310f080adc1480688ff18218bfbdd5 6110 ros-one-pybind11-catkin_2.10.3-4-gd21b4ff-2025.02.14.02.42_amd64.deb
+Files:
+ 1fef6f63c4418ec40f1492e349f28763 8679 misc optional ros-one-pybind11-catkin_2.10.3-4-gd21b4ff-2025.02.14.02.42_amd64.buildinfo
+ b11a26498aad00bc97d3aae9ab6e4ea3 6110 misc optional ros-one-pybind11-catkin_2.10.3-4-gd21b4ff-2025.02.14.02.42_amd64.deb

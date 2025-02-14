@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 21 Jul 2021 00:00:00 -0000
+Source: ros-one-mk
+Binary: ros-one-mk
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.15.8-3-g136e18e9-2025.02.14.03.35
+Distribution: noble
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-mk - A collection of .mk include files for building ROS architectural
+Changes:
+ ros-one-mk (1.15.8-3-g136e18e9-2025.02.14.03.35) noble; urgency=high
+ .
+   * Update maintainers (#272 <https://github.com/ros/ros/issues/272>)
+   * Contributors: Jacob Perron
+Checksums-Sha1:
+ ffad329a1cea38313d2fc18a0969db9ef0a8eb2f 8392 ros-one-mk_1.15.8-3-g136e18e9-2025.02.14.03.35_amd64.buildinfo
+ 340620955de3ba56789f04000560070a4b4f66b8 9830 ros-one-mk_1.15.8-3-g136e18e9-2025.02.14.03.35_amd64.deb
+Checksums-Sha256:
+ 4361553292f3bf5bb8e88377ee9e545a8521efae62db4943eea40bce1fa3102e 8392 ros-one-mk_1.15.8-3-g136e18e9-2025.02.14.03.35_amd64.buildinfo
+ 1fd160ffeffb8e7808e870fe9ac0091220eb8c83528a04d14b1c119c9bb1d4de 9830 ros-one-mk_1.15.8-3-g136e18e9-2025.02.14.03.35_amd64.deb
+Files:
+ 2028c7c0496b1e8ab50a5e5f327409b0 8392 misc optional ros-one-mk_1.15.8-3-g136e18e9-2025.02.14.03.35_amd64.buildinfo
+ faa0b8df88201fa68d51586763ace5d4 9830 misc optional ros-one-mk_1.15.8-3-g136e18e9-2025.02.14.03.35_amd64.deb

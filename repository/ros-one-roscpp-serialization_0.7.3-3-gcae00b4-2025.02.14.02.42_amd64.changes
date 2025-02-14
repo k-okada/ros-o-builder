@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Thu, 15 Jun 2023 00:00:00 -0000
+Source: ros-one-roscpp-serialization
+Binary: ros-one-roscpp-serialization
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.7.3-3-gcae00b4-2025.02.14.02.42
+Distribution: noble
+Urgency: high
+Maintainer: Martin Pecka <peckama2@fel.cvut.cz>
+Changed-By: Martin Pecka <peckama2@fel.cvut.cz>
+Description:
+ ros-one-roscpp-serialization - roscpp_serialization contains the code for serialization as descr
+Changes:
+ ros-one-roscpp-serialization (0.7.3-3-gcae00b4-2025.02.14.02.42) noble; urgency=high
+ .
+   * Documented the API misuse in serializeServiceResponse
+   * Fixed wrong serialization of messages on ARM with GCC 9.3 and -O3 optimizations
+   * Changed maintainer to Martin Pecka
+   * Fix usage of deprecated std::allocator::rebind (#124 <https://github.com/ros/roscpp_core/issues/124>)
+   * Contributors: Martin Pecka, poggenhans
+Checksums-Sha1:
+ 79669f12d151301aa738f1e9e5e343b3242d52e7 29036 ros-one-roscpp-serialization-dbgsym_0.7.3-3-gcae00b4-2025.02.14.02.42_amd64.ddeb
+ d66bed827b3ebaf03b9cc3825bce921b145934eb 9971 ros-one-roscpp-serialization_0.7.3-3-gcae00b4-2025.02.14.02.42_amd64.buildinfo
+ 1d66d62c023e5e577267916c1ed46ec466c8bad3 13290 ros-one-roscpp-serialization_0.7.3-3-gcae00b4-2025.02.14.02.42_amd64.deb
+Checksums-Sha256:
+ d6f68d0077ee9a9c371ab5bddf2d1de22efea2647e8f52ce01f1b03907dea010 29036 ros-one-roscpp-serialization-dbgsym_0.7.3-3-gcae00b4-2025.02.14.02.42_amd64.ddeb
+ e364cdd07b0686485cbb36e4b40e4d6705883c4cb649f4cd59938ac0b39a3bce 9971 ros-one-roscpp-serialization_0.7.3-3-gcae00b4-2025.02.14.02.42_amd64.buildinfo
+ ce7cfc5c99b480971fb1107db7a5c131c93002e0e8c4744b644d1b6436cd963f 13290 ros-one-roscpp-serialization_0.7.3-3-gcae00b4-2025.02.14.02.42_amd64.deb
+Files:
+ 87bcae2a36b3241ada794b25105726d2 29036 debug optional ros-one-roscpp-serialization-dbgsym_0.7.3-3-gcae00b4-2025.02.14.02.42_amd64.ddeb
+ b77862d466a7422d86ad280d301c5e3e 9971 misc optional ros-one-roscpp-serialization_0.7.3-3-gcae00b4-2025.02.14.02.42_amd64.buildinfo
+ 8fbeef62dbb6aa6edd0474732d28a95d 13290 misc optional ros-one-roscpp-serialization_0.7.3-3-gcae00b4-2025.02.14.02.42_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 15 Jun 2023 00:00:00 -0000
+Source: ros-one-roscpp-traits
+Binary: ros-one-roscpp-traits
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.7.3-3-gcae00b4-2025.02.14.02.41
+Distribution: noble
+Urgency: high
+Maintainer: Martin Pecka <peckama2@fel.cvut.cz>
+Changed-By: Martin Pecka <peckama2@fel.cvut.cz>
+Description:
+ ros-one-roscpp-traits - roscpp_traits contains the message traits code as described in Me
+Changes:
+ ros-one-roscpp-traits (0.7.3-3-gcae00b4-2025.02.14.02.41) noble; urgency=high
+ .
+   * Changed maintainer to Martin Pecka
+   * Contributors: Martin Pecka
+Checksums-Sha1:
+ cb66a4e9ac26029080187a765eaa546934a2b044 8442 ros-one-roscpp-traits_0.7.3-3-gcae00b4-2025.02.14.02.41_amd64.buildinfo
+ 67c0d0b40ddb959c5ef8578f9f31f6bada2d4fb0 10012 ros-one-roscpp-traits_0.7.3-3-gcae00b4-2025.02.14.02.41_amd64.deb
+Checksums-Sha256:
+ 20c29308aa52814de561f330f1a94028d03629b387e4f6cb7f455aebf5466bab 8442 ros-one-roscpp-traits_0.7.3-3-gcae00b4-2025.02.14.02.41_amd64.buildinfo
+ a9c9ff0423d7919f0af6e49fdf7eac3d1a3e6decf0daa6333e4d44cc5fa4d422 10012 ros-one-roscpp-traits_0.7.3-3-gcae00b4-2025.02.14.02.41_amd64.deb
+Files:
+ bcec696c4507562d3c49024bfd48442e 8442 misc optional ros-one-roscpp-traits_0.7.3-3-gcae00b4-2025.02.14.02.41_amd64.buildinfo
+ 849fec594a6d0eafe76a3bf51238d8f5 10012 misc optional ros-one-roscpp-traits_0.7.3-3-gcae00b4-2025.02.14.02.41_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros-planning-interface
+Binary: ros-one-moveit-ros-planning-interface
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-31-g7bc8da05d-2025.02.14.09.30
+Distribution: noble
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-ros-planning-interface - Components of MoveIt that offer simpler interfaces to planning an
+Changes:
+ ros-one-moveit-ros-planning-interface (1.1.16-31-g7bc8da05d-2025.02.14.09.30) noble; urgency=high
+Checksums-Sha1:
+ 23e90024bca3f39dd800fb0941e3ff2bb27dde5a 16246476 ros-one-moveit-ros-planning-interface-dbgsym_1.1.16-31-g7bc8da05d-2025.02.14.09.30_amd64.ddeb
+ 7865636801fcd0de47f378f5dce3c89fada1002b 28343 ros-one-moveit-ros-planning-interface_1.1.16-31-g7bc8da05d-2025.02.14.09.30_amd64.buildinfo
+ 66af4012121fd5c9c382f5977d7605ece2e6f5e2 532246 ros-one-moveit-ros-planning-interface_1.1.16-31-g7bc8da05d-2025.02.14.09.30_amd64.deb
+Checksums-Sha256:
+ 3bcd6b83ca8bb0a6e952606f4809309e08c77da3645ac74fb40cb01a04c03ef3 16246476 ros-one-moveit-ros-planning-interface-dbgsym_1.1.16-31-g7bc8da05d-2025.02.14.09.30_amd64.ddeb
+ e6b3a56ff3b5bb509184cfa190c4fa1bda2e323d5bfbc7d3381474b75975a199 28343 ros-one-moveit-ros-planning-interface_1.1.16-31-g7bc8da05d-2025.02.14.09.30_amd64.buildinfo
+ f2cdb900fef01d10fb2b9b5401323c302549aa957b5a1e91b7b770bac4f34fa4 532246 ros-one-moveit-ros-planning-interface_1.1.16-31-g7bc8da05d-2025.02.14.09.30_amd64.deb
+Files:
+ 79fa1af69bc19149b31f981229265ec9 16246476 debug optional ros-one-moveit-ros-planning-interface-dbgsym_1.1.16-31-g7bc8da05d-2025.02.14.09.30_amd64.ddeb
+ 095f17c2e84e9a8c9c60951e52e22155 28343 misc optional ros-one-moveit-ros-planning-interface_1.1.16-31-g7bc8da05d-2025.02.14.09.30_amd64.buildinfo
+ 9631eacd6ac2080fedb4a0764259f390 532246 misc optional ros-one-moveit-ros-planning-interface_1.1.16-31-g7bc8da05d-2025.02.14.09.30_amd64.deb

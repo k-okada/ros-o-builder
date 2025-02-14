@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 18 Feb 2021 00:00:00 -0000
+Source: ros-one-rqt-bag-plugins
+Binary: ros-one-rqt-bag-plugins
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.5.1-9-gda86846-2025.02.14.07.07
+Distribution: noble
+Urgency: high
+Maintainer: Mabel Zhang <mabel@openrobotics.org>
+Changed-By: Mabel Zhang <mabel@openrobotics.org>
+Description:
+ ros-one-rqt-bag-plugins - rqt_bag provides a GUI plugin for displaying and replaying ROS ba
+Changes:
+ ros-one-rqt-bag-plugins (0.5.1-9-gda86846-2025.02.14.07.07) noble; urgency=high
+Checksums-Sha1:
+ a5f2fa217f9f1acd4a406cf0f2775272d38d2c42 8452 ros-one-rqt-bag-plugins_0.5.1-9-gda86846-2025.02.14.07.07_amd64.buildinfo
+ 75afc3de93fe784eff1597cb89abc82101f7f729 33394 ros-one-rqt-bag-plugins_0.5.1-9-gda86846-2025.02.14.07.07_amd64.deb
+Checksums-Sha256:
+ 29d98893239b7cfeccd9b7bffa2a09de9f6d559c7f877f5e1bd61ce0e2d53e5d 8452 ros-one-rqt-bag-plugins_0.5.1-9-gda86846-2025.02.14.07.07_amd64.buildinfo
+ 60f4c42cb941797a1cd92ca89c7dd75c32e32ff9ed552dd8fb9479cc8b2fef00 33394 ros-one-rqt-bag-plugins_0.5.1-9-gda86846-2025.02.14.07.07_amd64.deb
+Files:
+ f440cc7a3a8a326dc227adb8d1359b78 8452 misc optional ros-one-rqt-bag-plugins_0.5.1-9-gda86846-2025.02.14.07.07_amd64.buildinfo
+ 5dcdebaf90d74a91bc1c27c8d6d680d8 33394 misc optional ros-one-rqt-bag-plugins_0.5.1-9-gda86846-2025.02.14.07.07_amd64.deb

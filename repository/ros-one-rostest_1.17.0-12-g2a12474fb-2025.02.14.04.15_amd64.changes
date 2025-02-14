@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Fri, 13 Sep 2024 00:00:00 -0000
+Source: ros-one-rostest
+Binary: ros-one-rostest
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.17.0-12-g2a12474fb-2025.02.14.04.15
+Distribution: noble
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-rostest - Integration test suite based on roslaunch that is compatible with
+Changes:
+ ros-one-rostest (1.17.0-12-g2a12474fb-2025.02.14.04.15) noble; urgency=high
+ .
+   * Add new rostest utility subscribetest (#2184 <https://github.com/ros/ros_comm/issues/2184>)
+   * Fix use of undelcared variable t_start (#2183 <https://github.com/ros/ros_comm/issues/2183>)
+   * Fix rostest target names when build directory is inside source directory (#2361 <https://github.com/ros/ros_comm/issues/2361>)
+   * Contributors: Kei Okada, Michael Görner
+Checksums-Sha1:
+ 823b8372ef6e0f8c4ec87a5bc6d64e587102a972 10522 ros-one-rostest_1.17.0-12-g2a12474fb-2025.02.14.04.15_amd64.buildinfo
+ 6b91461b1b6df92ce061e0e1aa95798456aad490 36830 ros-one-rostest_1.17.0-12-g2a12474fb-2025.02.14.04.15_amd64.deb
+Checksums-Sha256:
+ cf7d64e5be8f268929d84994cf46321ac0dc469c1d3313eeb86478f593cb2f6a 10522 ros-one-rostest_1.17.0-12-g2a12474fb-2025.02.14.04.15_amd64.buildinfo
+ b2117b654332a19755faa4476571bc4c75298742760046b22ad396ecdf35c734 36830 ros-one-rostest_1.17.0-12-g2a12474fb-2025.02.14.04.15_amd64.deb
+Files:
+ 27fc5ed382b06cfeaf62df6bf27870fc 10522 misc optional ros-one-rostest_1.17.0-12-g2a12474fb-2025.02.14.04.15_amd64.buildinfo
+ 5ccf780ebffa3835901802f5a23a9132 36830 misc optional ros-one-rostest_1.17.0-12-g2a12474fb-2025.02.14.04.15_amd64.deb

@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sun, 25 Oct 2020 00:00:00 -0000
+Source: ros-one-handeye
+Binary: ros-one-handeye
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.1.2-2025.02.14.05.47
+Distribution: noble
+Urgency: high
+Maintainer: Francisco Suarez-Ruiz <fsuarez6@gmail.com>
+Changed-By: Francisco Suarez-Ruiz <fsuarez6@gmail.com>
+Description:
+ ros-one-handeye - The handeye package
+Changes:
+ ros-one-handeye (0.1.2-2025.02.14.05.47) noble; urgency=high
+ .
+   * Add support for ROS noetic and clean up
+   * PR #4: Fix lambda syntax for Python 3 compatability
+   * Contributors: John Stechschulte, fsuarez6
+Checksums-Sha1:
+ d5282a881b6c1266981790ed7642226c28a304f9 10076 ros-one-handeye_0.1.2-2025.02.14.05.47_amd64.buildinfo
+ bc593bc3647ae1c0ac0a64531b30eaed49147773 38626 ros-one-handeye_0.1.2-2025.02.14.05.47_amd64.deb
+Checksums-Sha256:
+ f2428ce422f58b3e510558ed39c0904090c2015e85838e863043f9c54d3ffa6f 10076 ros-one-handeye_0.1.2-2025.02.14.05.47_amd64.buildinfo
+ f9b87313b3156357cbda86996be5d1e7ca5143baf7d8edf3a965f4174a9485d9 38626 ros-one-handeye_0.1.2-2025.02.14.05.47_amd64.deb
+Files:
+ 2324aa8eae8f4bf1c994aabdcd443485 10076 misc optional ros-one-handeye_0.1.2-2025.02.14.05.47_amd64.buildinfo
+ 494b076ddcfe689a01987e82faeaf09f 38626 misc optional ros-one-handeye_0.1.2-2025.02.14.05.47_amd64.deb

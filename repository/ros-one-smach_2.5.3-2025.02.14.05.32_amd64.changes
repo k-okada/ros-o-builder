@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 13 Feb 2025 00:00:00 -0000
+Source: ros-one-smach
+Binary: ros-one-smach
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.5.3-2025.02.14.05.32
+Distribution: noble
+Urgency: high
+Maintainer: Isaac I. Y. Saito <gm130s@gmail.com>
+Changed-By: Isaac I. Y. Saito <gm130s@gmail.com>
+Description:
+ ros-one-smach - SMACH is a task-level architecture for rapidly creating complex r
+Changes:
+ ros-one-smach (2.5.3-2025.02.14.05.32) noble; urgency=high
+ .
+   * Fix Potential fix for preempting a concurrence container while it was already terminating #99 <https://github.com/ros/executive_smach/issues/99>
+   * Fix SyntaxWarning 'is not' when checking for equality  #97 <https://github.com/ros/executive_smach/issues/97>
+   * Fix #92 <https://github.com/ros/executive_smach/issues/92> #107 <https://github.com/ros/executive_smach/issues/107>
+Checksums-Sha1:
+ 760e35af3637ac4e6668bd5f3f482ca6ed9d7455 8358 ros-one-smach_2.5.3-2025.02.14.05.32_amd64.buildinfo
+ 05f7ed448fb09191c322ef7d02da4f66332430f1 48888 ros-one-smach_2.5.3-2025.02.14.05.32_amd64.deb
+Checksums-Sha256:
+ f864d7d82edd3e23dcc0db3b52466dfe5e1859f50d41a9fcaf967ceda57ec4d2 8358 ros-one-smach_2.5.3-2025.02.14.05.32_amd64.buildinfo
+ 4fd85b29d776e15b8a4dac4c3ecce4789abc5f06adc5cfe80d7191e8814aceb7 48888 ros-one-smach_2.5.3-2025.02.14.05.32_amd64.deb
+Files:
+ 5af01ef61aa6148c7d583c5964aef70b 8358 misc optional ros-one-smach_2.5.3-2025.02.14.05.32_amd64.buildinfo
+ a3eae7ce4feebe1a4e74a68d8ef7e963 48888 misc optional ros-one-smach_2.5.3-2025.02.14.05.32_amd64.deb
